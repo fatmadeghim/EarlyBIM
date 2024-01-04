@@ -1,5 +1,5 @@
 # EarlyBIM Building Elements Database
-This database aims to facilitate LCA and LCC analysis for building design during early planning phases. To achieve this goal, generic buidling parts can be defined independently of specific material choices. These general building parts are then connected to enriched LCA and LCC datasets for a variety of specific material choices. This allows the evaluation of a multitude of different material configurations for a building part, thus enabling the user to find the most influential material choices for their projects.
+This database aims to facilitate LCA and LCC analysis for building design during early planning phases. To achieve this goal, generic building parts can be defined independently of specific material choices. These general building parts are then connected to enriched LCA and LCC datasets for a variety of specific material choices. This allows the evaluation of a multitude of different material configurations for a building part, thus enabling the user to find the most influential material choices for their projects.
 
 Please refer to the publication listed below for an extensive explanation of the database's structure and purpose.
 
