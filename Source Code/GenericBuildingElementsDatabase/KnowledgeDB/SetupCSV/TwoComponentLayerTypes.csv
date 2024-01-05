@@ -1,0 +1,15 @@
+Name;Component1;Component2;SeparateReplacement;HasFixedLambda;FixedLambda;CostsByPercentage;
+reinforced concrete;concrete;rebar;FALSE;TRUE;2,5;TRUE;DIN10456
+insulated wood frame;structure-wood;insulation soft;TRUE;FALSE;0;TRUE;
+insulated steel frame;structure-steel;insulation soft;TRUE;FALSE;0;TRUE;uses a correction factor for R calculation (can not be changed in this csv) -> metal/steel has to be component 1! Do not change this name!
+masonry wall;masonry unit;mortar;FALSE;FALSE;0;FALSE;only takes masonry units lambda (this is hardcoded and can not be changed in this csv) -> Masonry unit has to be component 1! Name has to be masonry wall
+ventilation layer metal;substructure-metal;moving air;FALSE;FALSE;0;TRUE;
+ventilation layer wood;substructure-wood;moving air;FALSE;FALSE;0;TRUE;
+insulated wood substructure;substructure-wood;insulation soft;TRUE;FALSE;0;TRUE;
+non-insulated wood substructure;substructure-wood;static air;FALSE;FALSE;0;TRUE;
+non-insulated metal substructure;substructure-metal;static air;FALSE;FALSE;0;TRUE;uses a correction factor for R calculation (can not be changed in this csv) -> metal/steel has to be component 1! Do not change this name!
+insulated steel substructure;substructure-metal;insulation soft;TRUE;FALSE;0;TRUE;see above, do not change this name
+concrete filled block wall;concrete;block;FALSE;FALSE;0;FALSE;
+window-single;transparent-single;frame;FALSE;FALSE;0;FALSE;
+window-double;transparent-double;frame;FALSE;FALSE;0;FALSE;
+window-triple;transparent-triple;frame;FALSE;FALSE;0;FALSE;

@@ -1,0 +1,49 @@
+Id;layer name
+1;boards
+2;block
+3;wall cladding
+4;complete curtain wall
+5;complete interior wall
+6;complete raised floor
+7;complete slab
+8;complete suspended ceiling
+9;complete wall
+10;complete wall core
+11;complete window-double
+12;complete window-single
+13;complete window-triple
+14;concrete
+15;door
+16;EIFS
+17;finish
+18;flooring
+19;frame
+20;glass unit
+21;growing medium
+22;house wrap
+23;insulation hard
+24;insulation soft
+25;light strip
+26;loose fill
+27;masonry unit
+28;mortar
+29;moving air
+30;plaster
+31;raised floor
+32;rebar
+33;screed
+34;separating layer
+35;shutter
+36;skylight
+37;static air
+38;structure-steel
+39;structure-wood
+40;substructure-metal
+41;substructure-wood
+42;transparent-double
+43;transparent-single
+44;transparent-triple
+45;vapour barrier
+46;waterproofing
+47;ceiling cladding
+48;roof cladding

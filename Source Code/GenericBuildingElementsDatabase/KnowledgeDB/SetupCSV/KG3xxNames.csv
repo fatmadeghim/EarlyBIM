@@ -1,0 +1,27 @@
+Id;KG3xxName;ReplacementOrderId;Comment
+1;324;1;
+2;322;3;
+3;325;3;
+4;331A;3;core exterior wall load bearing underground
+5;331B;3;core exterior wall load bearing above terrain
+6;332;3;
+7;335A;1;outer layer exterior wall underground
+8;335B;1;outer layer exterior wall above ground
+9;336;2;
+10;341;3;
+11;342;3;
+12;345;1;
+13;351;3;
+14;353;1;
+15;354;2;
+16;361;3;
+17;363;1;
+18;364;2;
+19;334;4;window
+20;346;3;Elementierte Innenwandkonstruktionen
+21;333;4;Außenstützen
+22;343;4;Innenstützen
+23;344;4;Innenwandöffnungen
+24;362;4;Dachöffnungen
+25;338;3;Elementierte Außenwandkonstruktionen 
+26;337;4;Lichtschutz zur KG330

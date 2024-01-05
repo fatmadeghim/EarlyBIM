@@ -1,0 +1,32 @@
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\Git\dfg-projekt-git-master\Database\GenericBuildingElementsDatabase\KnowledgeDB\bin\Debug\netcoreapp3.1\KnowledgeDB.deps.json
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\Git\dfg-projekt-git-master\Database\GenericBuildingElementsDatabase\KnowledgeDB\bin\Debug\netcoreapp3.1\KnowledgeDB.runtimeconfig.json
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\Git\dfg-projekt-git-master\Database\GenericBuildingElementsDatabase\KnowledgeDB\bin\Debug\netcoreapp3.1\KnowledgeDB.runtimeconfig.dev.json
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\Git\dfg-projekt-git-master\Database\GenericBuildingElementsDatabase\KnowledgeDB\bin\Debug\netcoreapp3.1\KnowledgeDB.dll
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\Git\dfg-projekt-git-master\Database\GenericBuildingElementsDatabase\KnowledgeDB\bin\Debug\netcoreapp3.1\KnowledgeDB.pdb
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\Git\dfg-projekt-git-master\Database\GenericBuildingElementsDatabase\KnowledgeDB\bin\Debug\netcoreapp3.1\SharedDBLibrary.dll
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\Git\dfg-projekt-git-master\Database\GenericBuildingElementsDatabase\KnowledgeDB\bin\Debug\netcoreapp3.1\SharedDBLibrary.pdb
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\Git\dfg-projekt-git-master\Database\GenericBuildingElementsDatabase\KnowledgeDB\obj\Debug\netcoreapp3.1\KnowledgeDB.csproj.AssemblyReference.cache
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\Git\dfg-projekt-git-master\Database\GenericBuildingElementsDatabase\KnowledgeDB\obj\Debug\netcoreapp3.1\KnowledgeDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\Git\dfg-projekt-git-master\Database\GenericBuildingElementsDatabase\KnowledgeDB\obj\Debug\netcoreapp3.1\KnowledgeDB.AssemblyInfoInputs.cache
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\Git\dfg-projekt-git-master\Database\GenericBuildingElementsDatabase\KnowledgeDB\obj\Debug\netcoreapp3.1\KnowledgeDB.AssemblyInfo.cs
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\Git\dfg-projekt-git-master\Database\GenericBuildingElementsDatabase\KnowledgeDB\obj\Debug\netcoreapp3.1\KnowledgeDB.csproj.CoreCompileInputs.cache
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\Git\dfg-projekt-git-master\Database\GenericBuildingElementsDatabase\KnowledgeDB\obj\Debug\netcoreapp3.1\KnowledgeDB.csproj.CopyComplete
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\Git\dfg-projekt-git-master\Database\GenericBuildingElementsDatabase\KnowledgeDB\obj\Debug\netcoreapp3.1\KnowledgeDB.dll
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\Git\dfg-projekt-git-master\Database\GenericBuildingElementsDatabase\KnowledgeDB\obj\Debug\netcoreapp3.1\KnowledgeDB.pdb
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\Git\dfg-projekt-git-master\Database\GenericBuildingElementsDatabase\KnowledgeDB\obj\Debug\netcoreapp3.1\KnowledgeDB.genruntimeconfig.cache
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\KnowledgeDB\bin\Debug\netcoreapp3.1\KnowledgeDB.deps.json
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\KnowledgeDB\bin\Debug\netcoreapp3.1\KnowledgeDB.runtimeconfig.json
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\KnowledgeDB\bin\Debug\netcoreapp3.1\KnowledgeDB.runtimeconfig.dev.json
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\KnowledgeDB\bin\Debug\netcoreapp3.1\KnowledgeDB.dll
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\KnowledgeDB\bin\Debug\netcoreapp3.1\KnowledgeDB.pdb
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\KnowledgeDB\bin\Debug\netcoreapp3.1\SharedDBLibrary.dll
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\KnowledgeDB\bin\Debug\netcoreapp3.1\SharedDBLibrary.pdb
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\KnowledgeDB\obj\Debug\netcoreapp3.1\KnowledgeDB.csproj.AssemblyReference.cache
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\KnowledgeDB\obj\Debug\netcoreapp3.1\KnowledgeDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\KnowledgeDB\obj\Debug\netcoreapp3.1\KnowledgeDB.AssemblyInfoInputs.cache
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\KnowledgeDB\obj\Debug\netcoreapp3.1\KnowledgeDB.AssemblyInfo.cs
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\KnowledgeDB\obj\Debug\netcoreapp3.1\KnowledgeDB.csproj.CoreCompileInputs.cache
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\KnowledgeDB\obj\Debug\netcoreapp3.1\KnowledgeDB.csproj.CopyComplete
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\KnowledgeDB\obj\Debug\netcoreapp3.1\KnowledgeDB.dll
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\KnowledgeDB\obj\Debug\netcoreapp3.1\KnowledgeDB.pdb
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\KnowledgeDB\obj\Debug\netcoreapp3.1\KnowledgeDB.genruntimeconfig.cache

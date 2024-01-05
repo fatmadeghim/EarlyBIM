@@ -1,0 +1,6 @@
+Id;Rsi;Rse;Comment
+1;0,13;0,04;Wärmestrom horizontal für Oberflächen, die mit Luft in Berührung sind (DIN EN ISO 6946, S.24)
+2;0,1;0,04;Wärmestrom aufwärts für Oberflächen, die mit Luft in Berührung sind (DIN EN ISO 6946, S.24)
+3;0,17;0;Bodenplatte (Wärmestrom abwärts nach DIN EN ISO 6946, S.24 und https://www.baunetzwissen.de/bauphysik/fachwissen/waermeschutz/daemmung-erdberuehrter-bauteile-4694693)
+4;0,13;0;unterirdische Außenwände (Wärmestrom horizontal nach DIN EN ISO 6946, S.24 und  https://www.baunetzwissen.de/bauphysik/fachwissen/waermeschutz/daemmung-erdberuehrter-bauteile-4694693)
+5;0;0;Bauteile ohne U-Wert Berechnung oder ohne Rsi/Rse

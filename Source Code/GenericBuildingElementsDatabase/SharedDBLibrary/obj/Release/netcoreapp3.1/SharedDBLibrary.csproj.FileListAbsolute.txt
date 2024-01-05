@@ -1,0 +1,13 @@
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\SharedDBLibrary\bin\Release\netcoreapp3.1\SharedDBLibrary.deps.json
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\SharedDBLibrary\bin\Release\netcoreapp3.1\SharedDBLibrary.runtimeconfig.json
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\SharedDBLibrary\bin\Release\netcoreapp3.1\SharedDBLibrary.runtimeconfig.dev.json
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\SharedDBLibrary\bin\Release\netcoreapp3.1\SharedDBLibrary.dll
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\SharedDBLibrary\bin\Release\netcoreapp3.1\SharedDBLibrary.pdb
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\SharedDBLibrary\obj\Release\netcoreapp3.1\SharedDBLibrary.csproj.AssemblyReference.cache
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\SharedDBLibrary\obj\Release\netcoreapp3.1\SharedDBLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\SharedDBLibrary\obj\Release\netcoreapp3.1\SharedDBLibrary.AssemblyInfoInputs.cache
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\SharedDBLibrary\obj\Release\netcoreapp3.1\SharedDBLibrary.AssemblyInfo.cs
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\SharedDBLibrary\obj\Release\netcoreapp3.1\SharedDBLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\SharedDBLibrary\obj\Release\netcoreapp3.1\SharedDBLibrary.dll
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\SharedDBLibrary\obj\Release\netcoreapp3.1\SharedDBLibrary.pdb
+C:\Users\Abele\Desktop\EarlyBIM\Data Publication\GitOfficial\Source Code\GenericBuildingElementsDatabase\SharedDBLibrary\obj\Release\netcoreapp3.1\SharedDBLibrary.genruntimeconfig.cache

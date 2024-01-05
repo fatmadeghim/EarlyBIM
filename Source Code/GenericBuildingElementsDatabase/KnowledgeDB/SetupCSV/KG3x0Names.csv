@@ -1,0 +1,11 @@
+Id;KG3x0Name;SurfaceRId;Category;Exterior;LoadBearing;AboveGround;Sloped (only relevant for roofs);Comment 
+1;320;3;Base Plate;TRUE;TRUE;FALSE;FALSE;foundation
+2;330A;4;Wall;TRUE;TRUE;FALSE;FALSE;exterior wall, underground, load bearing
+3;330B;1;Wall;TRUE;TRUE;TRUE;FALSE;exterior wall, above terrain, load bearing
+4;330C;1;Wall;TRUE;FALSE;TRUE;FALSE;exterior wall, above terrain, non-load bearing
+5;340A;5;Wall;FALSE;TRUE;TRUE;FALSE;interior wall, load bearing
+6;340B;5;Wall;FALSE;FALSE;TRUE;FALSE;interior wall, non-load bearing
+7;350;5;Ceiling;FALSE;TRUE;TRUE;FALSE;floor
+8;360A;2;Roof;TRUE;TRUE;TRUE;FALSE;roof, flat (<20°)
+9;360B;2;Roof;TRUE;TRUE;TRUE;TRUE;roof, sloped (>20°)
+10;Window;5;Window;TRUE;FALSE;TRUE;FALSE;window
