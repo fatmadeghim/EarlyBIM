@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KnowledgeDbGUI", "KnowledgeDbGUI\KnowledgeDbGUI.csproj", "{68CDDDDA-99BF-4F45-B493-CA0068B54213}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GUIHelpFunctions", "GUIHelpFunction\GUIHelpFunctions.csproj", "{B5C0CB78-6CF5-4AFE-B0C5-A9A09167AFD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68CDDDDA-99BF-4F45-B493-CA0068B54213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68CDDDDA-99BF-4F45-B493-CA0068B54213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68CDDDDA-99BF-4F45-B493-CA0068B54213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68CDDDDA-99BF-4F45-B493-CA0068B54213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5C0CB78-6CF5-4AFE-B0C5-A9A09167AFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C0CB78-6CF5-4AFE-B0C5-A9A09167AFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C0CB78-6CF5-4AFE-B0C5-A9A09167AFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C0CB78-6CF5-4AFE-B0C5-A9A09167AFD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7AB31AE-0CE7-4986-808E-AB44DD32E1D2}
+	EndGlobalSection
+EndGlobal
