@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet version="1.0" href="../../stylesheets/unitgroup2html.xsl" type="text/xsl"?>
+<unitGroupDataSet xmlns="http://lca.jrc.it/ILCD/UnitGroup" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://lca.jrc.it/ILCD/UnitGroup ../../schemas/ILCD_UnitGroupDataSet.xsd" version="1.1">
+  <unitGroupInformation>
+    <dataSetInformation>
+      <common:UUID>1ff9a08c-6fc1-4509-8bcd-a5404c598755</common:UUID>
+      <common:name xml:lang="de">Normvolumen-Einheit</common:name>
+      <classificationInformation>
+        <common:classification name="GaBiCategories" classes="../GaBiCategories.xml">
+          <common:class level="0" classId="27380f43-ce1e-4a26-88d4-88ed91307620">Einheiten</common:class>
+          <common:class level="1" classId="30c118c5-1fb2-4c6d-93e3-5450c9698f1e">Technische Einheiten</common:class>
+        </common:classification>
+      </classificationInformation>
+    </dataSetInformation>
+    <quantitativeReference>
+      <referenceToReferenceUnit>0</referenceToReferenceUnit>
+    </quantitativeReference>
+  </unitGroupInformation>
+  <modellingAndValidation>
+    <complianceDeclarations>
+      <compliance>
+        <common:referenceToComplianceSystem refObjectId="9ba3ac1e-6797-4cc0-afd5-1b8f7bf28c6a" version="03.00.000" type="source data set" uri="../sources/9ba3ac1e-6797-4cc0-afd5-1b8f7bf28c6a.xml">
+          <common:shortDescription xml:lang="de">ILCD compliance 1.1</common:shortDescription>
+        </common:referenceToComplianceSystem>
+        <common:approvalOfOverallCompliance>Fully compliant</common:approvalOfOverallCompliance>
+      </compliance>
+    </complianceDeclarations>
+  </modellingAndValidation>
+  <administrativeInformation>
+    <dataEntryBy>
+      <common:timeStamp>2011-10-31T23:00:00+01:00</common:timeStamp>
+    </dataEntryBy>
+    <publicationAndOwnership>
+      <common:dataSetVersion>27.00.000</common:dataSetVersion>
+    </publicationAndOwnership>
+  </administrativeInformation>
+  <units>
+    <unit dataSetInternalID="0">
+      <name>Nm3</name>
+      <meanValue>1</meanValue>
+    </unit>
+  </units>
+</unitGroupDataSet>

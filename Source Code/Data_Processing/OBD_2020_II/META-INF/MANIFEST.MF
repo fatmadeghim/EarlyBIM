@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+ILCD-Version: 1.1
+Created-By: soda4LCA 5.4.0
+
