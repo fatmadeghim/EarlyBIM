@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>35a13c35-3b24-4ac9-be18-ee4fd3501146</common:UUID>
+                  <common:shortName xml:lang='de'>Lindner Group</common:shortName>
+                  <common:name xml:lang='de'>Lindner Group</common:name>
+                  <contactAddress xml:lang='de'>Bahnhofstraße 29, 94424 Arnstorf, Germany</contactAddress>
+                  <telephone>+49 (0) 8723 20 3682</telephone>
+                  <telefax>+49 (0) 8723 20 2830</telefax>
+                  <email>floorsystems@lindner-group.com</email>
+                  <WWWAddress>www.Lindner-Group.com</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2017-02-14T15:51:57.8195498+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

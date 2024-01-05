@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contactDataSet xmlns="http://lca.jrc.it/ILCD/Common" xmlns:ns2="http://lca.jrc.it/ILCD/Contact" xmlns:ns3="http://lca.jrc.it/ILCD/Flow" xmlns:ns4="http://lca.jrc.it/ILCD/FlowProperty" xmlns:ns5="http://lca.jrc.it/ILCD/Process" xmlns:ns6="http://lca.jrc.it/ILCD/Source" xmlns:ns7="http://lca.jrc.it/ILCD/UnitGroup" xmlns:ns8="http://lca.jrc.it/ILCD/Wrapper" version="1.1">
+    <ns2:contactInformation>
+        <ns2:dataSetInformation>
+            <UUID>296b777e-87ec-4aaf-9687-cd2a537109d9</UUID>
+            <name xml:lang="en">Saint-Gobain Rigips Austria GesmbH</name>
+            <ns2:classificationInformation>
+                <classification>
+                    <class level="0" classId="f8f4ea19-1a9c-45a5-b88f-b40fc161777d">Organisations</class>
+                </classification>
+            </ns2:classificationInformation>
+            <ns2:telephone>+43 (0) 3622/505-0</ns2:telephone>
+            <ns2:telefax>+43 (0) 3622/505-430</ns2:telefax>
+            <ns2:email>rigips.austria@saint-gobain.com</ns2:email>
+            <ns2:WWWAddress>http://www.rigips.at/</ns2:WWWAddress>
+            <ns2:centralContactPoint xml:lang="en">Unterkainisch 24, 8990 Bad Aussee</ns2:centralContactPoint>
+            <ns2:contactDescriptionOrComment xml:lang="en"></ns2:contactDescriptionOrComment>
+        </ns2:dataSetInformation>
+    </ns2:contactInformation>
+    <ns2:administrativeInformation>
+        <ns2:dataEntryBy>
+            <timeStamp>2015-07-16T13:45:23.215+02:00</timeStamp>
+            <referenceToDataSetFormat type="source data set" refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" version="01.01.000" uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40_01.01.000.xml">
+                <shortDescription xml:lang="en">ILCD format</shortDescription>
+            </referenceToDataSetFormat>
+        </ns2:dataEntryBy>
+        <ns2:publicationAndOwnership>
+            <dataSetVersion>00.00.001</dataSetVersion>
+            <permanentDataSetURI>http://openlca.org/ilcd/resource/contacts/296b777e-87ec-4aaf-9687-cd2a537109d9</permanentDataSetURI>
+        </ns2:publicationAndOwnership>
+    </ns2:administrativeInformation>
+</ns2:contactDataSet>

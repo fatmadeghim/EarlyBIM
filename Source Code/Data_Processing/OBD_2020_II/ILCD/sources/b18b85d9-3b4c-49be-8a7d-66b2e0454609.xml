@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/source2html.xsl' type='text/xsl'?>
+            <sourceDataSet xmlns='http://lca.jrc.it/ILCD/Source' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Source ../../schemas/ILCD_SourceDataSet.xsd' version='1.1'>
+              <sourceInformation>
+                <dataSetInformation>
+                  <common:UUID>b18b85d9-3b4c-49be-8a7d-66b2e0454609</common:UUID>
+                  <common:shortName xml:lang='de'>97de.jpg</common:shortName>
+                  <referenceToDigitalFile uri='97de.jpg'/>
+                </dataSetInformation>
+              </sourceInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2017-02-14T14:28:21.2666194+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </sourceDataSet>
+        

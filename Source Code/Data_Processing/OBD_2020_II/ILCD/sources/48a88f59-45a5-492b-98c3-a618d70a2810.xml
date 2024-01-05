@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/source2html.xsl' type='text/xsl'?>
+            <sourceDataSet xmlns='http://lca.jrc.it/ILCD/Source' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Source ../../schemas/ILCD_SourceDataSet.xsd' version='1.1'>
+              <sourceInformation>
+                <dataSetInformation>
+                  <common:UUID>48a88f59-45a5-492b-98c3-a618d70a2810</common:UUID>
+                  <common:shortName xml:lang='de'>PCR-Dokument Bodenbeläge_10606.pdf</common:shortName>
+                  <referenceToDigitalFile uri='Bodenbelaege_10606.pdf'/>
+                </dataSetInformation>
+              </sourceInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2020-03-30T10:14:45.2873376+02:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </sourceDataSet>
+        

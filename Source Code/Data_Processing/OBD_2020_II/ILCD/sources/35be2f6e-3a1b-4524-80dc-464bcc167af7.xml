@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/source2html.xsl' type='text/xsl'?>
+            <sourceDataSet xmlns='http://lca.jrc.it/ILCD/Source' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Source ../../schemas/ILCD_SourceDataSet.xsd' version='1.1'>
+              <sourceInformation>
+                <dataSetInformation>
+                  <common:UUID>35be2f6e-3a1b-4524-80dc-464bcc167af7</common:UUID>
+                  <common:shortName xml:lang='de'>EPD-Dokument Gipsplatte nach DIN EN 520 und DIN 18180.pdf</common:shortName>
+                  <referenceToDigitalFile uri='Gipsplatte_nach_DIN_EN_520_und_DIN_18180.pdf'/>
+                </dataSetInformation>
+              </sourceInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2017-05-15T13:37:15.5452328+02:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </sourceDataSet>
+        

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>cbbd74d5-bbfa-48df-bd4d-346608cb0c7b</common:UUID>
+                  <common:name xml:lang='de'>Kiwa GmbH - TBU</common:name>
+                  <common:shortName xml:lang='de'>Kiwa GmbH - TBU</common:shortName>
+                  <contactAddress xml:lang='de'>Gutenbergstraße  29, 48268 Greven, Germany</contactAddress>
+                  <telephone>+49(0)2571-9872-0</telephone>
+                  <telefax>+49(0)2571-9872-99</telefax>
+                  <email>info@kiwa.de</email>
+                  <WWWAddress>www.kiwa.de</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>28.09.2015</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

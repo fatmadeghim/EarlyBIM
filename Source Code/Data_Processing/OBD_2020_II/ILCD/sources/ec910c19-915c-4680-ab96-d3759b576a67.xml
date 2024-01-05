@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/source2html.xsl' type='text/xsl'?>
+            <sourceDataSet xmlns='http://lca.jrc.it/ILCD/Source' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Source ../../schemas/ILCD_SourceDataSet.xsd' version='1.1'>
+              <sourceInformation>
+                <dataSetInformation>
+                  <common:UUID>ec910c19-915c-4680-ab96-d3759b576a67</common:UUID>
+                  <common:shortName xml:lang='de'>EPD-Dokument Durchschnittlicher Zement D.pdf</common:shortName>
+                  <referenceToDigitalFile uri='Durchschnittlicher_Zement_D.pdf'/>
+                </dataSetInformation>
+              </sourceInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2017-05-17T10:13:46.2997649+02:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </sourceDataSet>
+        

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://iai-uiserv1.iai.kit.edu/EPD/stylesheets/contact2html.xsl"?><contactDataSet xmlns="http://lca.jrc.it/ILCD/Contact"
+                xmlns:common="http://lca.jrc.it/ILCD/Common"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd"
+                version="1.1">
+   <contactInformation>
+      <dataSetInformation>
+         <common:UUID>87042751-47a4-4f56-a1c1-8c56880c97d1</common:UUID>
+         <common:shortName xml:lang="de">InformationsZentrum Beton GmbH</common:shortName>
+         <common:name xml:lang="de">InformationsZentrum Beton GmbH</common:name>
+         <classificationInformation>
+            <common:classification name="GaBiCategories" classes="../GaBiCategories.xml">
+               <common:class level="0" classId="ecc6f37b-3c4e-48a2-843d-0c01cd8f4e8f">Kontakte</common:class>
+               <common:class level="1" classId="dc0407c0-c183-4ad6-9e13-c198470b26e4">Organisationen</common:class>
+            </common:classification>
+         </classificationInformation>
+         <contactAddress>Steinhof 39, 40699 Erkrath</contactAddress>
+      </dataSetInformation>
+   </contactInformation>
+   <administrativeInformation>
+      <dataEntryBy>
+         <common:timeStamp>2014-08-07T11:22:48.097+02:00</common:timeStamp>
+         <common:referenceToDataSetFormat refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" type="source data set"
+                                          uri="../sources/ILCD_Format_a97a0155-0234-4b87-b4ce-a45da52f2a40.xml">
+            <common:shortDescription xml:lang="de">ILCD format 1.1</common:shortDescription>
+         </common:referenceToDataSetFormat>
+      </dataEntryBy>
+      <publicationAndOwnership>
+         <common:dataSetVersion>25.00.000</common:dataSetVersion>
+      </publicationAndOwnership>
+   </administrativeInformation>
+</contactDataSet>

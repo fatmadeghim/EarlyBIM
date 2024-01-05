@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/source2html.xsl' type='text/xsl'?>
+            <sourceDataSet xmlns='http://lca.jrc.it/ILCD/Source' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Source ../../schemas/ILCD_SourceDataSet.xsd' version='1.1'>
+              <sourceInformation>
+                <dataSetInformation>
+                  <common:UUID>a218939e-5812-49eb-bee0-1e6f7d958378</common:UUID>
+                  <common:shortName xml:lang='de'>PCR-Dokument Mineralische Werkmörtel_12344.pdf</common:shortName>
+                  <referenceToDigitalFile uri='Mineralische_Werkmoertel_12344.pdf'/>
+                </dataSetInformation>
+              </sourceInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2020-08-04T10:42:00.5418930+02:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </sourceDataSet>
+        

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>2da43b2d-777d-45c6-ba4b-76c55a616a00</common:UUID>
+                  <common:name xml:lang='de'>SKZ - Das Kunststoff-Zentrum</common:name>
+                  <common:shortName xml:lang='de'>SKZ - Das Kunststoff-Zentrum</common:shortName>
+                  <contactAddress xml:lang='de'>Friedrich-Bergius-Ring 22, 97076 Würzburg, Germany</contactAddress>
+                  <telephone>+49 931 4104-433</telephone>
+                  <telefax>+49 931 4104-707</telefax>
+                  <email>kfe@skz.de</email>
+                  <WWWAddress>www.skz.de</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>30.09.2015</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

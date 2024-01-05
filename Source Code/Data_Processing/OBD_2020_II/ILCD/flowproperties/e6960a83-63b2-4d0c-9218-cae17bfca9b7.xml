@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:flowPropertyDataSet xmlns="http://lca.jrc.it/ILCD/Common" xmlns:ns2="http://lca.jrc.it/ILCD/FlowProperty" xmlns:ns3="http://lca.jrc.it/ILCD/Flow" xmlns:ns4="http://lca.jrc.it/ILCD/Contact" xmlns:ns5="http://lca.jrc.it/ILCD/Process" xmlns:ns6="http://lca.jrc.it/ILCD/Source" xmlns:ns7="http://lca.jrc.it/ILCD/UnitGroup" xmlns:ns8="http://lca.jrc.it/ILCD/Wrapper" version="1.1">
+    <ns2:flowPropertiesInformation>
+        <ns2:dataSetInformation>
+            <UUID>e6960a83-63b2-4d0c-9218-cae17bfca9b7</UUID>
+            <name xml:lang="de">Area*thickness</name>
+            <ns2:classificationInformation>
+                <classification>
+                    <class level="0" classId="87cfd36b-db77-3a88-8c0e-7102ce682690">Technical flow properties</class>
+                </classification>
+            </ns2:classificationInformation>
+            <generalComment xml:lang="de"></generalComment>
+        </ns2:dataSetInformation>
+        <ns2:quantitativeReference>
+            <ns2:referenceToReferenceUnitGroup type="unit group data set" refObjectId="93a60a57-a3c8-18da-a746-0800200c9a66" version="01.00.000" uri="../unitgroups/93a60a57-a3c8-18da-a746-0800200c9a66">
+                <shortDescription xml:lang="de">Units of area</shortDescription>
+            </ns2:referenceToReferenceUnitGroup>
+        </ns2:quantitativeReference>
+    </ns2:flowPropertiesInformation>
+    <ns2:administrativeInformation>
+        <dataEntryBy>
+            <timeStamp>2017-02-10T12:22:48.101+01:00</timeStamp>
+            <referenceToDataSetFormat type="source data set" refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" version="01.01.000" uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40_01.01.000.xml">
+                <shortDescription xml:lang="en">ILCD format</shortDescription>
+            </referenceToDataSetFormat>
+        </dataEntryBy>
+        <publicationAndOwnership>
+            <dataSetVersion>00.00.000</dataSetVersion>
+            <permanentDataSetURI>http://openlca.org/ilcd/resource/flowproperties/e6960a83-63b2-4d0c-9218-cae17bfca9b7</permanentDataSetURI>
+        </publicationAndOwnership>
+    </ns2:administrativeInformation>
+</ns2:flowPropertyDataSet>

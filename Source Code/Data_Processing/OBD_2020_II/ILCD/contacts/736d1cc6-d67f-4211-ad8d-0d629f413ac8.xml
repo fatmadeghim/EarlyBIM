@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<c:contactDataSet xmlns:m="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:s="http://lca.jrc.it/ILCD/Source" xmlns:c="http://lca.jrc.it/ILCD/Contact" xmlns:f="http://lca.jrc.it/ILCD/Flow" xmlns="http://lca.jrc.it/ILCD/Process" xmlns:fp="http://lca.jrc.it/ILCD/FlowProperty" xmlns:u="http://lca.jrc.it/ILCD/UnitGroup" version="1.1">
+    <c:contactInformation>
+        <c:dataSetInformation>
+            <common:UUID>736d1cc6-d67f-4211-ad8d-0d629f413ac8</common:UUID>
+            <common:name xml:lang="de">BVT - Verband Tore</common:name>
+            <common:name xml:lang="en">BVT Verband Tore</common:name>
+            <c:classificationInformation>
+                <common:classification>
+                    <common:class level="0" classId="f8f4ea19-1a9c-45a5-b88f-b40fc161777d">Organisations</common:class>
+                </common:classification>
+            </c:classificationInformation>
+            <c:contactAddress xml:lang="de">An der Pönt 48; 40885 Ratingen</c:contactAddress>
+            <c:WWWAddress>www.bvt-tore.de</c:WWWAddress>
+            <c:contactDescriptionOrComment xml:lang="en">&#xD;
+Der BVT - Verband Tore ist die bundesweite Vereinigung von Torherstellern und Zulieferern für die Torindustrie. Aus dem 1947 wieder gegründeten Metall-Rolltor-Verband hervorgegangen, betreuen wir heute rund 170 überwiegend familiengeführte Unternehmen aus dem industriellen MIttelstand. Aber auch international tätige Industriekonzerne mit ihren deutschen Tochtergesellschaften und Niederlassungen sowie Mitglieder aus dem Ausland ergänzen das Profil unseres Verbandes.</c:contactDescriptionOrComment>
+        </c:dataSetInformation>
+    </c:contactInformation>
+    <c:administrativeInformation>
+        <c:dataEntryBy>
+            <common:timeStamp>2020-02-18T11:09:45.627+01:00</common:timeStamp>
+            <common:referenceToDataSetFormat type="source data set" refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" version="03.00.000" uri="http://lca.jrc.ec.europa.eu/lcainfohub/datasets/ilcd/sources/a97a0155-0234-4b87-b4ce-a45da52f2a40.xml">
+                <common:shortDescription xml:lang="en">ILCD format</common:shortDescription>
+            </common:referenceToDataSetFormat>
+        </c:dataEntryBy>
+        <c:publicationAndOwnership>
+            <common:dataSetVersion>00.00.002</common:dataSetVersion>
+            <common:permanentDataSetURI>http://openlca.org/ilcd/resource/contacts/736d1cc6-d67f-4211-ad8d-0d629f413ac8</common:permanentDataSetURI>
+        </c:publicationAndOwnership>
+    </c:administrativeInformation>
+</c:contactDataSet>

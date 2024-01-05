@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contactDataSet xmlns="http://lca.jrc.it/ILCD/Common" xmlns:ns2="http://lca.jrc.it/ILCD/Contact" xmlns:ns3="http://lca.jrc.it/ILCD/Flow" xmlns:ns4="http://lca.jrc.it/ILCD/FlowProperty" xmlns:ns5="http://lca.jrc.it/ILCD/Process" xmlns:ns6="http://lca.jrc.it/ILCD/Source" xmlns:ns7="http://lca.jrc.it/ILCD/UnitGroup" xmlns:ns8="http://lca.jrc.it/ILCD/Wrapper" version="1.1">
+    <ns2:contactInformation>
+        <ns2:dataSetInformation>
+            <UUID>42398bec-0af8-444e-9221-d40be4c4f553</UUID>
+            <name xml:lang="en">Richter Sarah</name>
+            <ns2:classificationInformation>
+                <classification>
+                    <class level="0" classId="f8f4ea19-1a9c-45a5-b88f-b40fc161777d">Organisations</class>
+                    <class level="1" classId="32ba818b-184f-473a-b504-3233c2decc43">Bau EPD GmbH</class>
+                </classification>
+            </ns2:classificationInformation>
+            <ns2:contactDescriptionOrComment xml:lang="en"></ns2:contactDescriptionOrComment>
+        </ns2:dataSetInformation>
+    </ns2:contactInformation>
+    <ns2:administrativeInformation>
+        <ns2:dataEntryBy>
+            <timeStamp>2015-04-17T14:39:37.591+02:00</timeStamp>
+            <referenceToDataSetFormat type="source data set" refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" version="01.01.000" uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40_01.01.000.xml">
+                <shortDescription xml:lang="en">ILCD format</shortDescription>
+            </referenceToDataSetFormat>
+        </ns2:dataEntryBy>
+        <ns2:publicationAndOwnership>
+            <dataSetVersion>00.00.000</dataSetVersion>
+            <permanentDataSetURI>http://openlca.org/ilcd/resource/contacts/42398bec-0af8-444e-9221-d40be4c4f553</permanentDataSetURI>
+        </ns2:publicationAndOwnership>
+    </ns2:administrativeInformation>
+</ns2:contactDataSet>

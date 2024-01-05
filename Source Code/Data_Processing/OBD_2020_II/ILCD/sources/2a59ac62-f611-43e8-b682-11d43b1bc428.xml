@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet version="1.0" href="../../stylesheets/source2html.xsl" type="text/xsl"?>
+<sourceDataSet xmlns="http://lca.jrc.it/ILCD/Source" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://lca.jrc.it/ILCD/Source ../../schemas/ILCD_SourceDataSet.xsd" version="1.1">
+  <sourceInformation>
+    <dataSetInformation>
+      <common:UUID>2a59ac62-f611-43e8-b682-11d43b1bc428</common:UUID>
+      <common:shortName xml:lang="en">MÜHLENDORF 2008</common:shortName>
+      <classificationInformation>
+        <common:classification name="GaBiCategories" classes="../GaBiCategories.xml">
+          <common:class level="0" classId="a5661b37-c582-440c-943f-267ef944dcd5">Reference, Citation</common:class>
+          <common:class level="1" classId="e4cd07b2-68a5-4c93-8f26-dac1ca39d64c">General information source</common:class>
+        </common:classification>
+      </classificationInformation>
+      <sourceCitation>Mühlenhof GmbH: Flüssiggastanks, Knorrendorf, 2008</sourceCitation>
+      <publicationType>Undefined</publicationType>
+      <sourceDescriptionOrComment xml:lang="en">http://www.muehlenhof-gmbh.de/pdf/</sourceDescriptionOrComment>
+    </dataSetInformation>
+  </sourceInformation>
+  <administrativeInformation>
+    <dataEntryBy>
+      <common:timeStamp>2011-10-31T23:00:00+01:00</common:timeStamp>
+      <common:referenceToDataSetFormat refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" version="03.00.000" type="source data set" uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40.xml">
+        <common:shortDescription xml:lang="en">ILCD format 1.1</common:shortDescription>
+      </common:referenceToDataSetFormat>
+      <common:referenceToDataSetFormat refObjectId="cba73800-7874-11e3-981f-0800200c9a66" version="02.00.000" type="source data set" uri="../sources/cba73800-7874-11e3-981f-0800200c9a66.xml">
+        <common:shortDescription xml:lang="en">EPD Data Format Extensions</common:shortDescription>
+      </common:referenceToDataSetFormat>
+    </dataEntryBy>
+    <publicationAndOwnership>
+      <common:dataSetVersion>39.00.000</common:dataSetVersion>
+    </publicationAndOwnership>
+  </administrativeInformation>
+</sourceDataSet>

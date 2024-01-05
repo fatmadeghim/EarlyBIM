@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>86642c3f-c4f6-42f9-bca9-609227beae5b</common:UUID>
+                  <common:name xml:lang='de'>WOLFIN Bautechnik GmbH</common:name>
+                  <common:shortName xml:lang='de'>WOLFIN Bautechnik GmbH</common:shortName>
+                  <contactAddress xml:lang='de'>Am Rosengarten 5, 63607 Wächtersbach, Germany</contactAddress>
+                  <telephone>+49 6053 708-112</telephone>
+                  <telefax>+49 6053 708-151</telefax>
+                  <email>technik@wolfin.com</email>
+                  <WWWAddress>www.wolfin.de</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>15.07.2015</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

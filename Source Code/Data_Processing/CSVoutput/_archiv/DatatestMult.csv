@@ -1,0 +1,3 @@
+﻿UUID;Version;Kategorie;Typ;Bezugsgroesse;Bezugseinheit;Referenzfluss-UUID;Referenzfluss-Name;Flaechengewicht (kg/m2);Rohdichte (kg/m3);Schichtdicke (m);Ergiebigkeit (m2);Laengengewicht (kg/m);Umrechungsfaktor auf 1kg;Modul;GWP;ODP;PENRE;Modul;GWP;ODP;PENRE
+d601d54e-a2eb-42bb-b32b-c59d1b2332a9;00.04.000;Dämmstoffe / Holzfasern / Holzfaserdämmplatte;average dataset;1;m3;c452761e-9dfe-257a-9b97-1d707e76c11f;1 m³ Holzfaserdämmstoff;;200;0.01;;;0,00635;A3;1;1000;0;A3;1;1000;0
+UUIDtest;AnotherVersion;Dämmstoffe / Holzfasern / Holzfaserdämmplatte;average dataset;1;m3;c452761e-9dfe-257a-9b97-1d707e76c11f;1 m³ Holzfaserdämmstoff;;200;0.01;;;0,00635;A3;3;1;2

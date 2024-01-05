@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>87330b3c-3971-4e45-b1c8-1dc85dcf2319</common:UUID>
+                  <common:shortName xml:lang='de'>STIA Holzindustrie GmbH</common:shortName>
+                  <common:name xml:lang='de'>STIA Holzindustrie GmbH</common:name>
+                  <contactAddress xml:lang='de'>Sägestraße 539, 8911 Admont, Austria</contactAddress>
+                  <telephone>+43 3613 3350 0</telephone>
+                  <telefax>+43 3613 3350 117</telefax>
+                  <email>info@admonter.at</email>
+                  <WWWAddress>www.admonter.at</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2017-02-14T16:49:45.5668936+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

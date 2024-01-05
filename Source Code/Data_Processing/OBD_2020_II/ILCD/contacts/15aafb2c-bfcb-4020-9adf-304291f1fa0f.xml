@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>15aafb2c-bfcb-4020-9adf-304291f1fa0f</common:UUID>
+                  <common:shortName xml:lang='de'>H. Klostermann GmbH &amp; Co. KG Betonwerke</common:shortName>
+                  <common:name xml:lang='de'>H. Klostermann GmbH &amp; Co. KG Betonwerke</common:name>
+                  <contactAddress xml:lang='de'>Am Wasserturm 20, 48635 Coesfeld, Germany</contactAddress>
+                  <telephone>025 417 490</telephone>
+                  <telefax>025 417 49 49</telefax>
+                  <email>info@klostermann-beton.de</email>
+                  <WWWAddress>www.klostermann-beton.de</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2018-02-06T10:39:36.3107353+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>ee64fb5e-b849-4575-a929-9deca045e1f5</common:UUID>
+                  <common:shortName xml:lang='de'>GODELMANN GmbH &amp; Co. KG</common:shortName>
+                  <common:name xml:lang='de'>GODELMANN GmbH &amp; Co. KG</common:name>
+                  <contactAddress xml:lang='de'>Industriestraße  1, 92269 Fensterbach, Germany</contactAddress>
+                  <telephone>0 94 38/94 04 -0</telephone>
+                  <telefax>0 94 38/94 04 -70</telefax>
+                  <email>info@godelmann.de</email>
+                  <WWWAddress>www.godelmann.de</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2019-08-22T14:30:11.8769830+02:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

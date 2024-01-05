@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<processDataSet xmlns:epd="http://www.iai.kit.edu/EPD/2013" xmlns:common="http://lca.jrc.it/ILCD/Common" xsi:schemaLocation="http://lca.jrc.it/ILCD/Process ../../schemas/EPD_DataSet.xsd" version="1.1" locations="../ILCDLocations.xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://lca.jrc.it/ILCD/Process">
+<processInformation>
+<dataSetInformation>
+<common:UUID>feeadb82-cc5e-432e-9289-ffadda1f02e1</common:UUID>
+<name>
+<baseName xml:lang="de">Innenverzinnte Kupfer-Hausinstallationsrohre</baseName>
+<functionalUnitFlowProperties xml:lang="de" />
+</name>
+<classificationInformation>
+<common:classification name="OEKOBAU.DAT">
+<common:class level="0" classId="4">Metalle</common:class>
+<common:class level="1" classId="4.4">Kupfer</common:class>
+<common:class level="2" classId="4.4.02">Kupferrohre</common:class>
+</common:classification>
+<common:classification name="IBUCategories">
+<common:class level="0">02 Bauprodukte</common:class>
+<common:class level="1">Metallbauprodukte und Zubehör</common:class>
+<common:class level="2">Metallrohre für Hausinstallationen</common:class>
+</common:classification>
+</classificationInformation>
+<common:generalComment xml:lang="de">Dieses Dokument bezieht sich auf innenverzinnte Markenkupferrohre für Hausinstallationen. Für die Herstellung von Installationsrohren wird Kupfer der sauerstofffreien Qualität Cu-DHP nach /DIN EN1057/ eingesetzt. Bei Cu-DHP handelt es sich um desoxidiertes Kupfer mit begrenzt hohem Phosphorgehalt (maximal 0,04%), welches sich durch seine sehr gute Schweiß- und Lötbarkeit auszeichnet. Der Reinheitsgrad beträgt mindestens 99,90% Kupfer. Folgende Marke wird von Wieland angeboten: COPATIN® innenverzinntes Kupferrohr   Die Masse der Rohre ist in kg deklariert.  Zur Umrechnung sind das Gewicht, und für eine mögliche spätere Berechnung von Wärmeverlusten der Installation die Außenfläche des Rohres pro Meter unter Lieferzustand/ Eigenschaften angegeben.Basis für die Berechnung der Ergebnisse sind die jeweils angegebenen produzierten Jahresmengen innenverzinnter Kupferrohre. Die Ergebnisse basieren dabei auf gemittelten Werten, die sich anhand der Jahresproduktionsmengen zusammensetzen.Die Umweltdeklaration bezieht sich auf 1kg Rohr in durchschnittlicher Länge und Wandstärke.</common:generalComment>
+</dataSetInformation>
+<quantitativeReference>
+<referenceToReferenceFlow>0</referenceToReferenceFlow>
+</quantitativeReference>
+<time>
+<common:referenceYear>2015</common:referenceYear>
+<common:dataSetValidUntil>2020</common:dataSetValidUntil>
+</time>
+<geography>
+<locationOfOperationSupplyOrProduction location="DE" />
+</geography>
+<technology>
+<technologyDescriptionAndIncludedProcesses xml:lang="de">Wieland-Markenkupferrohre mit Innenverzinnung: Fertigung von blanken Markenkupferrohren In der ersten Stufe der Kupferrohrproduktion wird aus dem Rundbolzen ein Vorrohr hergestellt. Dieses Vorrohr wird durch Warmumformen bei ca. 950° C in einer direkt arbeitenden Presse hergestellt (Abbildung 1). Abbildung 1: Rohrpressverfahren Dem Warmumformschritt im High-Ratio-Verfahren folgt als nächste Stufe die Kaltverformung durch Ziehen mit fliegendem Dorn. Abbildung 2 zeigt die schematische Darstellung dieser Umformprozesse. Abbildung 2: Schema der Fertigung von blanken Kupferrohren für die Innenverzinnung Die Arbeitsschritte zum abschließenden Fertigrohr erfolgen in mehreren Stufen jeweils durch Kaltziehen in Ziehmaschinen. Im Unterschied zur Warmverformung wird dabei mit einem „fliegenden Dorn“ (Mandrille) gearbeitet. Abbildung 3 zeigt in einer Querschnittzeichnung das Prinzip des „fliegenden Dorns“. Abbildung 3: Prinzip des fliegenden Dorns Der jeweilige Außendurchmesser wird durch die Matrize vorgegeben, während die so genannte Mandrille den Innendurchmesser bestimmt. Im Verlauf der weiteren Verarbeitung werden innenverzinnte Wieland-Kupferrohre für die Haustechnik in zwei unterschiedlichen Festigkeitsstufen hergestellt, welche jeweils spezifische Vorteile für die Verarbeitung bieten. Es sind dies die Festigkeiten hart (R 290) und weich (R 220). Als Kennwert ist die minimale Zugfestigkeit Rm in MPa (N/mm2) angegeben. Die Zugfestigkeit von Kupfer wird beim Kaltverformen erhöht und kann durch Erwärmen wieder auf den Ausgangszustand nach der ersten Warmumformung vermindert werden. Somit können weiche Festigkeiten durch Zwischenglühen gezielt eingestellt werden. Harte Rohre durchlaufen keine weitere Glühstufe. Zur chemischen Verzinnung werden die blanken Rohre in einer speziellen Verzinnungsanlage den notwendigen Behandlungsschritten unterzogen und danach konfektioniert. Gütesicherung Eigenüberwachung durch den Hersteller mit Qualitätsmanagementsystem nach /DIN EN ISO 9001/ sowie Fremdüberwachung durch Gütegemeinschaft Kupferrohre e.V., DVGW und andere nationale europäische Überwachungsinstitutionen, wie KIWA, CSTB, etc. 
+Technische Daten: 
+Prüfnormen/Produktnormen/Zulassungen: /DIN EN 1057/, /DVGW - GW 392/, /RAL-Gütezeichen der Gütegemeinschaft Kupferrohre / 
+Deklarierte Einheit: 
+Die Deklaration bezieht sich auf die Herstellung von und das Recycling von einem Kilogramm Kupferrohr (innenverzinnt).  Tabelle 3: Überblick zu den Produktgruppen, Firmennamen, Produktionsstätten und Art der DurchschnittsbildungDer Durchschnitt wurde auf Basis der jährlichen Produktionsmenge gebildet.</technologyDescriptionAndIncludedProcesses>
+<technologicalApplicability xml:lang="de">Die Einsatzzwecke der deklarierten Markenkupferrohre sind Transport von:Trinkwasser kalt, warm, ZirkulationRegenwasser Grauwasser Gas und Flüssiggas</technologicalApplicability>
+<referenceToTechnologyFlowDiagrammOrPicture uri="../sources/0d1975bb-cfc2-4f44-8731-519a31e71ff5.xml" type="source data set" refObjectId="0d1975bb-cfc2-4f44-8731-519a31e71ff5">
+<common:shortDescription xml:lang="de">Verzinnt Standorte.jpg</common:shortDescription>
+</referenceToTechnologyFlowDiagrammOrPicture>
+<referenceToTechnologyFlowDiagrammOrPicture uri="../sources/870cc26b-73e9-4c67-99a2-76f6d443f69a.xml" type="source data set" refObjectId="870cc26b-73e9-4c67-99a2-76f6d443f69a">
+<common:shortDescription xml:lang="de">Bautechnische Daten</common:shortDescription>
+</referenceToTechnologyFlowDiagrammOrPicture>
+<referenceToTechnologyFlowDiagrammOrPicture uri="../sources/0cf55a64-5aeb-4902-a30e-cf1087d878f7.xml" type="source data set" refObjectId="0cf55a64-5aeb-4902-a30e-cf1087d878f7">
+<common:shortDescription xml:lang="de">Deklarierte Einheit</common:shortDescription>
+</referenceToTechnologyFlowDiagrammOrPicture>
+</technology>
+</processInformation>
+<modellingAndValidation>
+<LCIMethodAndAllocation>
+<typeOfDataSet>EPD</typeOfDataSet>
+<referenceToLCAMethodDetails type="source data set" refObjectId="a96d64ba-071a-4cf8-a80f-9a371c305968">
+<common:shortDescription xml:lang="de">Metallrohre für Hausinstallationen.pdf</common:shortDescription>
+</referenceToLCAMethodDetails>
+<common:other>
+<epd:subType xmlns="http://www.iai.kit.edu/EPD/2013">average dataset</epd:subType>
+</common:other>
+</LCIMethodAndAllocation>
+<dataSourcesTreatmentAndRepresentativeness>
+<referenceToDataSource type="source data set" refObjectId="33417033-c11f-428b-aa75-6c66ee21efb0">
+<common:shortDescription xml:lang="de">Innenverzinnte Kupfer-Hausinstallationsrohre.pdf</common:shortDescription>
+</referenceToDataSource>
+<referenceToDataSource type="source data set" refObjectId="28d74cc0-db8b-4d7e-bc44-5f6d56ce0c4a">
+<common:shortDescription xml:lang="de">GaBi Database (all versions)</common:shortDescription>
+</referenceToDataSource>
+<referenceToDataSource type="source data set" refObjectId="9422129a-7992-4eaf-aa17-0fca36af4512">
+<common:shortDescription xml:lang="de">GaBi database SP27 2015</common:shortDescription>
+</referenceToDataSource>
+<useAdviceForDataSet xml:lang="de">Gültigkeitsbereich: 
+Die vorliegende EPD ist eine Durchschnitts-EPD.Die für die Berechnung der Ökobilanz verwendeten Werte stammen von zwei Herstellern. Die Produktionsstandorte sind Osnabrück und Ulm. 
+Systemgrenze: 
+Die Lebenszyklusanalyse für die Herstellung der betrachteten Kupferrohre umfasst die Lebenswegabschnitte „von der Wiege bis zum Werkstor&quot; (cradle to gate) mit Option. Produktionsstadium Module A1-A3 betrachtet: Die Bereitstellung von Rohmaterialen, Hilfsstoffen und Energien, Transport von Rohmaterialien und Hilfsstoffen Herstellprozess im Werk inklusive energetischen Aufwendungen, Herstellung von Hilfsstoffen, Entsorgung von anfallenden Reststoffen und der Berücksichtigung von auftretenden Werksemissionen. Kreislaufführung von Produktionsschrotten. Module C4 beinhaltet die Emissionen im End-of-Life bei der Verbrennung und Deponierung. Für Kupferschrott wird angenommen, dass der &quot;end-of-waste&quot; Status nach dem Sortieren und Schreddern beim Abriss oder in den Abfallbehandlungsanlagen erreicht ist. In Modul D werden Wiederverwendung und Recycling von Kupferschrott auf Basis der Netto-Schrottmenge im End-of-Life betrachtet.</useAdviceForDataSet>
+</dataSourcesTreatmentAndRepresentativeness>
+<validation>
+<review type="Accredited third party review">
+<common:referenceToNameOfReviewerAndInstitution uri="../contacts/d111dbec-b024-4be5-86c5-752d6eb2cf95.xml" type="contact data set" refObjectId="d111dbec-b024-4be5-86c5-752d6eb2cf95">
+<common:shortDescription xml:lang="de">IBU</common:shortDescription>
+</common:referenceToNameOfReviewerAndInstitution>
+<common:referenceToCompleteReviewReport type="source data set" />
+</review>
+</validation>
+<complianceDeclarations>
+<compliance>
+<common:referenceToComplianceSystem uri="../sources/b00f9ec0-7874-11e3-981f-0800200c9a66.xml" type="source data set" refObjectId="b00f9ec0-7874-11e3-981f-0800200c9a66">
+<common:shortDescription xml:lang="de">DIN EN 15804</common:shortDescription>
+</common:referenceToComplianceSystem>
+</compliance>
+<compliance>
+<common:referenceToComplianceSystem type="source data set">
+<common:shortDescription xml:lang="de">ISO 14025</common:shortDescription>
+</common:referenceToComplianceSystem>
+</compliance>
+</complianceDeclarations>
+</modellingAndValidation>
+<administrativeInformation>
+<dataEntryBy>
+<common:timeStamp>2015-04-02T00:00:00</common:timeStamp>
+<common:referenceToDataSetFormat uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40.xml" type="source data set" refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40">
+<common:shortDescription xml:lang="de">ILCD Format 1.1</common:shortDescription>
+</common:referenceToDataSetFormat>
+<common:referenceToDataSetFormat uri="../sources/cba73800-7874-11e3-981f-0800200c9a66.xml" type="source data set" refObjectId="cba73800-7874-11e3-981f-0800200c9a66">
+<common:shortDescription xml:lang="de">EPD-Datenformaterweiterungen</common:shortDescription>
+</common:referenceToDataSetFormat>
+<common:referenceToPersonOrEntityEnteringTheData uri="../contacts/623edf96-39d1-4e6f-9892-674c7228546b.xml" type="contact data set" refObjectId="623edf96-39d1-4e6f-9892-674c7228546b">
+<common:shortDescription xml:lang="de">thinkstep</common:shortDescription>
+</common:referenceToPersonOrEntityEnteringTheData>
+</dataEntryBy>
+<publicationAndOwnership>
+<common:dataSetVersion>00.03.000</common:dataSetVersion>
+<common:referenceToOwnershipOfDataSet uri="../contacts/55b58992-eb4e-4c3d-9088-049430bc58d2.xml" type="contact data set" refObjectId="55b58992-eb4e-4c3d-9088-049430bc58d2">
+<common:shortDescription xml:lang="de">Wieland</common:shortDescription>
+</common:referenceToOwnershipOfDataSet>
+<common:copyright>true</common:copyright>
+</publicationAndOwnership>
+</administrativeInformation>
+<exchanges>
+<exchange dataSetInternalID="0">
+<referenceToFlowDataSet uri="../flows/cbb7408c-077d-f6eb-7ae3-8d6620ae4dbd.xml" type="flow data set" refObjectId="cbb7408c-077d-f6eb-7ae3-8d6620ae4dbd">
+<common:shortDescription xml:lang="de">Innenverzinnte Kupfer-Hausinstallationsrohre / 1kg Kupferrohr  (Innenverzinnte Kupfer-Hausinstallationsrohre / 1kg Kupferrohr )</common:shortDescription>
+</referenceToFlowDataSet>
+<meanAmount>1</meanAmount>
+<referencesToDataSource />
+</exchange>
+<exchange dataSetInternalID="1">
+<referenceToFlowDataSet uri="../flows/20f32be5-0398-4288-9b6d-accddd195317.xml" type="flow data set" refObjectId="20f32be5-0398-4288-9b6d-accddd195317">
+<common:shortDescription xml:lang="de">Erneuerbare Primärenergie als Energieträger (PERE)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">5.33</epd:amount>
+<epd:amount epd:module="C4">0.00108</epd:amount>
+<epd:amount epd:module="D">-1.14</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="2">
+<referenceToFlowDataSet uri="../flows/fb3ec0de-548d-4508-aea5-00b73bf6f702.xml" type="flow data set" refObjectId="fb3ec0de-548d-4508-aea5-00b73bf6f702">
+<common:shortDescription xml:lang="de">Erneuerbare Primärenergie zur stofflichen Nutzung (PERM)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+<epd:amount epd:module="C4"></epd:amount>
+<epd:amount epd:module="D"></epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="3">
+<referenceToFlowDataSet uri="../flows/53f97275-fa8a-4cdd-9024-65936002acd0.xml" type="flow data set" refObjectId="53f97275-fa8a-4cdd-9024-65936002acd0">
+<common:shortDescription xml:lang="de">Total erneuerbare Primärenergie (PERT)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">5.33</epd:amount>
+<epd:amount epd:module="C4">0.00108</epd:amount>
+<epd:amount epd:module="D">-1.14</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="4">
+<referenceToFlowDataSet uri="../flows/ac857178-2b45-46ec-892a-a9a4332f0372.xml" type="flow data set" refObjectId="ac857178-2b45-46ec-892a-a9a4332f0372">
+<common:shortDescription xml:lang="de">Nicht-erneuerbare Primärenergie als Energieträger (PENRE)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">45.5</epd:amount>
+<epd:amount epd:module="C4">0.013</epd:amount>
+<epd:amount epd:module="D">-6.52</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="5">
+<referenceToFlowDataSet uri="../flows/1421caa0-679d-4bf4-b282-0eb850ccae27.xml" type="flow data set" refObjectId="1421caa0-679d-4bf4-b282-0eb850ccae27">
+<common:shortDescription xml:lang="de">Nicht-erneuerbare Primärenergie zur stofflichen Nutzung (PENRM)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+<epd:amount epd:module="C4"></epd:amount>
+<epd:amount epd:module="D"></epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="6">
+<referenceToFlowDataSet uri="../flows/06159210-646b-4c8d-8583-da9b3b95a6c1.xml" type="flow data set" refObjectId="06159210-646b-4c8d-8583-da9b3b95a6c1">
+<common:shortDescription xml:lang="de">Total nicht erneuerbare Primärenergie (PENRT)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">45.5</epd:amount>
+<epd:amount epd:module="C4">0.013</epd:amount>
+<epd:amount epd:module="D">-6.52</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="7">
+<referenceToFlowDataSet uri="../flows/c6a1f35f-2d09-4f54-8dfb-97e502e1ce92.xml" type="flow data set" refObjectId="c6a1f35f-2d09-4f54-8dfb-97e502e1ce92">
+<common:shortDescription xml:lang="de">Einsatz von Sekundärstoffen (SM)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+<epd:amount epd:module="C4">0</epd:amount>
+<epd:amount epd:module="D">0</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="8">
+<referenceToFlowDataSet uri="../flows/64333088-a55f-4aa2-9a31-c10b07816787.xml" type="flow data set" refObjectId="64333088-a55f-4aa2-9a31-c10b07816787">
+<common:shortDescription xml:lang="de">Erneuerbare Sekundärbrennstoffe (RSF)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+<epd:amount epd:module="C4">0</epd:amount>
+<epd:amount epd:module="D">0</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="9">
+<referenceToFlowDataSet uri="../flows/89def144-d39a-4287-b86f-efde453ddcb2.xml" type="flow data set" refObjectId="89def144-d39a-4287-b86f-efde453ddcb2">
+<common:shortDescription xml:lang="de">Nicht erneuerbare Sekundärbrennstoffe (NRSF)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+<epd:amount epd:module="C4">0</epd:amount>
+<epd:amount epd:module="D">0</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="10">
+<referenceToFlowDataSet uri="../flows/3cf952c8-f3a4-461d-8c96-96456ca62246.xml" type="flow data set" refObjectId="3cf952c8-f3a4-461d-8c96-96456ca62246">
+<common:shortDescription xml:lang="de">Einsatz von Süßwasserressourcen (FW)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/cd950537-0a98-4044-9ba7-9f9a68d0a504.xml" type="unit group data set" refObjectId="cd950537-0a98-4044-9ba7-9f9a68d0a504">
+<common:shortDescription xml:lang="de">m^3</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.0161</epd:amount>
+<epd:amount epd:module="C4">-3.94E-05</epd:amount>
+<epd:amount epd:module="D">-0.00534</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="11">
+<referenceToFlowDataSet uri="../flows/430f9e0f-59b2-46a0-8e0d-55e0e84948fc.xml" type="flow data set" refObjectId="430f9e0f-59b2-46a0-8e0d-55e0e84948fc">
+<common:shortDescription xml:lang="de">Gefährlicher Abfall zur Deponie (HWD)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.00448</epd:amount>
+<epd:amount epd:module="C4">5.91E-07</epd:amount>
+<epd:amount epd:module="D">-0.000215</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="12">
+<referenceToFlowDataSet uri="../flows/b29ef66b-e286-4afa-949f-62f1a7b4d7fa.xml" type="flow data set" refObjectId="b29ef66b-e286-4afa-949f-62f1a7b4d7fa">
+<common:shortDescription xml:lang="de">Entsorgter nicht gefährlicher Abfall (NHWD)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.03</epd:amount>
+<epd:amount epd:module="C4">0.0701</epd:amount>
+<epd:amount epd:module="D">-0.00444</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="13">
+<referenceToFlowDataSet uri="../flows/3449546e-52ad-4b39-b809-9fb77cea8ff6.xml" type="flow data set" refObjectId="3449546e-52ad-4b39-b809-9fb77cea8ff6">
+<common:shortDescription xml:lang="de">Entsorgter radioaktiver Abfall (RWD)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.00193</epd:amount>
+<epd:amount epd:module="C4">2.27E-07</epd:amount>
+<epd:amount epd:module="D">-0.0002</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="14">
+<referenceToFlowDataSet uri="../flows/a2b32f97-3fc7-4af2-b209-525bc6426f33.xml" type="flow data set" refObjectId="a2b32f97-3fc7-4af2-b209-525bc6426f33">
+<common:shortDescription xml:lang="de">Komponenten für die Wiederverwendung (CRU)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+<epd:amount epd:module="C4">0</epd:amount>
+<epd:amount epd:module="D"></epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="15">
+<referenceToFlowDataSet uri="../flows/d7fe48a5-4103-49c8-9aae-b0b5dfdbd6ae.xml" type="flow data set" refObjectId="d7fe48a5-4103-49c8-9aae-b0b5dfdbd6ae">
+<common:shortDescription xml:lang="de">Stoffe zum Recycling (MFR)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+<epd:amount epd:module="C4">0</epd:amount>
+<epd:amount epd:module="D"></epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="16">
+<referenceToFlowDataSet uri="../flows/59a9181c-3aaf-46ee-8b13-2b3723b6e447.xml" type="flow data set" refObjectId="59a9181c-3aaf-46ee-8b13-2b3723b6e447">
+<common:shortDescription xml:lang="de">Stoffe für die Energierückgewinnung (MER)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+<epd:amount epd:module="C4">0</epd:amount>
+<epd:amount epd:module="D"></epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="17">
+<referenceToFlowDataSet uri="../flows/4da0c987-2b76-40d6-9e9e-82a017aaaf29.xml" type="flow data set" refObjectId="4da0c987-2b76-40d6-9e9e-82a017aaaf29">
+<common:shortDescription xml:lang="de">Exportierte elektrische Energie (EEE)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+<epd:amount epd:module="C4">0</epd:amount>
+<epd:amount epd:module="D"></epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="18">
+<referenceToFlowDataSet uri="../flows/98daf38a-7a79-46d3-9a37-2b7bd0955810.xml" type="flow data set" refObjectId="98daf38a-7a79-46d3-9a37-2b7bd0955810">
+<common:shortDescription xml:lang="de">Exportierte thermische Energie (EET)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+<epd:amount epd:module="C4">0</epd:amount>
+<epd:amount epd:module="D"></epd:amount>
+</common:other>
+</exchange>
+</exchanges>
+<LCIAResults>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/77e416eb-a363-4258-a04e-171d843a6460.xml" type="LCIA method data set" refObjectId="77e416eb-a363-4258-a04e-171d843a6460">
+<common:shortDescription xml:lang="de">Globales Erwärmungspotenzial (GWP)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/1ebf3012-d0db-4de2-aefd-ef30cedb0be1.xml" type="unit group data set" refObjectId="1ebf3012-d0db-4de2-aefd-ef30cedb0be1">
+<common:shortDescription xml:lang="de">kg CO_(2)-Äq.</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">3.5</epd:amount>
+<epd:amount epd:module="C4">0.000949</epd:amount>
+<epd:amount epd:module="D">-0.729</epd:amount>
+</common:other>
+</LCIAResult>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/06dcd26f-025f-401a-a7c1-5e457eb54637.xml" type="LCIA method data set" refObjectId="06dcd26f-025f-401a-a7c1-5e457eb54637">
+<common:shortDescription xml:lang="de">Abbau Potential der stratosphärischen Ozonschicht (ODP)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/88054749-b0a6-47ea-a82b-dc5b29326512.xml" type="unit group data set" refObjectId="88054749-b0a6-47ea-a82b-dc5b29326512">
+<common:shortDescription xml:lang="de">kg CFC11-Äq.</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">8.67E-11</epd:amount>
+<epd:amount epd:module="C4">1.19E-14</epd:amount>
+<epd:amount epd:module="D">-3.86E-12</epd:amount>
+</common:other>
+</LCIAResult>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/b4274add-93b7-4905-a5e4-2e878c4e4216.xml" type="LCIA method data set" refObjectId="b4274add-93b7-4905-a5e4-2e878c4e4216">
+<common:shortDescription xml:lang="de">Versauerungspotenzial von Boden und Wasser (AP)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/bc50c624-a9bc-45b1-a9b0-e6b10d00476f.xml" type="unit group data set" refObjectId="bc50c624-a9bc-45b1-a9b0-e6b10d00476f">
+<common:shortDescription xml:lang="de">kg SO_(2)-Äq.</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.0101</epd:amount>
+<epd:amount epd:module="C4">6.03E-06</epd:amount>
+<epd:amount epd:module="D">-0.0039</epd:amount>
+</common:other>
+</LCIAResult>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/f58827d0-b407-4ec6-be75-8b69efb98a0f.xml" type="LCIA method data set" refObjectId="f58827d0-b407-4ec6-be75-8b69efb98a0f">
+<common:shortDescription xml:lang="de">Eutrophierungspotenzial (EP)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/67b5401d-873c-485f-bcf3-6ae83b918822.xml" type="unit group data set" refObjectId="67b5401d-873c-485f-bcf3-6ae83b918822">
+<common:shortDescription xml:lang="de">kg PO_(4)^(3)-Äq.</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.00103</epd:amount>
+<epd:amount epd:module="C4">8.27E-07</epd:amount>
+<epd:amount epd:module="D">-0.000336</epd:amount>
+</common:other>
+</LCIAResult>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/1e84a202-dae6-42aa-9e9d-71ea48b8be00.xml" type="LCIA method data set" refObjectId="1e84a202-dae6-42aa-9e9d-71ea48b8be00">
+<common:shortDescription xml:lang="de">Bildungspotential für troposphärisches Ozon (POCP)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/01c26c17-9a76-406e-8295-f17b55fd909e.xml" type="unit group data set" refObjectId="01c26c17-9a76-406e-8295-f17b55fd909e">
+<common:shortDescription xml:lang="de">kg Ethen-Äq.</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.000709</epd:amount>
+<epd:amount epd:module="C4">5.75E-07</epd:amount>
+<epd:amount epd:module="D">-0.000219</epd:amount>
+</common:other>
+</LCIAResult>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/f7c73bb9-ab1a-4249-9c6d-379a0de6f67e.xml" type="LCIA method data set" refObjectId="f7c73bb9-ab1a-4249-9c6d-379a0de6f67e">
+<common:shortDescription xml:lang="de">Potenzial für den abiotischen Abbau nicht fossiler Ressourcen (ADPE)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/54ccd2d9-a32a-4fc2-923d-f2c8c93e89d4.xml" type="unit group data set" refObjectId="54ccd2d9-a32a-4fc2-923d-f2c8c93e89d4">
+<common:shortDescription xml:lang="de">kg Sb-Äq.</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">1.56E-05</epd:amount>
+<epd:amount epd:module="C4">3.57E-10</epd:amount>
+<epd:amount epd:module="D">-8.43E-06</epd:amount>
+</common:other>
+</LCIAResult>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/804ebcdf-309d-4098-8ed8-fdaf2f389981.xml" type="LCIA method data set" refObjectId="804ebcdf-309d-4098-8ed8-fdaf2f389981">
+<common:shortDescription xml:lang="de">Potenzial für den abiotischen Abbau fossiler Brennstoffe (ADPF)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">40.6</epd:amount>
+<epd:amount epd:module="C4">0.0125</epd:amount>
+<epd:amount epd:module="D">-5.96</epd:amount>
+</common:other>
+</LCIAResult>
+</LCIAResults>
+</processDataSet>

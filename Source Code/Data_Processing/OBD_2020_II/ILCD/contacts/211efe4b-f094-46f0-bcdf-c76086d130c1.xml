@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>211efe4b-f094-46f0-bcdf-c76086d130c1</common:UUID>
+                  <common:shortName xml:lang='de'>Taiyo Europe GmbH</common:shortName>
+                  <common:name xml:lang='de'>Taiyo Europe GmbH</common:name>
+                  <contactAddress xml:lang='de'>Mühlweg 2, 82054 Sauerlach, Germany</contactAddress>
+                  <telephone>+49 8104 62898-0</telephone>
+                  <telefax>+49 8104 62898-99</telefax>
+                  <email>k.moritz@taiyo-europe.com</email>
+                  <WWWAddress>https://www.taiyo-europe.com/</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2019-08-15T14:21:16.2794442+02:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

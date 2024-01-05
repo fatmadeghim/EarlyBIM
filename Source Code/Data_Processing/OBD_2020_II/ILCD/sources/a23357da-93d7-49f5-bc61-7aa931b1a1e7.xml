@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:sourceDataSet xmlns="http://lca.jrc.it/ILCD/Common" xmlns:ns2="http://lca.jrc.it/ILCD/Source" xmlns:ns3="http://lca.jrc.it/ILCD/Flow" xmlns:ns4="http://lca.jrc.it/ILCD/Contact" xmlns:ns5="http://lca.jrc.it/ILCD/FlowProperty" xmlns:ns6="http://lca.jrc.it/ILCD/Process" xmlns:ns7="http://lca.jrc.it/ILCD/UnitGroup" xmlns:ns8="http://lca.jrc.it/ILCD/Wrapper" version="1.1">
+    <ns2:sourceInformation>
+        <ns2:dataSetInformation>
+            <UUID>a23357da-93d7-49f5-bc61-7aa931b1a1e7</UUID>
+            <shortName xml:lang="en">Titelblatt EPD Knauf GaBi</shortName>
+            <ns2:classificationInformation>
+                <classification>
+                    <class level="0" classId="9d069bb5-0360-45bc-8b85-ed4b79c880e9">Images</class>
+                    <class level="1" classId="a4b2a6b0-cfb8-4f42-9312-117091f29cf8">Knauf GmbH Östereich Gipsplatten</class>
+                </classification>
+            </ns2:classificationInformation>
+            <ns2:sourceDescriptionOrComment xml:lang="en"></ns2:sourceDescriptionOrComment>
+            <ns2:referenceToDigitalFile uri="Titelblatt Knauf GaBi.jpg"/>
+        </ns2:dataSetInformation>
+    </ns2:sourceInformation>
+    <ns2:administrativeInformation>
+        <ns2:dataEntryBy>
+            <timeStamp>2015-07-16T10:24:51.221+02:00</timeStamp>
+            <referenceToDataSetFormat type="source data set" refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" version="01.01.000" uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40_01.01.000.xml">
+                <shortDescription xml:lang="en">ILCD format</shortDescription>
+            </referenceToDataSetFormat>
+        </ns2:dataEntryBy>
+        <ns2:publicationAndOwnership>
+            <dataSetVersion>00.00.001</dataSetVersion>
+            <permanentDataSetURI>http://openlca.org/ilcd/resource/sources/a23357da-93d7-49f5-bc61-7aa931b1a1e7</permanentDataSetURI>
+        </ns2:publicationAndOwnership>
+    </ns2:administrativeInformation>
+</ns2:sourceDataSet>

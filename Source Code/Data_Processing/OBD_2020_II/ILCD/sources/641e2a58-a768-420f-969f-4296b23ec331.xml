@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<s:sourceDataSet xmlns:m="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:s="http://lca.jrc.it/ILCD/Source" xmlns:c="http://lca.jrc.it/ILCD/Contact" xmlns:f="http://lca.jrc.it/ILCD/Flow" xmlns="http://lca.jrc.it/ILCD/Process" xmlns:fp="http://lca.jrc.it/ILCD/FlowProperty" xmlns:u="http://lca.jrc.it/ILCD/UnitGroup" version="1.1">
+    <s:sourceInformation>
+        <s:dataSetInformation>
+            <common:UUID>641e2a58-a768-420f-969f-4296b23ec331</common:UUID>
+            <common:shortName xml:lang="de">Bau EPD GmbH EPD-Isospan-2017-01-04-Flussdiagramm</common:shortName>
+            <s:classificationInformation>
+                <common:classification>
+                    <common:class level="0" classId="3836dc8f-97a2-4f88-abea-33ac2d41c22d">Bau EPD GmbH (Austria)</common:class>
+                </common:classification>
+            </s:classificationInformation>
+            <s:referenceToDigitalFile uri="../external_docs/Flussdiagramm_Isospan.png"/>
+        </s:dataSetInformation>
+    </s:sourceInformation>
+    <s:administrativeInformation>
+        <s:dataEntryBy>
+            <common:timeStamp>2017-09-20T13:40:28.225+02:00</common:timeStamp>
+        </s:dataEntryBy>
+        <s:publicationAndOwnership>
+            <common:dataSetVersion>00.00.004</common:dataSetVersion>
+        </s:publicationAndOwnership>
+    </s:administrativeInformation>
+</s:sourceDataSet>

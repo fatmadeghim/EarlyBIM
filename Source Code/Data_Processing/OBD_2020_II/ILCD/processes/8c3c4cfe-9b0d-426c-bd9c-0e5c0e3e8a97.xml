@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<processDataSet xmlns:epd="http://www.iai.kit.edu/EPD/2013" xmlns:common="http://lca.jrc.it/ILCD/Common" xsi:schemaLocation="http://lca.jrc.it/ILCD/Process ../../schemas/EPD_DataSet.xsd" version="1.1" locations="../ILCDLocations.xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://lca.jrc.it/ILCD/Process">
+<processInformation>
+<dataSetInformation>
+<common:UUID>8c3c4cfe-9b0d-426c-bd9c-0e5c0e3e8a97</common:UUID>
+<name>
+<baseName xml:lang="de">Sanitärkeramik</baseName>
+<baseName xml:lang="en">Sanitary ceramics</baseName>
+<functionalUnitFlowProperties xml:lang="de" />
+</name>
+<classificationInformation>
+<common:classification name="OEKOBAU.DAT">
+<common:class level="0" classId="8">Gebäudetechnik</common:class>
+<common:class level="1" classId="8.3">Sanitär</common:class>
+<common:class level="2" classId="8.3.01">Sanitärkeramik</common:class>
+</common:classification>
+<common:classification name="IBUCategories">
+<common:class level="0">03 Gebäudetechnik</common:class>
+<common:class level="1">Sanitäreinrichtungen</common:class>
+<common:class level="2">Sanitärkeramik</common:class>
+</common:classification>
+</classificationInformation>
+<common:generalComment xml:lang="de">Zur Gruppe der Sanitärkeramik gehören vor allem Waschtische, Bidets, WC’s, Urinale und Spülkästen, sowie Küchenspülen. Die Produkte bestehen hauptsächlich aus Materialien wie Ton, Kaolin, Quarz und Schamotte. Für die Berechnung der Umweltauswirkungen wurde ein repräsentatives Durchschnittsprodukt von Sanitärkeramik auf Basis des gesamten Absatzvolumens nach Masse der jeweiligen Produkte für das Jahr 2013 gebildet. Sanitärkeramiken werden nach der Aufbereitung des Schlickers gegossen oder gepresst, getrocknet, glasiert und anschließend gebrannt.</common:generalComment>
+<common:generalComment xml:lang="en">Sanitary ceramic comprises in particular washbasins, bidets, toilets, urinals, cisterns and kitchen sinks. The products are primarily made of materials such as clay, kaolin, quartz and fireclay. A representative average sanitary ceramic product based on the overall mass volume by mass of the respective products for 2013 was formed for calculating the environmental impacts. After preparation of the slurry, sanitary ceramic is cast or pressed, dried, glazed and then fired.</common:generalComment>
+</dataSetInformation>
+<quantitativeReference>
+<referenceToReferenceFlow>0</referenceToReferenceFlow>
+</quantitativeReference>
+<time>
+<common:referenceYear>2015</common:referenceYear>
+<common:dataSetValidUntil>2020</common:dataSetValidUntil>
+</time>
+<geography>
+<locationOfOperationSupplyOrProduction location="DE" />
+</geography>
+<technology>
+<technologyDescriptionAndIncludedProcesses xml:lang="de">Die betrachtete Produktgruppe Sanitärkeramik besteht hauptsächlich aus Materialien wie Ton, Kaolin, Quarz, Schamotte und Feldspat. Der Herstellungsprozess gliedert sich wie folgt: - Lagerung und ggf. Trocknung der Rohstoffe - Herstellung des Schlickers - Glasur - Gießen - Trocknung - Glasieren - Brennen in einem Tunnelofen - Produktprüfung und ggf. Oberflächenveredelung - Verpacken, Lagerung und Versand 
+Technische Daten: 
+Sanitärkeramik unterliegt folgenden (bau) technischen Daten (Angabe erfolgt in L x B x H):Weitere technische Daten gemäß der PCR Teil B sind nicht relevant für die Produktgruppe der Sanitärkeramik. 
+Deklarierte Einheit: 
+Für die Berechnung der Ökobilanz von Sanitärkeramik wird eine deklarierte Einheit von 1 Tonne zugrunde gelegt. Alle Umweltwirkungen des Produktes werden auf eine Tonne (t) Sanitärkeramik bezogen. Kapitel 2.5 gibt einen Überblick über die Masse pro Produkt.  Auf Basis der Umweltauswirkungen wird eine Herstellerdeklaration für ein Durchschnittsprodukt eines Standortes von DURAVIT Sanitärkeramik erstellt. Auf Grund der vergleichbaren Herstellungsweise wird ein Durchschnittsprodukt aus Waschtischen, Bidets, WC‘s, Urinale, Spülkästen, sowie Küchenspülen, auf Basis des gesamten Absatzvolumens der jeweiligen Produkte für das Jahr 2013 gebildet.Die Verpackung wird mit einem durchschnittlichen Gewicht von 61,2 kg pro deklarierte Einheit definiert.</technologyDescriptionAndIncludedProcesses>
+<technologyDescriptionAndIncludedProcesses xml:lang="en">The raw materials supplied are dried where necessary before storage in silos. Smaller volumes of components are supplied in sacks. Slurry Some of the raw materials require mechanical treatment in a grinding process. This is followed by preparation of the slurry by mixing the raw materials with water and passing them through a sieve. Glaze The raw material mix is agitated adding water before being sieved and then ground. Glue is added shortly before processing. Mould construction The casting moulds required for production are made of either plaster or a porous plastic. Casting Small series are manufactured exclusively with plaster moulds in a manual hand mould process. Another production method involves the battery casting method, also with plaster moulds. The porous plastic moulds are used for high-pressure casting. Drying After casting, the ceramic products are directed to various drying processes depending on the respective complexity. Glazing The glaze is applied to the dry blank either manually or fully-automatically using robots. The overspray is collected, redirected and re-used in both methods. Firing In order to achieve a maximum stocking density, the glazed blanks are positioned manually on the firing trolley. The blanks are fired at over 1250 °C in a tunnel kiln for approx. 17-20 hours. Sorting After firing, each product is subject to extensive individual examination. The Duravit brand logo is applied by laser to perfect parts before the following processes are carried out: =&gt; At the customer&apos;s request, the surface is refined (Wondergliss coating). =&gt; Depending on assembly, e.g. integration in bathroom furnishings or on glass panels etc., some products may require polishing. =&gt; Packing, storage and shipping Products which do not meet the quality requirements can often be touched up and fired again in a shuttle kiln or directed to material recycling as waste. Comments =&gt; In order to ensure consistently high quality, extensive inspections are carried out, starting at delivery of the raw materials, and during all process stages. =&gt; Vibration plates are required for many products during the firing process. These are largely manufactured from the filter cake incurred in the internal waste water treatment plant. =&gt; As a general rule, the aim is to achieve a high recycling rate among waste and to increase this rate continuously. In accordance with the criteria of the Recycling Law, the rate during the period under review was 76%. =&gt; The production facility in Hornberg is certified to /ISO 9001/ and /ISO 14001/ as well as /DIN EN ISO 50001/. =&gt; Within the framework of energy management, optimisations are continuously striven towards in terms of energy consumption. In 2014, a micro gas turbine was commissioned with a firing output of 330 kW. By generating 200 kW heat and max. 100 kW electricity, a significant contribution is made towards decentralised energy supply. 
+Technical data: 
+Sanitary ceramic is subject to the following (structural) technical data (details as L x W x H): Other technical data in accordance with the PCR Part B are not of relevance for the sanitary ceramic product group. 
+Declared unit: 
+A declared unit of 1 tonne is taken as a basis for calculating the LCA for sanitary ceramic. All environmental impacts by the product relate to one tonne (t) of sanitary ceramic. Section 2.5 provides an overview of the mass per product. A manufacturer declaration for an average product at a DURAVIT sanitary ceramic location is drawn up as a basis for the environmental impacts. On account of comparable manufacturing methods, an average product representing washbasins, bidets, toilets, urinals, cisterns and kitchen sinks is formed on the basis of the overall sales volume of the respective products for 2013. Packaging is defined with an average weight of 61.2 kg per declared unit.</technologyDescriptionAndIncludedProcesses>
+<technologicalApplicability xml:lang="de">Zur Gruppe der Sanitärkeramik gehören vor allem Waschtische, Bidets, WC’s, Urinale und Spülkästen. Diese Produkte sind Einrichtungsgegenstände für Badezimmer, und werden insbesondere für die Körperhygiene benutzt. Aufgrund des vergleichbaren Herstellungsprozesses können auch Küchenspülen dieser Gruppe zugeordnet werden. Küchenspülen sind ebenfalls Einrichtungsgegenstände.</technologicalApplicability>
+<technologicalApplicability xml:lang="en">The group of sanitary ceramic comprises in particular washbasins, bidets, toilets, urinals and cisterns. These products represent bathroom furnishings and are used for personal hygiene in particular. On account of the comparable manufacturing process, kitchen sinks can also be allocated to this group. Kitchen sinks also represent furnishing products.</technologicalApplicability>
+<referenceToTechnologyFlowDiagrammOrPicture uri="../sources/698d1e0d-3c5d-449a-9897-be7dce73ddcf.xml" type="source data set" refObjectId="698d1e0d-3c5d-449a-9897-be7dce73ddcf">
+<common:shortDescription xml:lang="de">Bautechnische Eigenschaften</common:shortDescription>
+</referenceToTechnologyFlowDiagrammOrPicture>
+<referenceToTechnologyFlowDiagrammOrPicture uri="../sources/b1dbc383-e74e-4586-874f-554b267c9413.xml" type="source data set" refObjectId="b1dbc383-e74e-4586-874f-554b267c9413">
+<common:shortDescription xml:lang="de">Deklarierte Einheit</common:shortDescription>
+</referenceToTechnologyFlowDiagrammOrPicture>
+</technology>
+</processInformation>
+<modellingAndValidation>
+<LCIMethodAndAllocation>
+<typeOfDataSet>EPD</typeOfDataSet>
+<referenceToLCAMethodDetails type="source data set" refObjectId="e4d359cd-fbbb-411a-8107-f069e425315a">
+<common:shortDescription xml:lang="de">Sanitärkeramik.pdf</common:shortDescription>
+</referenceToLCAMethodDetails>
+<common:other>
+<epd:subType xmlns="http://www.iai.kit.edu/EPD/2013">average dataset</epd:subType>
+</common:other>
+</LCIMethodAndAllocation>
+<dataSourcesTreatmentAndRepresentativeness>
+<referenceToDataSource type="source data set" refObjectId="d74cacae-5fb8-4154-b0f6-a88afa7716e7">
+<common:shortDescription xml:lang="de">Sanitärkeramik.pdf</common:shortDescription>
+</referenceToDataSource>
+<referenceToDataSource type="source data set" refObjectId="28d74cc0-db8b-4d7e-bc44-5f6d56ce0c4a">
+<common:shortDescription xml:lang="de">GaBi Database (all versions)</common:shortDescription>
+</referenceToDataSource>
+<referenceToDataSource type="source data set" refObjectId="7d81b748-d7ea-4efd-b72e-205c69306f38">
+<common:shortDescription xml:lang="de">GaBi database SP26 2014</common:shortDescription>
+</referenceToDataSource>
+<useAdviceForDataSet xml:lang="de">Gültigkeitsbereich: 
+Gegenstand der vorliegenden Studie ist die Erstellung einer Ökobilanz für Sanitärkeramik der DURAVIT AG inklusive Verpackung, produziert am Standort Hornberg in Deutschland. Auf Grund einer vergleichbaren Herstellungsweise wird ein Durchschnittsprodukt aus Waschtischen, Bidets, WC&apos;s, Urinalen, Spülkästen und Küchenspülen, auf Basis des gesamten Absatzvolumens der jeweiligen Produkte für das Jahr 2013 gebildet. 
+Systemgrenze: 
+Die Systemgrenzen enthalten alle relevanten Prozessschritte der Herstellung von Sanitärkeramik innerhalb der Betrachtung Wiege bis Werkstor. Das heißt, dass gemäß dem zugrunde liegenden PCR-Dokument alle Prozesse bis zum Werkstor betrachtet werden (Produktionsstadium A1-A3). Der anschließende Transport des Produktes zur Baustelle ist in der Berechnung nicht mehr enthalten. Grundsätzlich kann das System in drei Hauptprozesse eingeteilt werden:Bereitstellung und Produktion der Vorprodukte und Verpackungsmaterialen (Modul A1)Transporte der Vorprodukte sowie der Verpackungsmaterialien zum Werk (Modul A2)Produktion von Sanitärkeramik im Werk, sowie Aufbereitung und Entsorgung von Produktionsabfällen (Modul A3)Die folgende Abbildung gibt einen zusammenfassenden Überblick über die Systemgrenzen der Studie:</useAdviceForDataSet>
+<useAdviceForDataSet xml:lang="en">Scope: 
+The object of this study is to draw up an LCA for DURAVIT AG sanitary ceramic, including packaging, produced at the Hornberg location in Germany. Owing to comparable manufacturing methods, an average product representing washbasins, bidets, toilets, urinals, cisterns and kitchen sinks is formed on the basis of the overall sales volume of the respective products for 2013. 
+System boundary: 
+The system boundaries contain all relevant process steps during the manufacture of sanitary ceramic within a cradle-to-gate review. This means that in accordance with the PCR document on which they are based, all processes to the factory gate are considered (Product stage A1-A3). Subsequent transport of the product to the construction site is no longer included in the calculation. As a general rule, the system can be divided into three main processes: ·         Provision and production of preliminary products and packaging materials (Module A1) ·         Transport of preliminary products and packaging materials to the plant (Module A2) ·         Production of sanitary ceramic as well as processing and disposal of production waste (Module A3) The following graphic depicts a summarising overview of the system boundaries in this study:</useAdviceForDataSet>
+</dataSourcesTreatmentAndRepresentativeness>
+<validation>
+<review type="Accredited third party review">
+<common:referenceToNameOfReviewerAndInstitution uri="../contacts/d111dbec-b024-4be5-86c5-752d6eb2cf95.xml" type="contact data set" refObjectId="d111dbec-b024-4be5-86c5-752d6eb2cf95">
+<common:shortDescription xml:lang="de">IBU</common:shortDescription>
+</common:referenceToNameOfReviewerAndInstitution>
+<common:referenceToCompleteReviewReport type="source data set" />
+</review>
+</validation>
+<complianceDeclarations>
+<compliance>
+<common:referenceToComplianceSystem uri="../sources/b00f9ec0-7874-11e3-981f-0800200c9a66.xml" type="source data set" refObjectId="b00f9ec0-7874-11e3-981f-0800200c9a66">
+<common:shortDescription xml:lang="de">DIN EN 15804</common:shortDescription>
+</common:referenceToComplianceSystem>
+</compliance>
+<compliance>
+<common:referenceToComplianceSystem type="source data set">
+<common:shortDescription xml:lang="de">ISO 14025</common:shortDescription>
+</common:referenceToComplianceSystem>
+</compliance>
+</complianceDeclarations>
+</modellingAndValidation>
+<administrativeInformation>
+<dataEntryBy>
+<common:timeStamp>2015-07-13T16:11:34.743</common:timeStamp>
+<common:referenceToDataSetFormat uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40.xml" type="source data set" refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40">
+<common:shortDescription xml:lang="de">ILCD Format 1.1</common:shortDescription>
+</common:referenceToDataSetFormat>
+<common:referenceToDataSetFormat uri="../sources/cba73800-7874-11e3-981f-0800200c9a66.xml" type="source data set" refObjectId="cba73800-7874-11e3-981f-0800200c9a66">
+<common:shortDescription xml:lang="de">EPD-Datenformaterweiterungen</common:shortDescription>
+</common:referenceToDataSetFormat>
+<common:referenceToPersonOrEntityEnteringTheData uri="../contacts/55ebde3f-24c6-4930-b852-ab5712cfa750.xml" type="contact data set" refObjectId="55ebde3f-24c6-4930-b852-ab5712cfa750">
+<common:shortDescription xml:lang="de">SGS Germany GmbH</common:shortDescription>
+</common:referenceToPersonOrEntityEnteringTheData>
+</dataEntryBy>
+<publicationAndOwnership>
+<common:dataSetVersion>00.06.000</common:dataSetVersion>
+<common:referenceToOwnershipOfDataSet uri="../contacts/0ab2b967-3743-4bbc-9f89-23e6406e6ab5.xml" type="contact data set" refObjectId="0ab2b967-3743-4bbc-9f89-23e6406e6ab5">
+<common:shortDescription xml:lang="de">DURAVIT AG</common:shortDescription>
+</common:referenceToOwnershipOfDataSet>
+<common:copyright>true</common:copyright>
+</publicationAndOwnership>
+</administrativeInformation>
+<exchanges>
+<exchange dataSetInternalID="0">
+<referenceToFlowDataSet uri="../flows/cf926851-2a42-01f2-fd67-2d0934681a95.xml" type="flow data set" refObjectId="cf926851-2a42-01f2-fd67-2d0934681a95">
+<common:shortDescription xml:lang="de">Sanitärkeramik (Sanitärkeramik)</common:shortDescription>
+</referenceToFlowDataSet>
+<meanAmount>1000</meanAmount>
+<referencesToDataSource />
+</exchange>
+<exchange dataSetInternalID="1">
+<referenceToFlowDataSet uri="../flows/20f32be5-0398-4288-9b6d-accddd195317.xml" type="flow data set" refObjectId="20f32be5-0398-4288-9b6d-accddd195317">
+<common:shortDescription xml:lang="de">Erneuerbare Primärenergie als Energieträger (PERE)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">3841</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="2">
+<referenceToFlowDataSet uri="../flows/fb3ec0de-548d-4508-aea5-00b73bf6f702.xml" type="flow data set" refObjectId="fb3ec0de-548d-4508-aea5-00b73bf6f702">
+<common:shortDescription xml:lang="de">Erneuerbare Primärenergie zur stofflichen Nutzung (PERM)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="3">
+<referenceToFlowDataSet uri="../flows/53f97275-fa8a-4cdd-9024-65936002acd0.xml" type="flow data set" refObjectId="53f97275-fa8a-4cdd-9024-65936002acd0">
+<common:shortDescription xml:lang="de">Total erneuerbare Primärenergie (PERT)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">3841</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="4">
+<referenceToFlowDataSet uri="../flows/ac857178-2b45-46ec-892a-a9a4332f0372.xml" type="flow data set" refObjectId="ac857178-2b45-46ec-892a-a9a4332f0372">
+<common:shortDescription xml:lang="de">Nicht-erneuerbare Primärenergie als Energieträger (PENRE)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">23522</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="5">
+<referenceToFlowDataSet uri="../flows/1421caa0-679d-4bf4-b282-0eb850ccae27.xml" type="flow data set" refObjectId="1421caa0-679d-4bf4-b282-0eb850ccae27">
+<common:shortDescription xml:lang="de">Nicht-erneuerbare Primärenergie zur stofflichen Nutzung (PENRM)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="6">
+<referenceToFlowDataSet uri="../flows/06159210-646b-4c8d-8583-da9b3b95a6c1.xml" type="flow data set" refObjectId="06159210-646b-4c8d-8583-da9b3b95a6c1">
+<common:shortDescription xml:lang="de">Total nicht erneuerbare Primärenergie (PENRT)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">23522</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="7">
+<referenceToFlowDataSet uri="../flows/c6a1f35f-2d09-4f54-8dfb-97e502e1ce92.xml" type="flow data set" refObjectId="c6a1f35f-2d09-4f54-8dfb-97e502e1ce92">
+<common:shortDescription xml:lang="de">Einsatz von Sekundärstoffen (SM)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="8">
+<referenceToFlowDataSet uri="../flows/64333088-a55f-4aa2-9a31-c10b07816787.xml" type="flow data set" refObjectId="64333088-a55f-4aa2-9a31-c10b07816787">
+<common:shortDescription xml:lang="de">Erneuerbare Sekundärbrennstoffe (RSF)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="9">
+<referenceToFlowDataSet uri="../flows/89def144-d39a-4287-b86f-efde453ddcb2.xml" type="flow data set" refObjectId="89def144-d39a-4287-b86f-efde453ddcb2">
+<common:shortDescription xml:lang="de">Nicht erneuerbare Sekundärbrennstoffe (NRSF)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="10">
+<referenceToFlowDataSet uri="../flows/3cf952c8-f3a4-461d-8c96-96456ca62246.xml" type="flow data set" refObjectId="3cf952c8-f3a4-461d-8c96-96456ca62246">
+<common:shortDescription xml:lang="de">Einsatz von Süßwasserressourcen (FW)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/cd950537-0a98-4044-9ba7-9f9a68d0a504.xml" type="unit group data set" refObjectId="cd950537-0a98-4044-9ba7-9f9a68d0a504">
+<common:shortDescription xml:lang="de">m^3</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">155</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="11">
+<referenceToFlowDataSet uri="../flows/430f9e0f-59b2-46a0-8e0d-55e0e84948fc.xml" type="flow data set" refObjectId="430f9e0f-59b2-46a0-8e0d-55e0e84948fc">
+<common:shortDescription xml:lang="de">Gefährlicher Abfall zur Deponie (HWD)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3"></epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="12">
+<referenceToFlowDataSet uri="../flows/b29ef66b-e286-4afa-949f-62f1a7b4d7fa.xml" type="flow data set" refObjectId="b29ef66b-e286-4afa-949f-62f1a7b4d7fa">
+<common:shortDescription xml:lang="de">Entsorgter nicht gefährlicher Abfall (NHWD)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">85</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="13">
+<referenceToFlowDataSet uri="../flows/3449546e-52ad-4b39-b809-9fb77cea8ff6.xml" type="flow data set" refObjectId="3449546e-52ad-4b39-b809-9fb77cea8ff6">
+<common:shortDescription xml:lang="de">Entsorgter radioaktiver Abfall (RWD)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3"></epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="14">
+<referenceToFlowDataSet uri="../flows/a2b32f97-3fc7-4af2-b209-525bc6426f33.xml" type="flow data set" refObjectId="a2b32f97-3fc7-4af2-b209-525bc6426f33">
+<common:shortDescription xml:lang="de">Komponenten für die Wiederverwendung (CRU)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3"></epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="15">
+<referenceToFlowDataSet uri="../flows/d7fe48a5-4103-49c8-9aae-b0b5dfdbd6ae.xml" type="flow data set" refObjectId="d7fe48a5-4103-49c8-9aae-b0b5dfdbd6ae">
+<common:shortDescription xml:lang="de">Stoffe zum Recycling (MFR)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3"></epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="16">
+<referenceToFlowDataSet uri="../flows/59a9181c-3aaf-46ee-8b13-2b3723b6e447.xml" type="flow data set" refObjectId="59a9181c-3aaf-46ee-8b13-2b3723b6e447">
+<common:shortDescription xml:lang="de">Stoffe für die Energierückgewinnung (MER)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3"></epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="17">
+<referenceToFlowDataSet uri="../flows/4da0c987-2b76-40d6-9e9e-82a017aaaf29.xml" type="flow data set" refObjectId="4da0c987-2b76-40d6-9e9e-82a017aaaf29">
+<common:shortDescription xml:lang="de">Exportierte elektrische Energie (EEE)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3"></epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="18">
+<referenceToFlowDataSet uri="../flows/98daf38a-7a79-46d3-9a37-2b7bd0955810.xml" type="flow data set" refObjectId="98daf38a-7a79-46d3-9a37-2b7bd0955810">
+<common:shortDescription xml:lang="de">Exportierte thermische Energie (EET)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3"></epd:amount>
+</common:other>
+</exchange>
+</exchanges>
+<LCIAResults>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/77e416eb-a363-4258-a04e-171d843a6460.xml" type="LCIA method data set" refObjectId="77e416eb-a363-4258-a04e-171d843a6460">
+<common:shortDescription xml:lang="de">Globales Erwärmungspotenzial (GWP)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/1ebf3012-d0db-4de2-aefd-ef30cedb0be1.xml" type="unit group data set" refObjectId="1ebf3012-d0db-4de2-aefd-ef30cedb0be1">
+<common:shortDescription xml:lang="de">kg CO_(2)-Äq.</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">746.06</epd:amount>
+</common:other>
+</LCIAResult>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/06dcd26f-025f-401a-a7c1-5e457eb54637.xml" type="LCIA method data set" refObjectId="06dcd26f-025f-401a-a7c1-5e457eb54637">
+<common:shortDescription xml:lang="de">Abbau Potential der stratosphärischen Ozonschicht (ODP)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/88054749-b0a6-47ea-a82b-dc5b29326512.xml" type="unit group data set" refObjectId="88054749-b0a6-47ea-a82b-dc5b29326512">
+<common:shortDescription xml:lang="de">kg CFC11-Äq.</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">7.06E-06</epd:amount>
+</common:other>
+</LCIAResult>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/b4274add-93b7-4905-a5e4-2e878c4e4216.xml" type="LCIA method data set" refObjectId="b4274add-93b7-4905-a5e4-2e878c4e4216">
+<common:shortDescription xml:lang="de">Versauerungspotenzial von Boden und Wasser (AP)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/bc50c624-a9bc-45b1-a9b0-e6b10d00476f.xml" type="unit group data set" refObjectId="bc50c624-a9bc-45b1-a9b0-e6b10d00476f">
+<common:shortDescription xml:lang="de">kg SO_(2)-Äq.</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">1.49</epd:amount>
+</common:other>
+</LCIAResult>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/f58827d0-b407-4ec6-be75-8b69efb98a0f.xml" type="LCIA method data set" refObjectId="f58827d0-b407-4ec6-be75-8b69efb98a0f">
+<common:shortDescription xml:lang="de">Eutrophierungspotenzial (EP)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/67b5401d-873c-485f-bcf3-6ae83b918822.xml" type="unit group data set" refObjectId="67b5401d-873c-485f-bcf3-6ae83b918822">
+<common:shortDescription xml:lang="de">kg PO_(4)^(3)-Äq.</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.28</epd:amount>
+</common:other>
+</LCIAResult>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/1e84a202-dae6-42aa-9e9d-71ea48b8be00.xml" type="LCIA method data set" refObjectId="1e84a202-dae6-42aa-9e9d-71ea48b8be00">
+<common:shortDescription xml:lang="de">Bildungspotential für troposphärisches Ozon (POCP)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/01c26c17-9a76-406e-8295-f17b55fd909e.xml" type="unit group data set" refObjectId="01c26c17-9a76-406e-8295-f17b55fd909e">
+<common:shortDescription xml:lang="de">kg Ethen-Äq.</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.22</epd:amount>
+</common:other>
+</LCIAResult>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/f7c73bb9-ab1a-4249-9c6d-379a0de6f67e.xml" type="LCIA method data set" refObjectId="f7c73bb9-ab1a-4249-9c6d-379a0de6f67e">
+<common:shortDescription xml:lang="de">Potenzial für den abiotischen Abbau nicht fossiler Ressourcen (ADPE)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/54ccd2d9-a32a-4fc2-923d-f2c8c93e89d4.xml" type="unit group data set" refObjectId="54ccd2d9-a32a-4fc2-923d-f2c8c93e89d4">
+<common:shortDescription xml:lang="de">kg Sb-Äq.</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.00187</epd:amount>
+</common:other>
+</LCIAResult>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/804ebcdf-309d-4098-8ed8-fdaf2f389981.xml" type="LCIA method data set" refObjectId="804ebcdf-309d-4098-8ed8-fdaf2f389981">
+<common:shortDescription xml:lang="de">Potenzial für den abiotischen Abbau fossiler Brennstoffe (ADPF)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">22189.32</epd:amount>
+</common:other>
+</LCIAResult>
+</LCIAResults>
+</processDataSet>

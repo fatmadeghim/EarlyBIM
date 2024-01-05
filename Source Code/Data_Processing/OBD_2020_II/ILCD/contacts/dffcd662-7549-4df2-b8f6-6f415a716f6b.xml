@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>dffcd662-7549-4df2-b8f6-6f415a716f6b</common:UUID>
+                  <common:shortName xml:lang='de'>Schüco International KG</common:shortName>
+                  <common:name xml:lang='de'>Schüco International KG</common:name>
+                  <contactAddress xml:lang='de'>Karolinenstraße 1-15, 33609 Bielefeld, Germany</contactAddress>
+                  <telephone>+49 (0)521 78 30</telephone>
+                  <telefax>+49 (0)521 78 34 51</telefax>
+                  <email>info@schueco.com</email>
+                  <WWWAddress>www.schueco.com</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2017-07-26T13:52:52.9431256+02:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>b301de32-ea4f-4a90-ab06-c698e8c2683b</common:UUID>
+                  <common:name xml:lang='de'>Betonverband Straße, Landschaft, Garten e.V.</common:name>
+                  <common:shortName xml:lang='de'>Betonverband Straße, Landschaft, Garten e.V.</common:shortName>
+                  <contactAddress xml:lang='de'>Schloßallee 10, 53179 Bonn, Germany</contactAddress>
+                  <telephone>0228 95456 21</telephone>
+                  <telefax>0228 95456 90</telefax>
+                  <email>slg@betoninfo.de</email>
+                  <WWWAddress>www.betonstein.org</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>09.03.2016</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

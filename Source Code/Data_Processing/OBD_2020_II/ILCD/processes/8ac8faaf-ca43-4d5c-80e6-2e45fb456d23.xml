@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<processDataSet xmlns:epd="http://www.iai.kit.edu/EPD/2013" xmlns:common="http://lca.jrc.it/ILCD/Common" xsi:schemaLocation="http://lca.jrc.it/ILCD/Process ../../schemas/EPD_DataSet.xsd" version="1.1" locations="../ILCDLocations.xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://lca.jrc.it/ILCD/Process">
+<processInformation>
+<dataSetInformation>
+<common:UUID>8ac8faaf-ca43-4d5c-80e6-2e45fb456d23</common:UUID>
+<name>
+<baseName xml:lang="de">Eurolight beschichtet</baseName>
+<baseName xml:lang="en">Eurolight decor lightweight boards</baseName>
+<functionalUnitFlowProperties xml:lang="de" />
+</name>
+<classificationInformation>
+<common:classification name="OEKOBAU.DAT">
+<common:class level="0" classId="3">Holz</common:class>
+<common:class level="1" classId="3.2">Holzwerkstoffe</common:class>
+<common:class level="2" classId="3.2.06">Spanplatten</common:class>
+</common:classification>
+<common:classification name="IBUCategories">
+<common:class level="0">02 Bauprodukte</common:class>
+<common:class level="1">Holzwerkstoffe</common:class>
+<common:class level="2">Holzwerkstoffe</common:class>
+</common:classification>
+</classificationInformation>
+<common:generalComment xml:lang="de">EUROLIGHT® dekor ist eine Leichtbauplatte mit einer melaminharzbeschichteten Spanplatte als Decklage und einem Kartonwabenkern im Inneren. Diese Sandwichplatte bietet eine maximale Gewichtseinsparung ohne Verlust von Tragfähigkeit und Steifigkeit.Es wird ein durchschnittliches Produkt mit einer Gesamtstärke von 42,6 mm und einem Flächengewicht von 12,4 kg/m² betrachtet. Die Gesamtstärke sowie das Flächengewicht des Produktes stellen Mittelwerte dar, welche mit den Produktionsmengen der verschiedenen Dicken gewichtet wurden.</common:generalComment>
+<common:generalComment xml:lang="en">EUROLIGHT Decor is a lightweight board with a melamine-faced chipboard as top layer and a cardboard comb core inside. This sandwich board offers maximum weight reduction without loss of load capacity and rigidity. An average product with an overall thickness of 42.6 mm and an area weight of 12.4 kg/m² is being considered. The overall thickness and the area weight of the product represent average values, which were weighted with the production volumes of the various thicknesses.</common:generalComment>
+</dataSetInformation>
+<quantitativeReference>
+<referenceToReferenceFlow>0</referenceToReferenceFlow>
+</quantitativeReference>
+<time>
+<common:referenceYear>2015</common:referenceYear>
+<common:dataSetValidUntil>2020</common:dataSetValidUntil>
+</time>
+<geography>
+<locationOfOperationSupplyOrProduction location="EU-27" />
+</geography>
+<technology>
+<technologyDescriptionAndIncludedProcesses xml:lang="de">Melaminbeschichtete Leichtbauplatte mit Decklagen aus Dünnspanplatte und einer Kartonwaben-Mittellage Herstellung der Rohplatten (Decklage) 1. Rundholzzerspanung 2. Hackschnitzelaufbereitung 3. Restholzaufbereitung 4. Trocknung der Späne auf ca. 2-3 % Restfeuchte 5. Beleimung der Späne 6. Streuung der beleimten Späne auf ein Formband 7. Verpressen des Spänekuchens in einer kontinuierlich arbeitenden Kalander-Heißpresse 8. Schleifen der Ober- und Unterseite 9. Aufteilen und Besäumen des Plattenstranges zu Rohplattenformaten 10. Abstapelung zu Großstapeln Herstellung der Imprägnate 1. Abwicklung der Rohpapiere 2. Aufnahme von Imprägnierharz (MUF) in der Anlage 3. Trocknung des imprägnierten Papiers in beheizten Trocknern 4. Formatierung des endlosen Papiers mittels Querschneider 5. Abstapelung der formatierten Bögen auf Paletten Herstellung der beschichteten Spanplatten: 1. Legung der Imprägnate auf die Oberund Unterseite der Rohplatte 2. Verpressung der Platte in der Heißpresse mit verschieden strukturierten Pressblechen 3. Qualitätssortierung und Abstapelung Herstellung der Leichtbauplatten 1. Auftrennung der beiden verbundenen beschichteten Platten mittels Längskreissägen und Quertrennmesser 2. Beleimung der beiden Decklagen mit PURKlebstoffsystem 3. Expansion der Sechseckwabe im Durchlauftrockner 4. Verbindung der beleimten Decklage mit der Mittellage 5. Kalibrierung des Verbundelementes in einer kontinuierlichen Kalibrierpresse 6. Besäumen und setzen von Trennschnitten 7. Abstapelung und Verpackung der Platten 
+Deklarierte Einheit: 
+Die Deklaration bezieht sich auf die Herstellung voneinem Kubikmeter beschichteter Eurolight Platte.Unbeschichtete Eurolight Platten weisen eine mittlereDichte von 12,4 kg/m² und eine durchschnittliche Gesamtdicke von 42,6 mm auf. Der Durchschnitt wurde nach Produktionsmengen der einzelnen Dicken gewichtet.</technologyDescriptionAndIncludedProcesses>
+<technologyDescriptionAndIncludedProcesses xml:lang="en">Production of rawboards (top layer) in Wörgl 1. Roundwood cutting 2. Wood chip preparation 3. Waste wood treatment 4. Drying the chips to approximately 2 – 3 % residual moisture 5. Applying glue to the chips 6. Spreading the glue-coated chips onto a forming belt 7. Compression of the chip cake in a continuously operating calander hot press 8. Sanding the upper and lower sides 9. Cutting and trimming the board strand into rawboard formats 10. Piling into large stacks Production of lightweight boards in St. Johann 1. Separation of both connected laminated boards via longitudinal circular saws and cross cutting blades 2. Glue-coating of both top layers with the PUR adhesive system 3. Expansion of the hexagonal honeycomb in a tunnel dryer 4. Connection of glue-coated top layer with the medium layer 5. Calibration of the calibration element in a continuous calibration press 6. Trimming and setting of separating cuts 7. Stacking and packing the plates Production of impregnates for lamination in St. Johann 1. Processing the base paper 2. Addition of impregnation resins (MUF) in the plant 3. Drying the impregnated paper in heated dryers 4. Formatting the endless paper by means of a crosscutter 5. Stacking the formatted sheets on pallets 
+Declared unit: 
+The declaration relates to the manufacture of one cubic meter of laminated EUROLIGHT board. Unlaminated Eurolight boards display an average thickness of 12.4 kg/m² and an average overall thickness of 42.6 mm. The average was weighted according to the production volumes of the individual thicknesses.</technologyDescriptionAndIncludedProcesses>
+<technologicalApplicability xml:lang="de">Melaminharzbeschichtete Leichtbauplatten werden im dekorativen Innenausbau, im Möbel- sowie im Türenbau eingesetzt. Sie finden beispielsweise im Küchenbereich als Arbeitsplatte oder als Innentür Anwendung. Leichtbauplatten werden dort eingesetzt, wo ein massives Erscheinungsbild, aber ein geringes Gewicht gewünscht ist.</technologicalApplicability>
+<technologicalApplicability xml:lang="en">Melamine-faced lightweight boards are used in decorative interior design, furniture, as well as door construction. They are employed, for example, in the kitchen area as worktop or as interior door. Lightweight boards are used where a massive look with low weight is desired.</technologicalApplicability>
+<referenceToTechnologyFlowDiagrammOrPicture uri="../sources/98bdd95c-b576-4520-a8eb-4eccc6dfe0ef.xml" type="source data set" refObjectId="98bdd95c-b576-4520-a8eb-4eccc6dfe0ef">
+<common:shortDescription xml:lang="de">Bautechnische Daten</common:shortDescription>
+</referenceToTechnologyFlowDiagrammOrPicture>
+<referenceToTechnologyFlowDiagrammOrPicture uri="../sources/fb1eb2f5-eb80-41fd-843f-ff33ba96f33e.xml" type="source data set" refObjectId="fb1eb2f5-eb80-41fd-843f-ff33ba96f33e">
+<common:shortDescription xml:lang="de">Angabe der deklarierten Einheit</common:shortDescription>
+</referenceToTechnologyFlowDiagrammOrPicture>
+</technology>
+</processInformation>
+<modellingAndValidation>
+<LCIMethodAndAllocation>
+<typeOfDataSet>EPD</typeOfDataSet>
+<referenceToLCAMethodDetails type="source data set" refObjectId="73a19835-5816-42d4-a3ef-9486a386ebd2">
+<common:shortDescription xml:lang="de">Holzwerkstoffe.pdf</common:shortDescription>
+</referenceToLCAMethodDetails>
+<common:other>
+<epd:subType xmlns="http://www.iai.kit.edu/EPD/2013">specific dataset</epd:subType>
+</common:other>
+</LCIMethodAndAllocation>
+<dataSourcesTreatmentAndRepresentativeness>
+<referenceToDataSource type="source data set" refObjectId="4d187542-6c21-4763-9afc-ed7e3dcb0e65">
+<common:shortDescription xml:lang="de">Eurolight beschichtet.pdf</common:shortDescription>
+</referenceToDataSource>
+<referenceToDataSource type="source data set" refObjectId="28d74cc0-db8b-4d7e-bc44-5f6d56ce0c4a">
+<common:shortDescription xml:lang="de">GaBi Database (all versions)</common:shortDescription>
+</referenceToDataSource>
+<referenceToDataSource type="source data set" refObjectId="9422129a-7992-4eaf-aa17-0fca36af4512">
+<common:shortDescription xml:lang="de">GaBi database SP27 2015</common:shortDescription>
+</referenceToDataSource>
+<useAdviceForDataSet xml:lang="de">Gültigkeitsbereich: 
+Dieses Dokument bezieht sich auf die von EGGER Holzwerkstoffe GmbH &amp; Co. OG im Werk Wörgl und St. Johann in Tirol (Österreich) hergestellten beschichteten Leichtbauplatten. 
+Systemgrenze: 
+Es handelt sich um eine „von der Wiege bis zum Werkstor, mit Optionen&quot; EPD. Die Lebenszyklusanalyse für die betrachteten Produkte umfasst die Lebenswegabschnitte „Produktstadium&quot;, sowie „Gutschriften und Lasten jenseits der Grenzen des Produktsystems&quot;. Die Systeme beinhalten somit folgende Stadien gemäß /EN 15804/: Produktstadium (Module A1-A3):Modul A1 Rohstoffbereitstellung und -verarbeitung und Verarbeitungsprozesse von als Input dienenden SekundärstoffenModul A2 Transport zum HerstellerModul A3 HerstellungEntsorgungsstadium (C3)Modul C3:im Sinne der Klimaneutralität werden in C3 die biogenen Kohlendioxid-Emission deklariert Gutschriften und Lasten jenseits der Grenzen desProduktsystems (Modul D):Modul D beinhaltet das Rückgewinnungspotential der Nettoflüsse, welche die Systemgrenze am Lebensende verlassen. Das Produkt erreicht den End-of-Waste Status nach Ausbau aus dem Gebäude und wird zu 100% in einer europäischen Biomasseanlage thermisch verwertet. Die Lasten der thermischen Verwertung und die Gutschriften der erzeugten Energie werden in Modul D deklariert.</useAdviceForDataSet>
+<useAdviceForDataSet xml:lang="en">Scope: 
+This document refers to laminated lightweight boards manufactured by Holzwerkstoffe GmbH &amp; Co. OG in the Wörgl and St. Johann in Tirol (Austria) plants. This document is translated from the German Environmental Product Declaration into English. It is based on the German original version EPD-EGG-20150313-IBD1-DE. The verifier has no influence on the quality of the translation. 
+System boundary: 
+This is a &quot;from cradle to factory gate, with options&quot; EPD. The life cycle analysis for the products under consideration encompasses the following segments of the life cycle: “Product stage” and “Credits and charges beyond the limits of the product system”. The systems therefore encompass the following stages according to /EN 15804/: Product stage (module A1-A3): Module A1 Procurement and processing of raw materials as well as processing of secondary raw materials serving as inputs Module A2 Transportation to the manufacturer Module A3 Production Disposal stage (C3)Module C3: in the sense of climate neutrality, biogenic carbon dioxide emissions are declared in C3  Credits and debits beyond the limits of the product system (module D): Module D includes the recovery potential of the net flows leaving the system border at the end of the life cycle. The product reaches the end-of-waste status after being removed from the building and 100% of it is thermally utilised in a biomass facility. The effects of the thermal utilisation and the credits of the generated energy are declared in Module D.</useAdviceForDataSet>
+</dataSourcesTreatmentAndRepresentativeness>
+<validation>
+<review type="Accredited third party review">
+<common:referenceToNameOfReviewerAndInstitution uri="../contacts/d111dbec-b024-4be5-86c5-752d6eb2cf95.xml" type="contact data set" refObjectId="d111dbec-b024-4be5-86c5-752d6eb2cf95">
+<common:shortDescription xml:lang="de">IBU</common:shortDescription>
+</common:referenceToNameOfReviewerAndInstitution>
+<common:referenceToCompleteReviewReport type="source data set" />
+</review>
+</validation>
+<complianceDeclarations>
+<compliance>
+<common:referenceToComplianceSystem uri="../sources/b00f9ec0-7874-11e3-981f-0800200c9a66.xml" type="source data set" refObjectId="b00f9ec0-7874-11e3-981f-0800200c9a66">
+<common:shortDescription xml:lang="de">DIN EN 15804</common:shortDescription>
+</common:referenceToComplianceSystem>
+</compliance>
+<compliance>
+<common:referenceToComplianceSystem type="source data set">
+<common:shortDescription xml:lang="de">ISO 14025</common:shortDescription>
+</common:referenceToComplianceSystem>
+</compliance>
+</complianceDeclarations>
+</modellingAndValidation>
+<administrativeInformation>
+<dataEntryBy>
+<common:timeStamp>2015-11-20T09:18:40.515</common:timeStamp>
+<common:referenceToDataSetFormat uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40.xml" type="source data set" refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40">
+<common:shortDescription xml:lang="de">ILCD Format 1.1</common:shortDescription>
+</common:referenceToDataSetFormat>
+<common:referenceToDataSetFormat uri="../sources/cba73800-7874-11e3-981f-0800200c9a66.xml" type="source data set" refObjectId="cba73800-7874-11e3-981f-0800200c9a66">
+<common:shortDescription xml:lang="de">EPD-Datenformaterweiterungen</common:shortDescription>
+</common:referenceToDataSetFormat>
+<common:referenceToPersonOrEntityEnteringTheData uri="../contacts/ad8ad627-3991-42b7-a7ca-5a3fe0a34c28.xml" type="contact data set" refObjectId="ad8ad627-3991-42b7-a7ca-5a3fe0a34c28">
+<common:shortDescription xml:lang="de">Daxner &amp; Merl GmbH</common:shortDescription>
+</common:referenceToPersonOrEntityEnteringTheData>
+</dataEntryBy>
+<publicationAndOwnership>
+<common:dataSetVersion>00.04.000</common:dataSetVersion>
+<common:referenceToOwnershipOfDataSet uri="../contacts/3ccb1a8b-2f9d-4de9-b22b-777128355981.xml" type="contact data set" refObjectId="3ccb1a8b-2f9d-4de9-b22b-777128355981">
+<common:shortDescription xml:lang="de">Fritz EGGER GmbH &amp; Co. OG Holzwerkstoffe</common:shortDescription>
+</common:referenceToOwnershipOfDataSet>
+<common:copyright>true</common:copyright>
+</publicationAndOwnership>
+</administrativeInformation>
+<exchanges>
+<exchange dataSetInternalID="0">
+<referenceToFlowDataSet uri="../flows/ae21ded8-3ae8-5cac-4445-700acd6daa0c.xml" type="flow data set" refObjectId="ae21ded8-3ae8-5cac-4445-700acd6daa0c">
+<common:shortDescription xml:lang="de">1 m² beschichtete Leichtbauplatte (1 m² beschichtete Leichtbauplatte)</common:shortDescription>
+</referenceToFlowDataSet>
+<meanAmount>1</meanAmount>
+<referencesToDataSource />
+</exchange>
+<exchange dataSetInternalID="1">
+<referenceToFlowDataSet uri="../flows/20f32be5-0398-4288-9b6d-accddd195317.xml" type="flow data set" refObjectId="20f32be5-0398-4288-9b6d-accddd195317">
+<common:shortDescription xml:lang="de">Erneuerbare Primärenergie als Energieträger (PERE)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">49.0862087814595</epd:amount>
+<epd:amount epd:module="C3"></epd:amount>
+<epd:amount epd:module="D"></epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="2">
+<referenceToFlowDataSet uri="../flows/fb3ec0de-548d-4508-aea5-00b73bf6f702.xml" type="flow data set" refObjectId="fb3ec0de-548d-4508-aea5-00b73bf6f702">
+<common:shortDescription xml:lang="de">Erneuerbare Primärenergie zur stofflichen Nutzung (PERM)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">187.623039052182</epd:amount>
+<epd:amount epd:module="C3"></epd:amount>
+<epd:amount epd:module="D"></epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="3">
+<referenceToFlowDataSet uri="../flows/53f97275-fa8a-4cdd-9024-65936002acd0.xml" type="flow data set" refObjectId="53f97275-fa8a-4cdd-9024-65936002acd0">
+<common:shortDescription xml:lang="de">Total erneuerbare Primärenergie (PERT)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">236.709247833641</epd:amount>
+<epd:amount epd:module="C3"></epd:amount>
+<epd:amount epd:module="D">-29.312478133909</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="4">
+<referenceToFlowDataSet uri="../flows/ac857178-2b45-46ec-892a-a9a4332f0372.xml" type="flow data set" refObjectId="ac857178-2b45-46ec-892a-a9a4332f0372">
+<common:shortDescription xml:lang="de">Nicht-erneuerbare Primärenergie als Energieträger (PENRE)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">148.811281359665</epd:amount>
+<epd:amount epd:module="C3"></epd:amount>
+<epd:amount epd:module="D"></epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="5">
+<referenceToFlowDataSet uri="../flows/1421caa0-679d-4bf4-b282-0eb850ccae27.xml" type="flow data set" refObjectId="1421caa0-679d-4bf4-b282-0eb850ccae27">
+<common:shortDescription xml:lang="de">Nicht-erneuerbare Primärenergie zur stofflichen Nutzung (PENRM)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">30.749856334776</epd:amount>
+<epd:amount epd:module="C3"></epd:amount>
+<epd:amount epd:module="D"></epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="6">
+<referenceToFlowDataSet uri="../flows/06159210-646b-4c8d-8583-da9b3b95a6c1.xml" type="flow data set" refObjectId="06159210-646b-4c8d-8583-da9b3b95a6c1">
+<common:shortDescription xml:lang="de">Total nicht erneuerbare Primärenergie (PENRT)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">179.561137694441</epd:amount>
+<epd:amount epd:module="C3"></epd:amount>
+<epd:amount epd:module="D">-217.096764789779</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="7">
+<referenceToFlowDataSet uri="../flows/c6a1f35f-2d09-4f54-8dfb-97e502e1ce92.xml" type="flow data set" refObjectId="c6a1f35f-2d09-4f54-8dfb-97e502e1ce92">
+<common:shortDescription xml:lang="de">Einsatz von Sekundärstoffen (SM)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.383</epd:amount>
+<epd:amount epd:module="C3"></epd:amount>
+<epd:amount epd:module="D">0</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="8">
+<referenceToFlowDataSet uri="../flows/64333088-a55f-4aa2-9a31-c10b07816787.xml" type="flow data set" refObjectId="64333088-a55f-4aa2-9a31-c10b07816787">
+<common:shortDescription xml:lang="de">Erneuerbare Sekundärbrennstoffe (RSF)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+<epd:amount epd:module="C3"></epd:amount>
+<epd:amount epd:module="D">187.623039052182</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="9">
+<referenceToFlowDataSet uri="../flows/89def144-d39a-4287-b86f-efde453ddcb2.xml" type="flow data set" refObjectId="89def144-d39a-4287-b86f-efde453ddcb2">
+<common:shortDescription xml:lang="de">Nicht erneuerbare Sekundärbrennstoffe (NRSF)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+<epd:amount epd:module="C3"></epd:amount>
+<epd:amount epd:module="D">30.749856334776</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="10">
+<referenceToFlowDataSet uri="../flows/3cf952c8-f3a4-461d-8c96-96456ca62246.xml" type="flow data set" refObjectId="3cf952c8-f3a4-461d-8c96-96456ca62246">
+<common:shortDescription xml:lang="de">Einsatz von Süßwasserressourcen (FW)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/cd950537-0a98-4044-9ba7-9f9a68d0a504.xml" type="unit group data set" refObjectId="cd950537-0a98-4044-9ba7-9f9a68d0a504">
+<common:shortDescription xml:lang="de">m^3</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.0396959581054398</epd:amount>
+<epd:amount epd:module="C3"></epd:amount>
+<epd:amount epd:module="D">-0.0423974526127276</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="11">
+<referenceToFlowDataSet uri="../flows/430f9e0f-59b2-46a0-8e0d-55e0e84948fc.xml" type="flow data set" refObjectId="430f9e0f-59b2-46a0-8e0d-55e0e84948fc">
+<common:shortDescription xml:lang="de">Gefährlicher Abfall zur Deponie (HWD)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.000179760278381544</epd:amount>
+<epd:amount epd:module="C3"></epd:amount>
+<epd:amount epd:module="D">-7.62263463241858E-05</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="12">
+<referenceToFlowDataSet uri="../flows/b29ef66b-e286-4afa-949f-62f1a7b4d7fa.xml" type="flow data set" refObjectId="b29ef66b-e286-4afa-949f-62f1a7b4d7fa">
+<common:shortDescription xml:lang="de">Entsorgter nicht gefährlicher Abfall (NHWD)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.0627962223807597</epd:amount>
+<epd:amount epd:module="C3"></epd:amount>
+<epd:amount epd:module="D">0.0247992123459454</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="13">
+<referenceToFlowDataSet uri="../flows/3449546e-52ad-4b39-b809-9fb77cea8ff6.xml" type="flow data set" refObjectId="3449546e-52ad-4b39-b809-9fb77cea8ff6">
+<common:shortDescription xml:lang="de">Entsorgter radioaktiver Abfall (RWD)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.00282977117292649</epd:amount>
+<epd:amount epd:module="C3"></epd:amount>
+<epd:amount epd:module="D">-0.0208591872441541</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="14">
+<referenceToFlowDataSet uri="../flows/a2b32f97-3fc7-4af2-b209-525bc6426f33.xml" type="flow data set" refObjectId="a2b32f97-3fc7-4af2-b209-525bc6426f33">
+<common:shortDescription xml:lang="de">Komponenten für die Wiederverwendung (CRU)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+<epd:amount epd:module="C3"></epd:amount>
+<epd:amount epd:module="D"></epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="15">
+<referenceToFlowDataSet uri="../flows/d7fe48a5-4103-49c8-9aae-b0b5dfdbd6ae.xml" type="flow data set" refObjectId="d7fe48a5-4103-49c8-9aae-b0b5dfdbd6ae">
+<common:shortDescription xml:lang="de">Stoffe zum Recycling (MFR)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+<epd:amount epd:module="C3"></epd:amount>
+<epd:amount epd:module="D"></epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="16">
+<referenceToFlowDataSet uri="../flows/59a9181c-3aaf-46ee-8b13-2b3723b6e447.xml" type="flow data set" refObjectId="59a9181c-3aaf-46ee-8b13-2b3723b6e447">
+<common:shortDescription xml:lang="de">Stoffe für die Energierückgewinnung (MER)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3"></epd:amount>
+<epd:amount epd:module="C3">12.7</epd:amount>
+<epd:amount epd:module="D"></epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="17">
+<referenceToFlowDataSet uri="../flows/4da0c987-2b76-40d6-9e9e-82a017aaaf29.xml" type="flow data set" refObjectId="4da0c987-2b76-40d6-9e9e-82a017aaaf29">
+<common:shortDescription xml:lang="de">Exportierte elektrische Energie (EEE)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3"></epd:amount>
+<epd:amount epd:module="C3"></epd:amount>
+<epd:amount epd:module="D"></epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="18">
+<referenceToFlowDataSet uri="../flows/98daf38a-7a79-46d3-9a37-2b7bd0955810.xml" type="flow data set" refObjectId="98daf38a-7a79-46d3-9a37-2b7bd0955810">
+<common:shortDescription xml:lang="de">Exportierte thermische Energie (EET)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3"></epd:amount>
+<epd:amount epd:module="C3"></epd:amount>
+<epd:amount epd:module="D"></epd:amount>
+</common:other>
+</exchange>
+</exchanges>
+<LCIAResults>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/77e416eb-a363-4258-a04e-171d843a6460.xml" type="LCIA method data set" refObjectId="77e416eb-a363-4258-a04e-171d843a6460">
+<common:shortDescription xml:lang="de">Globales Erwärmungspotenzial (GWP)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/1ebf3012-d0db-4de2-aefd-ef30cedb0be1.xml" type="unit group data set" refObjectId="1ebf3012-d0db-4de2-aefd-ef30cedb0be1">
+<common:shortDescription xml:lang="de">kg CO_(2)-Äq.</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">-7.85918105862907</epd:amount>
+<epd:amount epd:module="C3">20.4395</epd:amount>
+<epd:amount epd:module="D">-12.2991410706255</epd:amount>
+</common:other>
+</LCIAResult>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/06dcd26f-025f-401a-a7c1-5e457eb54637.xml" type="LCIA method data set" refObjectId="06dcd26f-025f-401a-a7c1-5e457eb54637">
+<common:shortDescription xml:lang="de">Abbau Potential der stratosphärischen Ozonschicht (ODP)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/88054749-b0a6-47ea-a82b-dc5b29326512.xml" type="unit group data set" refObjectId="88054749-b0a6-47ea-a82b-dc5b29326512">
+<common:shortDescription xml:lang="de">kg CFC11-Äq.</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">2.7433117149801E-10</epd:amount>
+<epd:amount epd:module="C3"></epd:amount>
+<epd:amount epd:module="D">-5.82060871698404E-09</epd:amount>
+</common:other>
+</LCIAResult>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/b4274add-93b7-4905-a5e4-2e878c4e4216.xml" type="LCIA method data set" refObjectId="b4274add-93b7-4905-a5e4-2e878c4e4216">
+<common:shortDescription xml:lang="de">Versauerungspotenzial von Boden und Wasser (AP)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/bc50c624-a9bc-45b1-a9b0-e6b10d00476f.xml" type="unit group data set" refObjectId="bc50c624-a9bc-45b1-a9b0-e6b10d00476f">
+<common:shortDescription xml:lang="de">kg SO_(2)-Äq.</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.0276847425028915</epd:amount>
+<epd:amount epd:module="C3"></epd:amount>
+<epd:amount epd:module="D">-0.00756650647790033</epd:amount>
+</common:other>
+</LCIAResult>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/f58827d0-b407-4ec6-be75-8b69efb98a0f.xml" type="LCIA method data set" refObjectId="f58827d0-b407-4ec6-be75-8b69efb98a0f">
+<common:shortDescription xml:lang="de">Eutrophierungspotenzial (EP)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/67b5401d-873c-485f-bcf3-6ae83b918822.xml" type="unit group data set" refObjectId="67b5401d-873c-485f-bcf3-6ae83b918822">
+<common:shortDescription xml:lang="de">kg PO_(4)^(3)-Äq.</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.00733512360148831</epd:amount>
+<epd:amount epd:module="C3"></epd:amount>
+<epd:amount epd:module="D">5.64760519441785E-06</epd:amount>
+</common:other>
+</LCIAResult>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/1e84a202-dae6-42aa-9e9d-71ea48b8be00.xml" type="LCIA method data set" refObjectId="1e84a202-dae6-42aa-9e9d-71ea48b8be00">
+<common:shortDescription xml:lang="de">Bildungspotential für troposphärisches Ozon (POCP)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/01c26c17-9a76-406e-8295-f17b55fd909e.xml" type="unit group data set" refObjectId="01c26c17-9a76-406e-8295-f17b55fd909e">
+<common:shortDescription xml:lang="de">kg Ethen-Äq.</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.00660220626569593</epd:amount>
+<epd:amount epd:module="C3"></epd:amount>
+<epd:amount epd:module="D">0.00102039797525965</epd:amount>
+</common:other>
+</LCIAResult>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/f7c73bb9-ab1a-4249-9c6d-379a0de6f67e.xml" type="LCIA method data set" refObjectId="f7c73bb9-ab1a-4249-9c6d-379a0de6f67e">
+<common:shortDescription xml:lang="de">Potenzial für den abiotischen Abbau nicht fossiler Ressourcen (ADPE)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/54ccd2d9-a32a-4fc2-923d-f2c8c93e89d4.xml" type="unit group data set" refObjectId="54ccd2d9-a32a-4fc2-923d-f2c8c93e89d4">
+<common:shortDescription xml:lang="de">kg Sb-Äq.</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">7.26507148102257E-06</epd:amount>
+<epd:amount epd:module="C3"></epd:amount>
+<epd:amount epd:module="D">-1.40057293764101E-06</epd:amount>
+</common:other>
+</LCIAResult>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/804ebcdf-309d-4098-8ed8-fdaf2f389981.xml" type="LCIA method data set" refObjectId="804ebcdf-309d-4098-8ed8-fdaf2f389981">
+<common:shortDescription xml:lang="de">Potenzial für den abiotischen Abbau fossiler Brennstoffe (ADPF)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">172.421473633751</epd:amount>
+<epd:amount epd:module="C3"></epd:amount>
+<epd:amount epd:module="D">-164.73300202725</epd:amount>
+</common:other>
+</LCIAResult>
+</LCIAResults>
+</processDataSet>

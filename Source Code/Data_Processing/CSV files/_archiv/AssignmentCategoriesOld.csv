@@ -1,0 +1,170 @@
+Kategorie;KG;Zusatzinfo;Bauweise;Anmerkungen;verwendbar für frühe Planungsphasen
+Beschichtungen / Fassadenfarben / Dispersion;335B;Finish;Holz, Hybrid, MW, StB, Stahl;;x
+Beschichtungen / Fassadenfarben / Silikat-Dispersion;335B;Finish;Holz, Hybrid, MW, StB, Stahl;;x
+Beschichtungen / Fassadenfarben / Silikonharz;335B;Finish;Holz, Hybrid, MW, StB, Stahl;;x
+Beschichtungen / Grundierungen / Grundierungen Farben und Putze;;;;Grundierung: nähere Eingrenzung in den Datensätzen;o
+Beschichtungen / Innenbeschichtungen / Innenfarben;336, 345, 354, 364;Finish;Holz, Hybrid, MW, StB, Stahl;;x
+Beschichtungen / Innenbeschichtungen / Wand- und Deckenbeläge;336, 345, 354, 364;Finish;Holz, Hybrid, MW, StB, Stahl;nur auf Trägermaterial Holzwerkstoff;x
+Beschichtungen / Lacke und Lasuren / Lacksysteme Holzfassade;335B;Finish;Holz, Hybrid, MW, StB, Stahl;;x
+Beschichtungen / Lacke und Lasuren / Lacksysteme Holzfenster;334;Finish;Holz, Hybrid, MW, StB, Stahl;;x
+Beschichtungen / Lacke und Lasuren / Lacksysteme Metall;334, 335B, 336, 344, 345, 354, 362, 363, 364;Finish;Holz, Hybrid, MW, StB, Stahl;nur auf Trägermaterial Metall, wie (Nass-) Lackieren von Metallen 4.7.02;o
+Beschichtungen / Lacke und Lasuren / Parkettlack;324, 353;Finish;Holz, Hybrid, MW, StB, Stahl;;x
+Dämmstoffe / Baumwolle / Baumwolle konventionell;331B, 332, 336, 342, 345, 351, 354, 361, 364;Dämmung weich;Holz, Hybrid, MW, StB, Stahl;;x
+Dämmstoffe / Baumwolle / Baumwolle ökologisch;331B, 332, 336, 342, 345, 351, 354, 361, 364;Dämmung weich;Holz, Hybrid, MW, StB, Stahl;;x
+Dämmstoffe / Blähperlit / Platten;;Dämmung hart;Holz, Hybrid, MW, StB, Stahl;"""Indoor"" -> Innendämmung; ""Outdoor"" -> Außendämmung";x
+Dämmstoffe / Calciumsilikat / Calcium-Silikathydrat / Calciumsilikat;;Dämmung hart;Holz, Hybrid, MW, StB, Stahl;;
+Dämmstoffe / Dämmelemente / Isokörbe;322, 331A, 331B, 351, 361;Zusatzelement;StB;;o
+Dämmstoffe / Expandierter Kork / Expandierter Kork;324, 336, 345, 353, 354, 364;Dämmung hart;Holz, Hybrid, MW, StB, Stahl;;x
+Dämmstoffe / Expandiertes Polystyrol (EPS) / EPS grau;324, 335B, 336, 345, 353, 354, 363, 364;Dämmung hart;Holz, Hybrid, MW, StB, Stahl;;x
+Dämmstoffe / Expandiertes Polystyrol (EPS) / EPS weiß;324, 335B, 336, 345, 353, 354, 363, 364;Dämmung hart;Holz, Hybrid, MW, StB, Stahl;;x
+Dämmstoffe / Extrudiertes Polystyrol (XPS) / XPS weiß;324, 325, 335A, 335B, 336, 345, 353, 354, 363, 364;Dämmung hart;Holz, Hybrid, MW, StB, Stahl;;x
+Dämmstoffe / Flachsfaser / Vlies;331B, 332, 336, 342, 345, 351, 354, 361, 364;Dämmung weich;Holz, Hybrid, MW, StB, Stahl;;x
+Dämmstoffe / Hanffaser / Vlies;331B, 332, 336, 342, 345, 351, 354, 361, 364;Dämmung weich;Holz, Hybrid, MW, StB, Stahl;;x
+Dämmstoffe / Harnstoff-Formaldehydharz / Ortschaum;;;;wird nur sehr selten verwendet zum Ausschäumen von Hohlräumen;o
+Dämmstoffe / Holzfasern / Holzfaserdämmplatte;324, 335B, 336, 345, 353, 354, 363, 364;Dämmung hart;Holz, Hybrid, MW, StB, Stahl;;x
+Dämmstoffe / Holzfasern / Holzfasern und Holzspäne, lose;331B, 332, 336, 342, 345, 351, 361;Dämmung weich;Holz, Hybrid, MW, StB, Stahl;;x
+Dämmstoffe / Holzwolleplatten / Holzwolleleichtbauplatten;324, 335B, 336, 345, 353, 354, 363, 364;Dämmung hart;Holz, Hybrid, MW, StB, Stahl;;x
+Dämmstoffe / Melaminharz / Schaum;336, 345, 354, 364;Dämmung hart;Holz, Hybrid, MW, StB, Stahl;Schallschutz;x
+Dämmstoffe / Mineralwolle / Mineralwolle;331B, 332, 336, 342, 345, 351, 361;Dämmung weich;Holz, Hybrid, MW, StB, Stahl;;x
+Dämmstoffe / Mineralwolle / Steinwolle;331B, 332, 336, 342, 345, 351, 361;Dämmung weich;Holz, Hybrid, MW, StB, Stahl;;x
+Dämmstoffe / Phenolharz-Hartschaum (PF) / PF-Platten;;Dämmung hart;Holz, Hybrid, MW, StB, Stahl;nähere Eingrenzung in den Datensätzen;
+Dämmstoffe / Polyethylen / Schaum;;;;KG 400 ;
+Dämmstoffe / Polyurethan-Hartschaum (PU) / PIR-Hartschaum;324, 325, 335A, 335B, 336, 345, 353, 354, 363, 364;Dämmung hart;Holz, Hybrid, MW, StB, Stahl;;x
+Dämmstoffe / Polyurethan-Hartschaum (PU) / PU Blockschaum;324, 325, 335A, 335B, 336, 345, 353, 354, 363, 364;Dämmung hart;Holz, Hybrid, MW, StB, Stahl;;x
+Dämmstoffe / Polyurethan-Hartschaum (PU) / PU mit Aluminium;;;;derzeit nur 1 Dämmstoff drin, der zu KG 400 gehört;
+Dämmstoffe / Polyurethan-Hartschaum (PU) / PU mit Mineralvlies;324, 325, 335A, 335B, 336, 345, 353, 354, 363, 364;Dämmung hart;Holz, Hybrid, MW, StB, Stahl;;x
+Dämmstoffe / Schaumglas / Platten;324, 325, 335A, 335B, 336, 345, 353, 354, 363, 364;Dämmung hart;Holz, Hybrid, MW, StB, Stahl;;x
+Dämmstoffe / Stroh / Strohballen;331B, 332, 341, 342, 351, 361;Dämmung weich;Holz;Stichwort: Ausfachung;x
+Dämmstoffe / Wärmedämmverbundsystem / Wärmedämmverbundsystem;335B;;;"nähere Eingrenzung in den Datensätzen; Datensätze, die Dämmung enthalten, sind nicht nutzbar, da zu unflexibel";x
+Dämmstoffe / Zellulosefaser / Zellulose-Einblas-Dämmstoff;331B, 332, 336, 342, 345, 351, 361;Dämmung weich;Holz, Hybrid, MW, StB, Stahl;;x
+Dämmstoffe / Zellulosefaser / Zelluloseplatten;324, 335B, 336, 345, 353, 354, 363, 364;Dämmung hart;Holz, Hybrid, MW, StB, Stahl;;x
+End of Life / Generisch / Bauschutt;EoL;;;sollten nicht mehr gebraucht werden, da EoL in Datensätzen enthalten ;o
+End of Life / Generisch / Hausmüll;EoL;;;;o
+End of Life / Generisch / Holz;EoL;;;;o
+End of Life / Generisch / Kunststoffe;EoL;;;;o
+End of Life / Generisch / Metalle;EoL;;;;o
+Holz / Holzböden / Kork;324,353;Bodenbelag;Holz, Hybrid, MW, StB, Stahl;;x
+Holz / Holzböden / Parkett;324,353;Bodenbelag;Holz, Hybrid, MW, StB, Stahl;;x
+Holz / Holzwerkstoffe / 3- und 5-Schichtplatten;331B, 336, 341, 345, 351, 354, 364, 361;Platten;Holz, Hybrid, MW, StB, Stahl;;x
+Holz / Holzwerkstoffe / Funierschichtholz;336, 345, 354, 364;Innenverkleidung;Holz, Hybrid, MW, StB, Stahl;Innenoberflächen;x
+Holz / Holzwerkstoffe / Holzfaserplatten;;Platten;Holz, Hybrid, MW, StB, Stahl;nähere Eingrenzung in den Datensätzen;x
+Holz / Holzwerkstoffe / Laminated Veneer Lumber (LVL);331B, 336, 341, 345, 351, 354, 364, 361;Platten;Holz, Hybrid, MW, StB, Stahl;(wie 3- und 5-Schichtplatten);x
+Holz / Holzwerkstoffe / OSB-Platte;331B, 336, 341, 345, 351, 354, 364, 361;Platten;Holz, Hybrid, MW, StB, Stahl;wird außerdem als Aussteifung im Holzbau angewendet → 331B, 332, 351, 361;x
+Holz / Holzwerkstoffe / Spanplatten;;Platten;Holz, Hybrid, MW, StB, Stahl;nähere Eingrenzung in den Datensätzen;x
+Holz / Holzwerkstoffe / Sperrholz;331B, 336, 341, 345, 351, 354, 364, 361;Platten;Holz, Hybrid, MW, StB, Stahl;;x
+Holz / Holzwerkstoffe / Wood-Plastic-Composites;;Außenverkleidung;Holz, Hybrid, MW, StB, Stahl;"einzelne Datensätze enthalten detailliertere Informationen („Fassade“ → 335B; „Terrasse“-> 363)";x
+Holz / Vollholz / Balkenschichtholz (Duo-Triobalken);331B, 341, 351, 361;Träger;Holz, Hybrid, MW, StB, Stahl;;x
+Holz / Vollholz / Bau-Schnittholz;;Unterkonstruktion;;nähere Eingrenzung in den Datensätzen;x
+Holz / Vollholz / Brettschichtholz (BSH);331B, 341, 351, 361;Träger, Platten;Holz, Hybrid, MW, StB, Stahl;;x
+Holz / Vollholz / Brettschichtholzplatte;331B, 341, 351, 361;Platten;Holz, Hybrid, MW, StB, Stahl;;x
+Holz / Vollholz / Konstruktionsvollholz;331B, 332, 341, 342, 351, 361;Balken, Stützen, Ständer, Unterkonstruktion;"Holz, Hybrid; MW, StB, Stahl: nur Dach";;x
+Komponenten von Fenstern und Vorhangfassaden / Antriebssysteme / elektrisch;334, 344;;;;o
+Komponenten von Fenstern und Vorhangfassaden / Antriebssysteme / mechanisch;334, 344;;;;o
+Komponenten von Fenstern und Vorhangfassaden / Beschläge / Aluminiumbeschläge;334, 344, 362;Beschlag;;;x
+Komponenten von Fenstern und Vorhangfassaden / Beschläge / Befestigungen;334, 344, 362;Befestigung;;;x
+Komponenten von Fenstern und Vorhangfassaden / Beschläge / Fenstergriffe;334, 344, 362;Griff;;;x
+Komponenten von Fenstern und Vorhangfassaden / Beschläge / Stahlbeschläge;334, 344, 362;Beschlag;;;x
+Komponenten von Fenstern und Vorhangfassaden / Dichtungskomponenten / -materialien / Dichtprofile;334, 344, 362;Dichtung;;;o
+Komponenten von Fenstern und Vorhangfassaden / Dichtungskomponenten / -materialien / Elastomer-Fugenbänder;334, 344, 362;Dichtung;;;o
+Komponenten von Fenstern und Vorhangfassaden / Dichtungskomponenten / -materialien / Fugendichtungsbänder;334, 344, 362;Dichtung;;;o
+Komponenten von Fenstern und Vorhangfassaden / Füllungen / Opake Füllungen;334, 344, 362;Platten;;;x
+Komponenten von Fenstern und Vorhangfassaden / Füllungen / Transparente Füllungen;334, 344, 362;transparent;;;x
+Komponenten von Fenstern und Vorhangfassaden / Rahmen / Profile / Aluminium;334, 344, 362;Rahmen;;;x
+Komponenten von Fenstern und Vorhangfassaden / Rahmen / Profile / Aluminium thermisch getrennt;334, 344, 362;Rahmen;;;x
+Komponenten von Fenstern und Vorhangfassaden / Rahmen / Profile / Holz;334, 344, 362;Rahmen;;;x
+Komponenten von Fenstern und Vorhangfassaden / Rahmen / Profile / PVC;334, 344, 362;Rahmen;;;x
+Komponenten von Fenstern und Vorhangfassaden / Rahmen / Profile / Stahl;334, 344, 362;Rahmen;;;x
+Komponenten von Fenstern und Vorhangfassaden / Türen und Tore / Aluminium;334, 344;Tür;;;x
+Komponenten von Fenstern und Vorhangfassaden / Türen und Tore / Stahl;334, 344;Tür;;;x
+Komposite / Systembauteile / Decken;324, 351, 353;komplett;;eigentlich Boden- und Deckensysteme;
+Komposite / Systembauteile / Innenwände;345;;;nähere Eingrenzung in den Datensätzen;
+Kunststoffe / Bodenbeläge / Gummi-/Kautschuk-Bodenbeläge;324,353;Bodenbelag;;;x
+Kunststoffe / Bodenbeläge / Linoleum-Bodenbeläge;324,353;Bodenbelag;;;x
+Kunststoffe / Bodenbeläge / PVC-Bodenbeläge;324,353;Bodenbelag;;;x
+Kunststoffe / Bodenbeläge / Textile Bodenbeläge;324,353;Bodenbelag;;;x
+Kunststoffe / Dachbahnen / Bitumen-Dachbahnen;353;Dachbahn;;;x
+Kunststoffe / Dachbahnen / ECB-Dachbahnen (Ethylen-Copolymer-Bitumen);353;Dachbahn;;;x
+Kunststoffe / Dachbahnen / Elastomer-Dachbahnen;353;Dachbahn;;;x
+Kunststoffe / Dachbahnen / EVA-Dachbahnen (Etylen-Vinylacetat);353;Dachbahn;;;x
+Kunststoffe / Dachbahnen / PIB-Dachbahnen (Polyisobutylen);353;Dachbahn;;;x
+Kunststoffe / Dachbahnen / PVC-Dachbahnen;353;Dachbahn;;;x
+Kunststoffe / Dichtmassen / Acrylat;;Dichtung;;;o
+Kunststoffe / Dichtmassen / Bitumen;;Dichtung;;;o
+Kunststoffe / Dichtmassen / Kautschuk;;Dichtung;;;o
+Kunststoffe / Dichtmassen / PUR;;Dichtung;;;o
+Kunststoffe / Dichtmassen / PVC;;Dichtung;;;o
+Kunststoffe / Dichtmassen / Silikon;;Dichtung;;;o
+Kunststoffe / Folien und Vliese / Baupappen;324, 336, 353, 354, 364;Dampfbremse, Rieselschutz, Trennschicht;;;x
+Kunststoffe / Folien und Vliese / Dampfbremse / Dampfsperre;324, 336, 364;Dampfbremse;;;x
+Kunststoffe / Folien und Vliese / Folien zur Abdichtung;325, 335A, 363;Abdichtung;;?Trennschicht?;x
+Kunststoffe / Folien und Vliese / Technische Textilien;;;;"sehr unterschiedlicher Anwendungsbereich (Dach- und Fassadenkonstruktionen bis Sonnenschutztuch; ";
+Kunststoffe / Folien und Vliese / Unterspannbahn;363, 335B;Unterspannbahn;;;x
+Kunststoffe / Folien und Vliese / Vliese;;;;Glasvlies und PE/PP Vlies -> Putzgewebe?;o
+Kunststoffe / Kunststoffprofile elastisch / Harz-Komposit Fassadenplatten;335B;Platten;;falscher Name der 2. UK;x
+Kunststoffe / Kunststoffprofile elastisch / Transparente Platten;344, 362;transparent;;falscher Name der 2. UK;x
+Kunststoffe / Profile / Kunststoffprofile elastisch;;;;Kleinteile (Rammschutz, Fensterdichtungen etc. → für frühe Phasen ggf. ungeeignet?;o
+Kunststoffe / Profile / Kunststoffprofile hart;;;;"Einzelne Datensätze enthalten detailliertere Informationen; sehr heterogen, z.T. auch: KG 400 (Kabelkanal, …)";o
+Metalle / Aluminium / Aluminiumbleche;335B, 336, 363, 345, 354, 364;Innenverkleidung, Außenverkleidung;;;x
+Metalle / Aluminium / Aluminiumfolie;324, 336, 364;Dampfbremse;;;x
+Metalle / Aluminium / Aluminiumprofil;334, 335B, 344, 354, 364, 362;Unterkonstruktion;;;x
+Metalle / Aluminium / Gussteile aus Aluminium;;;;KG 400;o
+Metalle / Blei / Bleibleche;335B, 363;Verkleidung;;;x
+Metalle / Edelstahl / Edelstahlbleche;335B, 363;Verkleidung;;;x
+Metalle / Kupfer / Schmiede- und Gussteile aus Kupfer und Messing;;;;KG400;o
+Metalle / Oberflächenbehandlung und Beschichtung von Metallen / (Nass-) Lackieren von Metallen;334, 335B, 336, 344, 345, 354, 362, 363, 364;Finish;;nur auf Trägermaterial Metall;x
+Metalle / Oberflächenbehandlung und Beschichtung von Metallen / Anodisieren von Aluminium;334, 335B, 336, 344, 345, 354, 362, 363, 364;Finish;;nur auf Trägermaterial Metall;x
+Metalle / Oberflächenbehandlung und Beschichtung von Metallen / Pulverbeschichten;334, 335B, 336, 344, 345, 354, 362, 363, 364;Finish;;nur auf Trägermaterial Metall;x
+Metalle / Stahl und Eisen / Betonstahlmatten;322, 331A, 331B, 341, 351, 361;Bewehrung;StB;;x
+Metalle / Stahl und Eisen / Guss- und Schmiedeteile aus Stahl und Eisen;;;;KG 400;o
+Metalle / Stahl und Eisen / Stahlbleche;335B, 336, 363, 342, 345, 354, 364;Verkleidung;;kann auch für KG 400 verwendet werden;x
+Metalle / Stahl und Eisen / Stahlprofile;;;Stahl;"einzelne Datensätze enthalten detailliertere Informationen; sonst: 331B, 341, 351, 361 (tragende Teile-> Träger) 334, 335B, 344, 354, 364, 362 (-> Unterkonstruktion)";x
+Metalle / Zink / Zinkbleche;335B, 363;Verkleidung;;;x
+Mineralische Baustoffe / Asphalt / Asphaltbinder;;;;;o
+Mineralische Baustoffe / Asphalt / Gussassphalt;324,353;Estrich;;;x
+Mineralische Baustoffe / Asphalt / Splittmastixasphalt;;;;Straßenbau;o
+Mineralische Baustoffe / Asphalt / Tragschichten;;;;Straßenbau;o
+Mineralische Baustoffe / Bindemittel / Gips;;;;;o
+Mineralische Baustoffe / Bindemittel / Kalk;;;;;o
+Mineralische Baustoffe / Bindemittel / Lehm;;;;;o
+Mineralische Baustoffe / Bindemittel / Zement;;;;;o
+Mineralische Baustoffe / Mörtel und Beton / Beton;;Beton;StB, MW;"im Hochbau werden nicht alle verwendet; manuell z.T. als Ingenieurbau klassifizieren?";x
+Mineralische Baustoffe / Mörtel und Beton / Estrich trocken;;Estrich;;;x
+Mineralische Baustoffe / Mörtel und Beton / Kleber und Klebemörtel;;Kleber;;sehr heterogen;x
+Mineralische Baustoffe / Mörtel und Beton / Mauermörtel;331B,332,341,342;Mörtel;MW;;x
+Mineralische Baustoffe / Mörtel und Beton / Putz und Putzmörtel;;;;nähere Eingrenzung (innen / außen / Voranstrich) in den Datensätzen;x
+Mineralische Baustoffe / Steine und Elemente / Betonfertigteile und Betonwaren;331A,331B,341,351,361;komplett;StB, MW;;x
+Mineralische Baustoffe / Steine und Elemente / Dachziegel;363;Verkleidung;;nur Steildach;x
+Mineralische Baustoffe / Steine und Elemente / Deckenplatten;354, 364;Platten;;;x
+Mineralische Baustoffe / Steine und Elemente / Faserzement;335B, 363;Verkleidung;;;x
+Mineralische Baustoffe / Steine und Elemente / Fliesen und Platten;324,335B,336,345,353;Verkleidung;;;x
+Mineralische Baustoffe / Steine und Elemente / Gipsplatten;;;MW;nähere Eingrenzung (tragend / nichttragend) in den Datensätzen;x
+Mineralische Baustoffe / Steine und Elemente / Glasbausteine;334, 344;;;DIN 1051-1 (Anhang C) ;x
+Mineralische Baustoffe / Steine und Elemente / Kalksandstein;331B,332,341,342;Stein;MW;;x
+Mineralische Baustoffe / Steine und Elemente / Kunststein;324, 336, 345, 353;Verkleidung;;;x
+Mineralische Baustoffe / Steine und Elemente / Lehmsteine;;;;nähere Eingrenzung in den Datensätzen (Stein / Platte);x
+Mineralische Baustoffe / Steine und Elemente / Leichtbeton;331A,331B,341,351,361;;;;x
+Mineralische Baustoffe / Steine und Elemente / Naturwerkstein;;;;;x
+Mineralische Baustoffe / Steine und Elemente / Porenbeton;;;;;x
+Mineralische Baustoffe / Steine und Elemente / Schiefer;324,335B,336,345,353,363;Verkleidung;;Boden oder  Steildach;x
+Mineralische Baustoffe / Steine und Elemente / Steinzeug;;;;KG 400;
+Mineralische Baustoffe / Steine und Elemente / Substrate;363;Substrat;;Gründach;x
+Mineralische Baustoffe / Steine und Elemente / Trockenestrich;324,353;Estrich;;;x
+Mineralische Baustoffe / Steine und Elemente / Ziegel;331B,332,341,342;Stein;;;x
+Mineralische Baustoffe / Zuschläge / Bims;363;Substrat;;ggf. auch Schüttung (unklar);x
+Mineralische Baustoffe / Zuschläge / Blähglas;324, 353, 363;Schüttung;;https://www.wecobis.de/bauproduktgruppen/grundstoffe-gs/gesteinskoernung-gs/industriell-hergestellte-gesteinskoernungen/blaehperlit-gs.html;
+Mineralische Baustoffe / Zuschläge / Blähschiefer;363;Substrat;;;
+Mineralische Baustoffe / Zuschläge / Blähton;363;Substrat;;"""Blähtonkörner und Sand werden für Ziegelsteine, Wandelemente, Leichtputze, Leichtbeton und als Schüttgut auf Baugeländen und in Grünanlagen verwendet."" (auch: Substrat)";x
+Mineralische Baustoffe / Zuschläge / Kraftwerksnebenprodukte;;;;Betonzuschläge;o
+Mineralische Baustoffe / Zuschläge / Naturstein;324, 353, 363;Schüttung;;;x
+Mineralische Baustoffe / Zuschläge / Perlite;324, 353, 363;Schüttung;;;x
+Mineralische Baustoffe / Zuschläge / Sand und Kies;324, 353, 363;Schüttung;;;x
+Mineralische Baustoffe / Zuschläge / Trockenschüttung;324, 353, 363;Schüttung;;;x
+Sonstige / Baustellenprozesse / Bagger/Aushub;;;;Phase A5;
+Sonstige / Baustellenprozesse / Betonieren;;;;Phase A5;
+Sonstige / Energieträger - Bereitstellung frei Verbraucher / Strom;;;;Phase B6;
+Sonstige / Energieträger - Bereitstellung frei Verbraucher / Trinkwasser;;;;Phase B7;
+Sonstige / Güter - Transporte[t km] / Bahn;;;;Phase A4;
+Sonstige / Güter - Transporte[t km] / Binnenschiff;;;;Phase A4;
+Sonstige / Güter - Transporte[t km] / LKW;;;;Phase A4;
+Sonstige / Güter - Transporte[t km] / Seeschiff;;;;Phase A4;
+Sonstige / Personen - Transporte[Personen km] / PKW;;;;Phase A4;

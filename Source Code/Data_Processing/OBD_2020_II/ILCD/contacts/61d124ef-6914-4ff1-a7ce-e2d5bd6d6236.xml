@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>61d124ef-6914-4ff1-a7ce-e2d5bd6d6236</common:UUID>
+                  <common:shortName xml:lang='de'>Vallourec Deutschland GmbH</common:shortName>
+                  <common:name xml:lang='de'>Vallourec Deutschland GmbH</common:name>
+                  <contactAddress xml:lang='de'>Theodorstraße 109, 40472 Düsseldorf, Germany</contactAddress>
+                  <telephone>+49 211 960-0</telephone>
+                  <telefax>+49 211 960-3995</telefax>
+                  <email>industry@vallourec.com</email>
+                  <WWWAddress>www.vallourec.com</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2017-02-14T16:52:59.7209986+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<s:sourceDataSet xmlns:m="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:s="http://lca.jrc.it/ILCD/Source" xmlns:c="http://lca.jrc.it/ILCD/Contact" xmlns:f="http://lca.jrc.it/ILCD/Flow" xmlns="http://lca.jrc.it/ILCD/Process" xmlns:fp="http://lca.jrc.it/ILCD/FlowProperty" xmlns:u="http://lca.jrc.it/ILCD/UnitGroup" version="1.1">
+    <s:sourceInformation>
+        <s:dataSetInformation>
+            <common:UUID>e29f7079-5484-4078-b9c0-fcf7e2ec8dfa</common:UUID>
+            <common:shortName xml:lang="de">PCR-Dokument Geokunststoffe und Geotextilien</common:shortName>
+            <s:classificationInformation/>
+            <s:referenceToDigitalFile uri="../external_docs/PCR B - Geokunststoffe_Geotextilien_2017-06-05.pdf"/>
+        </s:dataSetInformation>
+    </s:sourceInformation>
+    <s:administrativeInformation>
+        <s:dataEntryBy>
+            <common:timeStamp>2018-04-03T11:48:42.858+02:00</common:timeStamp>
+        </s:dataEntryBy>
+        <s:publicationAndOwnership>
+            <common:dataSetVersion>00.00.002</common:dataSetVersion>
+        </s:publicationAndOwnership>
+    </s:administrativeInformation>
+</s:sourceDataSet>

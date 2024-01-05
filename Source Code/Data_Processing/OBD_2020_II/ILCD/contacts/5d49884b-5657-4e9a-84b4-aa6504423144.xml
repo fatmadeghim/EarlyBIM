@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<c:contactDataSet xmlns:m="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:s="http://lca.jrc.it/ILCD/Source" xmlns:c="http://lca.jrc.it/ILCD/Contact" xmlns:f="http://lca.jrc.it/ILCD/Flow" xmlns="http://lca.jrc.it/ILCD/Process" xmlns:fp="http://lca.jrc.it/ILCD/FlowProperty" xmlns:u="http://lca.jrc.it/ILCD/UnitGroup" version="1.1">
+    <c:contactInformation>
+        <c:dataSetInformation>
+            <common:UUID>5d49884b-5657-4e9a-84b4-aa6504423144</common:UUID>
+            <common:shortName xml:lang="de">Baufritz</common:shortName>
+            <common:name xml:lang="de">Baufritz GmbH &amp; Co KG</common:name>
+            <c:classificationInformation>
+                <common:classification>
+                    <common:class level="0" classId="2">Organisations</common:class>
+                    <common:class level="1" classId="2.1">Private companies</common:class>
+                </common:classification>
+            </c:classificationInformation>
+            <c:contactAddress xml:lang="de">Alpenstraße 25, 87746 Erkheim, Deutschland</c:contactAddress>
+            <c:telephone>+49 (0) 83 36 - 9000</c:telephone>
+            <c:WWWAddress>www.baufritz.com</c:WWWAddress>
+        </c:dataSetInformation>
+    </c:contactInformation>
+    <c:administrativeInformation>
+        <c:dataEntryBy>
+            <common:timeStamp>2018-05-17T09:47:40.757+02:00</common:timeStamp>
+        </c:dataEntryBy>
+        <c:publicationAndOwnership>
+            <common:dataSetVersion>00.00.001</common:dataSetVersion>
+        </c:publicationAndOwnership>
+    </c:administrativeInformation>
+</c:contactDataSet>

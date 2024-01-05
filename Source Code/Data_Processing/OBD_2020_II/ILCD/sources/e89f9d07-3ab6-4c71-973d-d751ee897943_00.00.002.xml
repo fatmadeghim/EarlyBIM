@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<s:sourceDataSet xmlns:m="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:s="http://lca.jrc.it/ILCD/Source" xmlns:c="http://lca.jrc.it/ILCD/Contact" xmlns:f="http://lca.jrc.it/ILCD/Flow" xmlns="http://lca.jrc.it/ILCD/Process" xmlns:fp="http://lca.jrc.it/ILCD/FlowProperty" xmlns:u="http://lca.jrc.it/ILCD/UnitGroup" version="1.1">
+    <s:sourceInformation>
+        <s:dataSetInformation>
+            <common:UUID>e89f9d07-3ab6-4c71-973d-d751ee897943</common:UUID>
+            <common:shortName xml:lang="de">EPD Sectionaltore-Teckentrup</common:shortName>
+            <s:classificationInformation>
+                <common:classification>
+                    <common:class level="0" classId="8ee3821d-1653-4bfa-8bcf-3fe27f05e8f1">EPDs</common:class>
+                </common:classification>
+            </s:classificationInformation>
+            <s:referenceToDigitalFile uri="../external_docs/2018-08-06-EPD-Teckentrup-Sectionaltore.pdf"/>
+            <s:referenceToContact type="contact data set" refObjectId="5d4f2008-094e-400e-add5-d0680867744a" version="00.00.002" uri="http://openlca.org/ilcd/resource/contacts/5d4f2008-094e-400e-add5-d0680867744a">
+                <common:shortDescription xml:lang="en">Teckentrup GmbH &amp; Co. KG</common:shortDescription>
+                <common:shortDescription xml:lang="de">Teckentrup GmbH &amp; Co. KG</common:shortDescription>
+            </s:referenceToContact>
+        </s:dataSetInformation>
+    </s:sourceInformation>
+    <s:administrativeInformation>
+        <s:dataEntryBy>
+            <common:timeStamp>2020-02-18T10:53:33.844+01:00</common:timeStamp>
+        </s:dataEntryBy>
+        <s:publicationAndOwnership>
+            <common:dataSetVersion>00.00.002</common:dataSetVersion>
+        </s:publicationAndOwnership>
+    </s:administrativeInformation>
+</s:sourceDataSet>

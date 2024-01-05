@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>e4e89f50-19d3-4a3d-8072-17860540059a</common:UUID>
+                  <common:shortName xml:lang='de'>TÜV Rheinland LGA Products GmbH</common:shortName>
+                  <common:name xml:lang='de'>TÜV Rheinland LGA Products GmbH</common:name>
+                  <contactAddress xml:lang='de'>Am Grauen Stein 29, 51105 Köln, Germany</contactAddress>
+                  <telephone>+49 (0)911 655 5225</telephone>
+                  <telefax>+49 (0)911 655 5226</telefax>
+                  <email>service@de.tuv.com</email>
+                  <WWWAddress>www.tuv.com</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2018-02-06T12:31:05.3013237+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.02.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

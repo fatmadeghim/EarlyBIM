@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>f57bce1a-ceb2-491e-9dc4-356445c5b465</common:UUID>
+                  <common:shortName xml:lang='de'>KME Germany GmbH &amp; Co. KG</common:shortName>
+                  <common:name xml:lang='de'>KME Germany GmbH &amp; Co. KG</common:name>
+                  <contactAddress xml:lang='de'>Klosterstraße 29, 49074 Osnabrück, Germany</contactAddress>
+                  <telephone>0049 541 321 2000</telephone>
+                  <telefax>0049 541 321 2111</telefax>
+                  <email>info-tecu@kme.com</email>
+                  <WWWAddress>www.kme.com/tecu</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2020-08-12T16:28:04.8477027+02:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>19.03.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<c:contactDataSet xmlns:m="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:s="http://lca.jrc.it/ILCD/Source" xmlns:c="http://lca.jrc.it/ILCD/Contact" xmlns:f="http://lca.jrc.it/ILCD/Flow" xmlns="http://lca.jrc.it/ILCD/Process" xmlns:fp="http://lca.jrc.it/ILCD/FlowProperty" xmlns:u="http://lca.jrc.it/ILCD/UnitGroup" version="1.1">
+    <c:contactInformation>
+        <c:dataSetInformation>
+            <common:UUID>7f6e8392-6a9d-4fb9-ae0b-9b8bf1c2ecca</common:UUID>
+            <common:name xml:lang="de">Sky-Frame AG</common:name>
+            <c:classificationInformation>
+                <common:classification>
+                    <common:class level="0" classId="3de6383f-9cb2-4ad7-99e5-3d9d781e7adc">Unternehmen</common:class>
+                </common:classification>
+            </c:classificationInformation>
+            <c:contactAddress xml:lang="de">Langfeldstraße 111; CH-8500 Frauenfeld</c:contactAddress>
+            <c:WWWAddress>www.sky-frame.ch</c:WWWAddress>
+        </c:dataSetInformation>
+    </c:contactInformation>
+    <c:administrativeInformation>
+        <c:dataEntryBy>
+            <common:timeStamp>2018-08-02T10:07:25.611+02:00</common:timeStamp>
+        </c:dataEntryBy>
+        <c:publicationAndOwnership>
+            <common:dataSetVersion>00.00.001</common:dataSetVersion>
+        </c:publicationAndOwnership>
+    </c:administrativeInformation>
+</c:contactDataSet>

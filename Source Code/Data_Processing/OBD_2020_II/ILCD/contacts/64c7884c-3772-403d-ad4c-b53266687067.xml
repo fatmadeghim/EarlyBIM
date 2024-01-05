@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>64c7884c-3772-403d-ad4c-b53266687067</common:UUID>
+                  <common:name xml:lang='de'>HUESKER Synthetic GmbH</common:name>
+                  <common:shortName xml:lang='de'>HUESKER Synthetic GmbH</common:shortName>
+                  <contactAddress xml:lang='de'>Fabrikstraße 13-15, 48712 Gescher, Germany</contactAddress>
+                  <telephone>+49(0)2542/701-0</telephone>
+                  <telefax>+49(0)2542/701-499</telefax>
+                  <email>info@huesker.de</email>
+                  <WWWAddress>www.HUESKER.com</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>28.09.2015</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

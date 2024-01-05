@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://iai-uiserv1.iai.kit.edu/EPD/stylesheets/contact2html.xsl"?><contactDataSet xmlns="http://lca.jrc.it/ILCD/Contact"
+                xmlns:common="http://lca.jrc.it/ILCD/Common"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd"
+                version="1.1">
+   <contactInformation>
+      <dataSetInformation>
+         <common:UUID>75f1ded5-92d7-4664-9417-67a5933d1795</common:UUID>
+         <common:shortName xml:lang="de">fischerwerke</common:shortName>
+         <common:name xml:lang="de">fischerwerke GmbH &amp; Co. KG</common:name>
+         <classificationInformation>
+            <common:classification name="GaBiCategories" classes="../GaBiCategories.xml">
+               <common:class level="0" classId="dc0407c0-c183-4ad6-9e13-c198470b26e4">Organisationen</common:class>
+            </common:classification>
+         </classificationInformation>
+         <contactAddress>Weinhalde 14-18, D-72178 Waldachtal</contactAddress>
+         <telephone>+49 (0)7443 12-0</telephone>
+         <telefax>+49 (0)7443 12-4222</telefax>
+         <email>info@fischer.de</email>
+         <WWWAddress>www.fischer.de</WWWAddress>
+         <centralContactPoint xml:lang="de">info@fischer.de</centralContactPoint>
+      </dataSetInformation>
+   </contactInformation>
+   <administrativeInformation>
+      <dataEntryBy>
+         <common:timeStamp>2014-08-07T11:22:23.516+02:00</common:timeStamp>
+         <common:referenceToDataSetFormat refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" type="source data set"
+                                          uri="../sources/ILCD_Format_a97a0155-0234-4b87-b4ce-a45da52f2a40.xml">
+            <common:shortDescription xml:lang="de">ILCD format 1.1</common:shortDescription>
+         </common:referenceToDataSetFormat>
+      </dataEntryBy>
+      <publicationAndOwnership>
+         <common:dataSetVersion>20.00.000</common:dataSetVersion>
+      </publicationAndOwnership>
+   </administrativeInformation>
+</contactDataSet>

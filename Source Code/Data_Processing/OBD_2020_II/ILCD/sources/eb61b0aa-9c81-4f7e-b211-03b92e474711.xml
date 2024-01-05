@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<s:sourceDataSet xmlns:m="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:s="http://lca.jrc.it/ILCD/Source" xmlns:c="http://lca.jrc.it/ILCD/Contact" xmlns:f="http://lca.jrc.it/ILCD/Flow" xmlns="http://lca.jrc.it/ILCD/Process" xmlns:fp="http://lca.jrc.it/ILCD/FlowProperty" xmlns:u="http://lca.jrc.it/ILCD/UnitGroup" version="1.1">
+    <s:sourceInformation>
+        <s:dataSetInformation>
+            <common:UUID>eb61b0aa-9c81-4f7e-b211-03b92e474711</common:UUID>
+            <common:shortName xml:lang="en">LCI_Schichtmassiv_xlsx</common:shortName>
+            <s:classificationInformation>
+                <common:classification>
+                    <common:class level="0" classId="3a901116-c96d-4beb-b167-6c7ffa2142bf">LCI-Exceltabellen</common:class>
+                </common:classification>
+            </s:classificationInformation>
+            <s:sourceDescriptionOrComment xml:lang="en">Exceltabelle mit Informationen zur funktionellen Einheit und zu den In- und Outputs der Sachbilanz. Stand 06.06.2012</s:sourceDescriptionOrComment>
+            <s:referenceToDigitalFile uri="LCI_Schichtmassiv_20120606.xlsx"/>
+        </s:dataSetInformation>
+    </s:sourceInformation>
+    <s:administrativeInformation>
+        <s:dataEntryBy>
+            <common:timeStamp>2020-02-18T18:04:33.542+01:00</common:timeStamp>
+            <common:referenceToDataSetFormat type="source data set" refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" version="03.00.000" uri="http://lca.jrc.ec.europa.eu/lcainfohub/datasets/ilcd/sources/a97a0155-0234-4b87-b4ce-a45da52f2a40.xml">
+                <common:shortDescription xml:lang="en">ILCD format</common:shortDescription>
+            </common:referenceToDataSetFormat>
+        </s:dataEntryBy>
+        <s:publicationAndOwnership>
+            <common:dataSetVersion>01.01.002</common:dataSetVersion>
+            <common:permanentDataSetURI>http://openlca.org/ilcd/resource/sources/eb61b0aa-9c81-4f7e-b211-03b92e474711</common:permanentDataSetURI>
+        </s:publicationAndOwnership>
+    </s:administrativeInformation>
+</s:sourceDataSet>

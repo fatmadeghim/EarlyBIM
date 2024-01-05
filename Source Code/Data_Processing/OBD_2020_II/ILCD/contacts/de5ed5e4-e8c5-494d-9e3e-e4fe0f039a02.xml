@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>de5ed5e4-e8c5-494d-9e3e-e4fe0f039a02</common:UUID>
+                  <common:shortName xml:lang='de'>Thünen-Institut für Holzforschung</common:shortName>
+                  <common:name xml:lang='de'>Thünen-Institut für Holzforschung</common:name>
+                  <contactAddress xml:lang='de'>Leuschnerstr. 91, 21031 Hamburg, Germany</contactAddress>
+                  <telephone>+49(0)40 73962 - 619</telephone>
+                  <telefax>+49(0)40 73962 - 699</telefax>
+                  <email>holzundklima@thuenen.de</email>
+                  <WWWAddress>www.thuenen.de</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2018-02-22T09:55:53.4218146+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.03.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

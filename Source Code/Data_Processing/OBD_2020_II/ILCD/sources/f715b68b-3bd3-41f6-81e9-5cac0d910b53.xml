@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<s:sourceDataSet xmlns:m="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:s="http://lca.jrc.it/ILCD/Source" xmlns:c="http://lca.jrc.it/ILCD/Contact" xmlns:f="http://lca.jrc.it/ILCD/Flow" xmlns="http://lca.jrc.it/ILCD/Process" xmlns:fp="http://lca.jrc.it/ILCD/FlowProperty" xmlns:u="http://lca.jrc.it/ILCD/UnitGroup" version="1.1">
+    <s:sourceInformation>
+        <s:dataSetInformation>
+            <common:UUID>f715b68b-3bd3-41f6-81e9-5cac0d910b53</common:UUID>
+            <common:shortName xml:lang="de">EPD Lichtkuppel F100 und Rauchlift Lichtkuppel F100</common:shortName>
+            <s:classificationInformation>
+                <common:classification>
+                    <common:class level="0" classId="8ee3821d-1653-4bfa-8bcf-3fe27f05e8f1">EPDs</common:class>
+                </common:classification>
+            </s:classificationInformation>
+            <s:referenceToDigitalFile uri="../external_docs/2019-07-31_EPD1_Lichtkuppel_Lamilux.pdf"/>
+            <s:referenceToContact type="contact data set" refObjectId="534a2cc0-9495-4dec-8354-3d0bf18d1edc" version="00.00.001">
+                <common:shortDescription xml:lang="de">LAMILUX Heinrich Strunz GmbH</common:shortDescription>
+            </s:referenceToContact>
+        </s:dataSetInformation>
+    </s:sourceInformation>
+    <s:administrativeInformation>
+        <s:dataEntryBy>
+            <common:timeStamp>2019-08-01T09:54:10.140+02:00</common:timeStamp>
+        </s:dataEntryBy>
+        <s:publicationAndOwnership>
+            <common:dataSetVersion>00.00.002</common:dataSetVersion>
+        </s:publicationAndOwnership>
+    </s:administrativeInformation>
+</s:sourceDataSet>

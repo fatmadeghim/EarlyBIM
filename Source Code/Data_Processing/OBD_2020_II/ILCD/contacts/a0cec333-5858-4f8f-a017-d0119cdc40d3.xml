@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>a0cec333-5858-4f8f-a017-d0119cdc40d3</common:UUID>
+                  <common:shortName xml:lang='de'>GDA - Gesamtverband der Aluminiumindustrie e.V.</common:shortName>
+                  <common:name xml:lang='de'>GDA - Gesamtverband der Aluminiumindustrie e.V.</common:name>
+                  <contactAddress xml:lang='de'>Am Bonneshof 5, 40474 Düsseldorf, Germany</contactAddress>
+                  <telephone>+49 211 4796-0</telephone>
+                  <telefax>+49 211 4796-408</telefax>
+                  <email>information@aluinfo.de</email>
+                  <WWWAddress>www.aluinfo.de</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2018-02-06T12:09:06.7849089+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

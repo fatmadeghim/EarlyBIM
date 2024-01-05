@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<s:sourceDataSet xmlns:m="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:s="http://lca.jrc.it/ILCD/Source" xmlns:c="http://lca.jrc.it/ILCD/Contact" xmlns:f="http://lca.jrc.it/ILCD/Flow" xmlns="http://lca.jrc.it/ILCD/Process" xmlns:fp="http://lca.jrc.it/ILCD/FlowProperty" xmlns:u="http://lca.jrc.it/ILCD/UnitGroup" version="1.1">
+    <s:sourceInformation>
+        <s:dataSetInformation>
+            <common:UUID>497edd14-52c4-4220-8712-501437d306be</common:UUID>
+            <common:shortName xml:lang="de">EPD Mirro / Ultra Mirror - Silver coating for flat glass</common:shortName>
+            <common:shortName xml:lang="en">EPD Mirro / Ultra Mirror - Silver coating for flat glass</common:shortName>
+            <s:classificationInformation>
+                <common:classification>
+                    <common:class level="0" classId="58463c9c-096d-32d0-a016-2ed882b9e95b">EPDs</common:class>
+                </common:classification>
+            </s:classificationInformation>
+            <s:sourceDescriptionOrComment xml:lang="de">Silver coating for flat glass to be used in interior applications for buildings.</s:sourceDescriptionOrComment>
+            <s:sourceDescriptionOrComment xml:lang="en">Silver coating for flat glass to be used in interior applications for buildings.</s:sourceDescriptionOrComment>
+            <s:referenceToDigitalFile uri="../external_docs/2019-08-21_Guardian_EPD_Mirror_fin_eng.pdf"/>
+            <s:referenceToContact type="contact data set" refObjectId="62c45370-29dc-4dc9-b207-1c942c9c258e" version="00.00.002" uri="http://openlca.org/ilcd/resource/contacts/62c45370-29dc-4dc9-b207-1c942c9c258e">
+                <common:shortDescription xml:lang="de">Guardian Europe S.à r.l.</common:shortDescription>
+                <common:shortDescription xml:lang="en">Guardian Europe S.à r.l.</common:shortDescription>
+            </s:referenceToContact>
+        </s:dataSetInformation>
+    </s:sourceInformation>
+    <s:administrativeInformation>
+        <s:dataEntryBy>
+            <common:timeStamp>2019-08-21T10:03:07.375+02:00</common:timeStamp>
+            <common:referenceToDataSetFormat type="source data set" refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" version="01.01.000" uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40_01.01.000.xml">
+                <common:shortDescription xml:lang="en">ILCD format</common:shortDescription>
+            </common:referenceToDataSetFormat>
+        </s:dataEntryBy>
+        <s:publicationAndOwnership>
+            <common:dataSetVersion>00.00.005</common:dataSetVersion>
+            <common:permanentDataSetURI>http://openlca.org/ilcd/resource/sources/497edd14-52c4-4220-8712-501437d306be</common:permanentDataSetURI>
+        </s:publicationAndOwnership>
+    </s:administrativeInformation>
+</s:sourceDataSet>

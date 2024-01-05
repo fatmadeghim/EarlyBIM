@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>7c70da98-6dad-47e1-aa65-00d1b9f4e7c2</common:UUID>
+                  <common:name xml:lang='de'>Brillux GmbH &amp; Co. KG</common:name>
+                  <common:shortName xml:lang='de'>Brillux GmbH &amp; Co. KG</common:shortName>
+                  <contactAddress xml:lang='de'>Weseler Straße 401, 48463 Münster, Germany</contactAddress>
+                  <telephone>+49 251 7188-0</telephone>
+                  <telefax>+49 251 7188-105</telefax>
+                  <email>info@brillux.de</email>
+                  <WWWAddress>www.brillux.de</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>25.06.2015</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

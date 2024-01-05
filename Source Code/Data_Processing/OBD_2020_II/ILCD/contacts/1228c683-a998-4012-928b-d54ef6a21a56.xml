@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>1228c683-a998-4012-928b-d54ef6a21a56</common:UUID>
+                  <common:name xml:lang='de'>Weitzer Parkett GmbH &amp; Co Kg</common:name>
+                  <common:shortName xml:lang='de'>Weitzer Parkett GmbH &amp; Co Kg</common:shortName>
+                  <contactAddress xml:lang='de'>Klammstraße 24, 8160 Weiz, Austria</contactAddress>
+                  <telephone>+43/(0) 3172-2372-0</telephone>
+                  <telefax>+43/(0)3172-2372-401</telefax>
+                  <email>office@weitzer-parkett.com</email>
+                  <WWWAddress>www.weitzer-parkett.com</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>08.03.2016</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

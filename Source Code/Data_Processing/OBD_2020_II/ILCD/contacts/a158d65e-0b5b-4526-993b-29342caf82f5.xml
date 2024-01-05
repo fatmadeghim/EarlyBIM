@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>a158d65e-0b5b-4526-993b-29342caf82f5</common:UUID>
+                  <common:shortName xml:lang='de'>MISAPOR AG</common:shortName>
+                  <common:name xml:lang='de'>MISAPOR AG</common:name>
+                  <contactAddress xml:lang='de'>Löserstrasse 2, 7302 Landquart, Switzerland</contactAddress>
+                  <telephone>+41 81 300 08 08</telephone>
+                  <telefax>+41 81 300 08 09</telefax>
+                  <email>info@misapor.com</email>
+                  <WWWAddress>www.misapor.ch</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2018-02-06T12:40:21.0071082+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.02.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

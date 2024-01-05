@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<s:sourceDataSet xmlns:m="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:s="http://lca.jrc.it/ILCD/Source" xmlns:c="http://lca.jrc.it/ILCD/Contact" xmlns:f="http://lca.jrc.it/ILCD/Flow" xmlns="http://lca.jrc.it/ILCD/Process" xmlns:fp="http://lca.jrc.it/ILCD/FlowProperty" xmlns:u="http://lca.jrc.it/ILCD/UnitGroup" version="1.1">
+    <s:sourceInformation>
+        <s:dataSetInformation>
+            <common:UUID>3abb0036-a138-447d-b4f4-209c4129bc98</common:UUID>
+            <common:shortName xml:lang="de">EPD Isolierstege aus Low Lambda PA66 GF25</common:shortName>
+            <s:classificationInformation>
+                <common:classification>
+                    <common:class level="0" classId="58463c9c-096d-32d0-a016-2ed882b9e95b">EPDs</common:class>
+                </common:classification>
+            </s:classificationInformation>
+            <s:sourceDescriptionOrComment xml:lang="de"></s:sourceDescriptionOrComment>
+            <s:referenceToDigitalFile uri="../external_docs/2019-08-20_ift_EPD_Technoform_Low_LambdaPA66_final.pdf"/>
+            <s:referenceToContact type="contact data set" refObjectId="c2c59299-ef29-4110-8815-5b1f93cb528b" version="00.00.002" uri="http://openlca.org/ilcd/resource/contacts/c2c59299-ef29-4110-8815-5b1f93cb528b">
+                <common:shortDescription xml:lang="de">Technoform Bautec Kunststoffprodukte GmbH</common:shortDescription>
+                <common:shortDescription xml:lang="en">Technoform Bautec Kunststoffprodukte GmbH</common:shortDescription>
+            </s:referenceToContact>
+        </s:dataSetInformation>
+    </s:sourceInformation>
+    <s:administrativeInformation>
+        <s:dataEntryBy>
+            <common:timeStamp>2020-02-18T09:58:54.046+01:00</common:timeStamp>
+            <common:referenceToDataSetFormat type="source data set" refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" version="03.00.000" uri="http://lca.jrc.ec.europa.eu/lcainfohub/datasets/ilcd/sources/a97a0155-0234-4b87-b4ce-a45da52f2a40.xml">
+                <common:shortDescription xml:lang="en">ILCD format</common:shortDescription>
+            </common:referenceToDataSetFormat>
+        </s:dataEntryBy>
+        <s:publicationAndOwnership>
+            <common:dataSetVersion>00.00.004</common:dataSetVersion>
+            <common:permanentDataSetURI>http://openlca.org/ilcd/resource/sources/3abb0036-a138-447d-b4f4-209c4129bc98</common:permanentDataSetURI>
+        </s:publicationAndOwnership>
+    </s:administrativeInformation>
+</s:sourceDataSet>

@@ -1,0 +1,12 @@
+Rules for Application.csv - file
+
+Rows: all rows except row 1 are considered. Empty rows are ignored.
+
+Column1: Number of Kostengruppe
+Column2: Keywords connected to Kostengruppe in column1; Remark: no spaces between words (only if intentional),
+	words need to be unique (e.g. if one of the words is "Dach", it will also be counted if the compared text contains "Dachfolie" etc)
+	If two words shall be contained that are not necessarily consecutive, the structure is as follows: word1.*word2 (the order of the words matters!)
+	No case sensitivity needed (i.e. "dach" is the same as "Dach")
+Column3: Related Kostengruppen to the one in column1. This means that every entry with value in column1 has also values from column3
+	Write words without spaces
+	

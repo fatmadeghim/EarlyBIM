@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contactDataSet xmlns="http://lca.jrc.it/ILCD/Common" xmlns:ns2="http://lca.jrc.it/ILCD/Contact" xmlns:ns3="http://lca.jrc.it/ILCD/Flow" xmlns:ns4="http://lca.jrc.it/ILCD/FlowProperty" xmlns:ns5="http://lca.jrc.it/ILCD/Process" xmlns:ns6="http://lca.jrc.it/ILCD/Source" xmlns:ns7="http://lca.jrc.it/ILCD/UnitGroup" xmlns:ns8="http://lca.jrc.it/ILCD/Wrapper" version="1.1">
+    <ns2:contactInformation>
+        <ns2:dataSetInformation>
+            <UUID>9828b42f-275d-4651-9853-7abe6183f6b6</UUID>
+            <name xml:lang="en">FASBA e.V.</name>
+            <ns2:classificationInformation>
+                <classification>
+                    <class level="0" classId="f8f4ea19-1a9c-45a5-b88f-b40fc161777d">Organisations</class>
+                    <class level="1" classId="7ce609f3-1936-4b1d-9792-672677436949">FASBA Strohballen</class>
+                </classification>
+            </ns2:classificationInformation>
+            <ns2:telephone>+49 (0) 4231/960 25 45 </ns2:telephone>
+            <ns2:telefax>+49 (0) 4231/960 25 45 9</ns2:telefax>
+            <ns2:email>info@fasba.de</ns2:email>
+            <ns2:WWWAddress>http://www.fasba.de </ns2:WWWAddress>
+            <ns2:centralContactPoint xml:lang="en">Artilleriestraße 6 , 27283  Verden</ns2:centralContactPoint>
+            <ns2:contactDescriptionOrComment xml:lang="en">Fachverband  Strohballenbau  Deutschland (FASBA) e.V.</ns2:contactDescriptionOrComment>
+        </ns2:dataSetInformation>
+    </ns2:contactInformation>
+    <ns2:administrativeInformation>
+        <ns2:dataEntryBy>
+            <timeStamp>2015-05-27T15:01:49.772+02:00</timeStamp>
+            <referenceToDataSetFormat type="source data set" refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" version="01.01.000" uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40_01.01.000.xml">
+                <shortDescription xml:lang="en">ILCD format</shortDescription>
+            </referenceToDataSetFormat>
+        </ns2:dataEntryBy>
+        <ns2:publicationAndOwnership>
+            <dataSetVersion>00.00.001</dataSetVersion>
+            <permanentDataSetURI>http://openlca.org/ilcd/resource/contacts/9828b42f-275d-4651-9853-7abe6183f6b6</permanentDataSetURI>
+        </ns2:publicationAndOwnership>
+    </ns2:administrativeInformation>
+</ns2:contactDataSet>

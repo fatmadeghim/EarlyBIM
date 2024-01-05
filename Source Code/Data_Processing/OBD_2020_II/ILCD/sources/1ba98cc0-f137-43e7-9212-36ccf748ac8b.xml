@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:sourceDataSet xmlns="http://lca.jrc.it/ILCD/Common" xmlns:ns2="http://lca.jrc.it/ILCD/Source" xmlns:ns3="http://lca.jrc.it/ILCD/Flow" xmlns:ns4="http://lca.jrc.it/ILCD/Contact" xmlns:ns5="http://lca.jrc.it/ILCD/FlowProperty" xmlns:ns6="http://lca.jrc.it/ILCD/Process" xmlns:ns7="http://lca.jrc.it/ILCD/UnitGroup" xmlns:ns8="http://lca.jrc.it/ILCD/Wrapper" version="1.1">
+    <ns2:sourceInformation>
+        <ns2:dataSetInformation>
+            <UUID>1ba98cc0-f137-43e7-9212-36ccf748ac8b</UUID>
+            <shortName xml:lang="en">LCI_Furniersperr_xlsx</shortName>
+            <ns2:classificationInformation>
+                <classification>
+                    <class level="0" classId="3a901116-c96d-4beb-b167-6c7ffa2142bf">LCI-Exceltabellen</class>
+                </classification>
+            </ns2:classificationInformation>
+            <ns2:sourceDescriptionOrComment xml:lang="en">Exceltabelle mit Informationen zur funktionellen Einheit und zu den In- und Outputs der Sachbilanz. Stand 06.06.2012</ns2:sourceDescriptionOrComment>
+            <ns2:referenceToDigitalFile uri="LCI_Funiersperr_20120606.xlsx"/>
+        </ns2:dataSetInformation>
+    </ns2:sourceInformation>
+    <ns2:administrativeInformation>
+        <ns2:dataEntryBy>
+            <timeStamp>2015-07-02T11:45:26.850+02:00</timeStamp>
+            <referenceToDataSetFormat type="source data set" refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" version="01.01.000" uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40_01.01.000.xml">
+                <shortDescription xml:lang="en">ILCD format</shortDescription>
+            </referenceToDataSetFormat>
+        </ns2:dataEntryBy>
+        <ns2:publicationAndOwnership>
+            <dataSetVersion>00.01.002</dataSetVersion>
+            <permanentDataSetURI>http://openlca.org/ilcd/resource/sources/1ba98cc0-f137-43e7-9212-36ccf748ac8b</permanentDataSetURI>
+        </ns2:publicationAndOwnership>
+    </ns2:administrativeInformation>
+</ns2:sourceDataSet>

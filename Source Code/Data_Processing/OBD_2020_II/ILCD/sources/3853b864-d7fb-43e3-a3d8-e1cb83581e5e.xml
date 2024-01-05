@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/source2html.xsl' type='text/xsl'?>
+            <sourceDataSet xmlns='http://lca.jrc.it/ILCD/Source' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Source ../../schemas/ILCD_SourceDataSet.xsd' version='1.1'>
+              <sourceInformation>
+                <dataSetInformation>
+                  <common:UUID>3853b864-d7fb-43e3-a3d8-e1cb83581e5e</common:UUID>
+                  <common:shortName xml:lang='de'>EPD-Dokument Mauersteine aus Leichtbeton aus natürlichen Zuschlägen - Vollblock leicht -    _10617.pdf</common:shortName>
+                  <referenceToDigitalFile uri='Mauersteine_aus_Leichtbeton_aus_natuerlichen_Zuschlaegen_-_Vollblock_leicht_-_10617.pdf'/>
+                </dataSetInformation>
+              </sourceInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2020-04-16T11:26:08.3975673+02:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </sourceDataSet>
+        

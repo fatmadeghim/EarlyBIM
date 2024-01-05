@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>e6e310ee-d48d-41ec-b502-68ec650bae28</common:UUID>
+                  <common:name xml:lang='de'>Sika Services AG</common:name>
+                  <common:shortName xml:lang='de'>Sika Services AG</common:shortName>
+                  <contactAddress xml:lang='de'>Tüffenwies 16, 8048 Zürich, Switzerland</contactAddress>
+                  <telephone>+41 (0)58 436 43 42</telephone>
+                  <telefax>+41 (0)58 436 44 33</telefax>
+                  <email>product.sustainability@ch.sika.com</email>
+                  <WWWAddress>www.sika.com/sustainability</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>08.03.2016</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

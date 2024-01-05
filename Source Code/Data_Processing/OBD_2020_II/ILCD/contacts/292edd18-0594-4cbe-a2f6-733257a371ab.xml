@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>292edd18-0594-4cbe-a2f6-733257a371ab</common:UUID>
+                  <common:name xml:lang='de'>FDT FlachdachTechnologie GmbH &amp;. Co. KG</common:name>
+                  <common:shortName xml:lang='de'>FDT FlachdachTechnologie GmbH &amp;. Co. KG</common:shortName>
+                  <contactAddress xml:lang='de'>Eisenbahnstr.  6-8, 68199 Mannheim, Germany</contactAddress>
+                  <telephone>0621-8504-399</telephone>
+                  <telefax>0621-8504-574</telefax>
+                  <email>Matthias.Bergmann@fdt.de</email>
+                  <WWWAddress>www.fdt.de</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>15.07.2015</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

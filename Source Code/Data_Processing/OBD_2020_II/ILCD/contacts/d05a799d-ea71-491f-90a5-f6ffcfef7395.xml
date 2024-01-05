@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<c:contactDataSet xmlns:m="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:s="http://lca.jrc.it/ILCD/Source" xmlns:c="http://lca.jrc.it/ILCD/Contact" xmlns:f="http://lca.jrc.it/ILCD/Flow" xmlns="http://lca.jrc.it/ILCD/Process" xmlns:fp="http://lca.jrc.it/ILCD/FlowProperty" xmlns:u="http://lca.jrc.it/ILCD/UnitGroup" version="1.1">
+    <c:contactInformation>
+        <c:dataSetInformation>
+            <common:UUID>d05a799d-ea71-491f-90a5-f6ffcfef7395</common:UUID>
+            <common:name xml:lang="de">Rodeca GmbH</common:name>
+            <c:classificationInformation>
+                <common:classification>
+                    <common:class level="0" classId="3de6383f-9cb2-4ad7-99e5-3d9d781e7adc">Unternehmen</common:class>
+                </common:classification>
+            </c:classificationInformation>
+            <c:contactAddress xml:lang="de">Freiherr-vom-Stein-Straße 165; 45473 Mülheim an der Ruhr</c:contactAddress>
+            <c:WWWAddress>www.rodeca.de</c:WWWAddress>
+        </c:dataSetInformation>
+    </c:contactInformation>
+    <c:administrativeInformation>
+        <c:dataEntryBy>
+            <common:timeStamp>2019-03-07T13:43:35.715+01:00</common:timeStamp>
+        </c:dataEntryBy>
+        <c:publicationAndOwnership>
+            <common:dataSetVersion>00.01.001</common:dataSetVersion>
+        </c:publicationAndOwnership>
+    </c:administrativeInformation>
+</c:contactDataSet>

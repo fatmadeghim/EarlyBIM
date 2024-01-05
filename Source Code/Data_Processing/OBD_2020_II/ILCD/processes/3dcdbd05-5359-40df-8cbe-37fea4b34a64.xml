@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="utf-8"?>
+<processDataSet xmlns:epd="http://www.iai.kit.edu/EPD/2013" xmlns:common="http://lca.jrc.it/ILCD/Common" xsi:schemaLocation="http://lca.jrc.it/ILCD/Process ../../schemas/EPD_DataSet.xsd" version="1.1" locations="../ILCDLocations.xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://lca.jrc.it/ILCD/Process">
+<processInformation>
+<dataSetInformation>
+<common:UUID>3dcdbd05-5359-40df-8cbe-37fea4b34a64</common:UUID>
+<name>
+<baseName xml:lang="de">Volumenstromregler VKE, VK</baseName>
+<baseName xml:lang="en">Volume flow controller VKE, VK</baseName>
+<functionalUnitFlowProperties xml:lang="de" />
+</name>
+<classificationInformation>
+<common:classification name="OEKOBAU.DAT">
+<common:class level="0" classId="8">Gebäudetechnik</common:class>
+<common:class level="1" classId="8.2">Klimatisierung und Lüftung</common:class>
+<common:class level="2" classId="8.2.01">Lüftungsanlagen</common:class>
+</common:classification>
+<common:classification name="IBUCategories">
+<common:class level="0">03 Gebäudetechnik</common:class>
+<common:class level="1">Raumlufttechnische Anlagen (RLT) und Klimatechnik</common:class>
+<common:class level="2">Volumenstromregler und Volumenstrombegrenzer für Lüftungsanlagen</common:class>
+</common:classification>
+</classificationInformation>
+<common:generalComment xml:lang="de">Elektronische Volumenstromregler VKE für konstante und variable Volumenströme sind wartungs- frei und lageunabhängig einbaubar in Lüftungs- leitungen für Zuluft und Abluft raumlufttechnischer Anlagen. Sie sind werkseitig für den gesamten Volumenstrombereich justiert. Ein neuartiges Messverfahren nutzt den Differenzdruck und die Klappenblattstellung zur Volumenstrommessung und Regelung. Gleichzeitig wird ein Effizienzsignal zur energieeinsparenden Optimierung des Anlagen- betriebsdrucks geliefert. Das neuartige Messprinzip sorgt bei allen Drücken in den ca. 1:6 betragenden Volumenstrombereichen für die hohe Regelgenauigkeit von ± 5% bis ± 15% vom Soll-Volumenstrom. Das Gehäuse und das zentrisch gelagerte Klappenblatt bestehen aus verzinktem Stahlblech mit einer Lagerachse aus Edelstahl in speziellen Lagerbuchsen, das Antriebsgehäuse aus Kunststoff. Möglich sind die Betriebsarten “Konstant”, “Variabel” und “4-Punkt”, außerdem die Übersteuerungen &quot;Klappenblatt offen&quot; und &quot;Klappenblatt geschlossen&quot;. Die Betriebsart “Variabel” sieht die Betriebsmodi 0 - 10V, 2 - 10V und 2 - 8V vor. Parallelbetrieb und Folgeschaltungen sind möglich.Konstant-mechanische VK Volumenstromregler sind wartungsfreie, mechanische Regler ohne Hilfsenergie für konstante Volumenströme in raumlufttechnischen Anlagen. Der Einbau erfolgt lageunabhängig in Lüftungsleitungen für Zuluft und Abluft. Gehäuse und Regelmechanik sind aus verzinktem Stahlblech. Das Klappenblatt zur Volumen- stromregulierung ist zentrisch gelagert und mit Lager- achsen aus Edelstahl in speziellen Lagerbuchsen geführt. Die Stelleinrichtung ist mit Drehzeiger, Skala und Arretierung. Die Volumenstromsollwerte sind manuell oder motorisch innerhalb der Volumenstrom- bereiche Vmin bis Vmax einstellbar. Die spezielle Regelmechanik gewährleistet eine hohe Regel- genauigkeit mit nur etwa ± 5% bis ± 10% Abweichung. Dementsprechend wird bei variablen Drücken der Volumenstrom im gesamten Druckbereich konstant gehalten. Optional ist der VK mit motorischer Ein- stellung auf zwei Volumenstromsollwerte, oder stetige motorische Einstellung auf beliebige Volumenstrom- sollwerte erhaltbar.Weitere Informationen können den /Hersteller- unterlagen/ entnommen werden, zur Hygiene auch dem Kapitel 7.</common:generalComment>
+<common:generalComment xml:lang="en">Electronic volume flow controllers VKE for constant and variable volume flows are maintenance-free, they can be installed independent of position in ventilation ducts for supply air as well as exhaust air in ventilation and air-conditioning systems. They are factory-adjusted for the entire volume flow range. An innovative measurement procedure uses the differential pressure and damper blade position for measuring and controlling the volume flow rate. At the same time, an efficiency signal is provided for energy-saving optimisation of the operating pressure in the ventilation system. At all pressures, the innovative measurement principle enables high control precision of ±5% to ±15% from the set point volume flow in the volume flow ranges of approx. 1:6. The casing and the centrically-mounted damper blade are made of galvanised sheet steel with a stainless steel bearing axis in special bearing bushings while the drive casing is made of plastic. The operating modes &quot;constant&quot;, &quot;variable&quot; and &quot;4-point&quot; are possible in addition to the overriding controls &quot;open&quot; and &quot;closed&quot;. The &quot;variable&quot; operating mode is possible in operation modes 0-10V, 2-10V and 2-8V. Parallel operation and sequential circuit are possible.Constant mechanical VK volume flow controllers are maintenance-free mechanical controllers without auxiliary power supply for constant volume flows in ventilation and air-conditioning systems. They can be installed independent of position in ventilation ducts for supply air and exhaust air. The casing and control mechanism are made of galvanised sheet steel. The damper blade for volume flow regulation is centrically-mounted and guided into special bearing bushings via stainless steel bearing axes. The setting device features a rotary pointer, scale and locking mechanism. The volume flow set points can be actuator-driven adjusted or set manually within the volume flow ranges of Vmin to Vmax. The special control mechanism guarantees a high degree of control accuracy with deviations of only approx. ±5% to ±10%. Accordingly, in the case of variable pressures, the volume flow is kept constant throughout the entire pressure range. As an option, the VK is available with actuator-driven adjustment for two volume flow set points or with continuous actuator-driven adjustment for any volume flow set points.  More information is available in the /manufacturer’s documents/ and section 7 provides information on hygiene.</common:generalComment>
+</dataSetInformation>
+<quantitativeReference>
+<referenceToReferenceFlow>0</referenceToReferenceFlow>
+</quantitativeReference>
+<time>
+<common:referenceYear>2015</common:referenceYear>
+<common:dataSetValidUntil>2020</common:dataSetValidUntil>
+</time>
+<geography>
+<locationOfOperationSupplyOrProduction location="DE" />
+</geography>
+<technology>
+<technologyDescriptionAndIncludedProcesses xml:lang="de">Elektronische Volumenstromregler VKE für konstante und variable Volumenströme sind wartungsfrei und lageunabhängig einbaubar in Lüftungsleitungen für Zuluft und Abluft raumlufttechnischer Anlagen. Ein neuartiges Messverfahren nutzt den Differenzdruck und die Klappenblattstellung zur Volumenstrommessung und Regelung. Das Gehäuse und das zentrisch gelagerte Klappenblatt bestehen aus verzinktem Stahlblech mit einer Lagerachse aus Edelstahl in speziellen Lagerbuchsen. Das Antriebsgehäuse ist aus Kunststoff. Konstant-mechanische VK Volumenstromregler sind wartungsfreie, mechanische Regler ohne Hilfsenergie für konstante Volumenströme in raumlufttechnischen Anlagen. Der Einbau erfolgt lageunabhängig in Lüftungsleitungen für Zuluft und Abluft. Gehäuse und Regelmechanik sind aus verzinktem Stahlblech. Das Klappenblatt zur Volumenstromregulierung ist zentrisch gelagert und mit Lagerachsen aus Edelstahl in speziellen Lagerbuchsen geführt. Die Produktion unterliegt einem Energieeffizienzsystem und erfolgt an dem Standort in Weener. Notwendige Roh- und Halbteile, Hilfs- und Betriebsstoffe werden von Lieferanten angeliefert und fließen in die Produktion mit ein. Die Fertigung der Halbteile erfolgt in einer Vorfertigung mit üblichen Fertigungsverfahren. Metallteile werden gestanzt und in Form gekantet. Die Teile der Vorfertigung werden zusammen mit eingekauften Teilen zu Volumenstromreglern endmontiert, im Rahmen der Qualitätssicherung nach DIN EN ISO 9001 geprüft, verpackt und ausgeliefert. Die Ökobilanz beinhaltet die Lebenszyklusstadien „von der Wiege bis zur Bahre“. Weitere und detaillierte Angaben können der EPD entnommen werden. 
+Technische Daten: 
+Erfüllt sind die Anforderungen nach harmonisierten Vorschriften zur CE-Kennzeichnung zur elektro- magnetischen Verträglichkeit (EMV) gemäß Richtlinie der EU /2004/108/EG/, die Leistungsbewertung nach /DIN EN 12589/ und die damit verbundenen Anforderungen nach /DIN EN ISO 5135/, /DIN EN ISO 3741/, /DIN EN ISO 5167-1/  und /DIN EN 1751/. 
+Deklarierte Einheit: 
+Die Deklaration bezieht sich auf die Herstellung von einem Stück Volumenstromregler VKE inklusive Antrieb, elektrischer Steuereinheit und der optionalen Dämmschale gemäß dem /IBU PCR Teil B/. Weitere Volumenstromregler vom Typ VKE und VK, deren Varianten und den variierenden Abmessungen abweichend von den hier betrachteten Referenzprodukten können über eine Gewichtstabelle, bereitgestellt von der Wildeboer Bauteile GmbH, durch Skalierung der Ergebnisse berechnet werden.</technologyDescriptionAndIncludedProcesses>
+<technologyDescriptionAndIncludedProcesses xml:lang="en">Production is at one location in the Weener plant. The necessary raw and semi-finished parts, ancillary materials and operating materials are delivered by suppliers and are integrated in production. Semi-finished parts are manufactured in a prefabrication using standard manufacturing methods. Metal parts are punched and edged to shape. Blanks are optimised accordingly in order to avoid waste. Any waste incurred is collected and where possible recycled by the corresponding companies, or disposed of and incinerated as domestic waste. Lubricants are largely collected, treated and re-used in production. Dust and fumes are extracted and collected on site. Prefabricated parts are assembled along with bought-in parts to volume flow controllers, inspected within the framework of quality assurance to /DIN EN ISO 9001/, packed and shipped. Each volume flow controller is factory-adjusted to ensure a high and consistent degree of control accuracy. The plant is subject to an energy management system. 
+Technical data: 
+The requirements in accordance with the harmonised regulations governing CE marking relating to electromagnetic compatibility (EMC) in line with EU Guideline /2004/108/EC/, the performance rating according to /DIN EN 12589/ and the associated requirements according to /DIN EN ISO 5135/, /DIN EN ISO 3741/, /DIN EN ISO 5167-1/ and /DIN EN 1751/ are fulfilled. 
+Declared unit: 
+This declaration refers to the manufacture of one volume flow controller VKE including drive, electric control unit and the optional acoustic insulation according to /IBU PCR, Part B/. Other volume flow controllers, type VKE and VK, whose variants and varying dimensions deviate from the reference products analysed here can be calculated using a weight chart provided by Wildeboer Bauteile GmbH and scaling the results.</technologyDescriptionAndIncludedProcesses>
+<technologicalApplicability xml:lang="de">Volumenstromregler für die Regelung von konstanten und variablen Volumenströmen in raumlufttechnischen Anlagen und zum Absperren von Lüftungsleitungen.</technologicalApplicability>
+<technologicalApplicability xml:lang="en">Volume flow controller for controlling constant and variable volume flows in ventilation and air-conditioning systems and for shutting off the ventilation ducts.</technologicalApplicability>
+<referenceToTechnologyFlowDiagrammOrPicture uri="../sources/cca8cc64-09fb-4305-a9b2-5d6e0398c1e4.xml" type="source data set" refObjectId="cca8cc64-09fb-4305-a9b2-5d6e0398c1e4">
+<common:shortDescription xml:lang="de">Bautechnische Daten</common:shortDescription>
+</referenceToTechnologyFlowDiagrammOrPicture>
+<referenceToTechnologyFlowDiagrammOrPicture uri="../sources/94cb5f84-bedc-4aaa-afd1-b1622ec488f4.xml" type="source data set" refObjectId="94cb5f84-bedc-4aaa-afd1-b1622ec488f4">
+<common:shortDescription xml:lang="de">Deklarierte Einheit VKE</common:shortDescription>
+</referenceToTechnologyFlowDiagrammOrPicture>
+</technology>
+</processInformation>
+<modellingAndValidation>
+<LCIMethodAndAllocation>
+<typeOfDataSet>EPD</typeOfDataSet>
+<referenceToLCAMethodDetails type="source data set" refObjectId="78e67da2-2cf9-45c5-9263-3f0d94faf9e2">
+<common:shortDescription xml:lang="de">Volumenstromregler und Volumenstrombegrenzer für Lüftungsanlagen.pdf</common:shortDescription>
+</referenceToLCAMethodDetails>
+<common:other>
+<epd:subType xmlns="http://www.iai.kit.edu/EPD/2013">specific dataset</epd:subType>
+</common:other>
+</LCIMethodAndAllocation>
+<dataSourcesTreatmentAndRepresentativeness>
+<referenceToDataSource type="source data set" refObjectId="8524b01d-0445-455f-ba51-a630a1b17269">
+<common:shortDescription xml:lang="de">Volumenstromregler VKE, VK.pdf</common:shortDescription>
+</referenceToDataSource>
+<referenceToDataSource type="source data set" refObjectId="28d74cc0-db8b-4d7e-bc44-5f6d56ce0c4a">
+<common:shortDescription xml:lang="de">GaBi Database (all versions)</common:shortDescription>
+</referenceToDataSource>
+<referenceToDataSource type="source data set" refObjectId="9422129a-7992-4eaf-aa17-0fca36af4512">
+<common:shortDescription xml:lang="de">GaBi database SP27 2015</common:shortDescription>
+</referenceToDataSource>
+<useAdviceForDataSet xml:lang="de">Gültigkeitsbereich: 
+Dieses Dokument bezieht sich auf die Herstellung, den Transport, den Einbau, den Betrieb und die Entsorgung von Volumenstromreglern mit optionalem Zubehör für raumlufttechnische Anlagen. Die Produkte werden ausschließlich in Deutschland im Werk Weener produziert, in dem die Produktionsdaten des Jahres 2012 erhoben wurden. 
+Systemgrenze: 
+Die Systemgrenze der EPD vom Typ &quot;Wiege bis Bahre&quot; folgt dem modularen Aufbau gemäß /EN 15804/. Die Ökobilanz der betrachteten Produkte berücksichtigt die Module A, B, C und D:A1-A3 (Produktionsstadium): Rohstoffbereitstellung, Transport zum Hersteller, Herstellung (incl. Energie und Wasserbereitstellung, Bereitstellung von Hilfsstoffen, Entsorgung von Abfällen)A4-A5 (Einrichten eines Bauwerks): Transport zur Baustelle, Einbau in das Gebäude, Verwertung von VerpackungsabfällenB1-B5 (Nutzungsstadium): Nutzung des eingebauten ProduktsB6-B7 (Nutzungsstadium - Betrieb des Gebäudes): Einsatz von elektrischer Energie für das ProduktC1-C4 (Entsorgungsstadium): Rückbau des Produkts, Transport zur Abfallbehandlung, Abfallbehandlung, EntsorgungD (Gutschriften): Recyclingpotential</useAdviceForDataSet>
+<useAdviceForDataSet xml:lang="en">Scope: 
+This document refers to the manufacture, transport, installation, operation and disposal of volume flow controllers with optional accessories for ventilation and air-conditioning systems. The products are produced exclusively at the Weener plant in Germany where production data for 2012 was recorded. 
+System boundary: 
+The “cradle to grave” EPD system boundary has a modular design according to /EN 15804/. The LCA for the products under review considers Modules A, B, C and D: A1-A3 (Product stage): Raw material supply, transport to the manufacturer, production (incl. provision of energy and water, provision of ancillary materials, disposal of waste) A4-A5 (Construction process): Transport to construction site, installation in the building, recycling packaging waste B1-B5 (Use stage): Use of the installed product B6-B7 (Use stage – building operation): Use of electrical energy for the product  C1-C4 (End-of-life stage): De-constructing the product, transport to waste processing, waste treatment, disposalD (Credits): Recycling potential</useAdviceForDataSet>
+</dataSourcesTreatmentAndRepresentativeness>
+<validation>
+<review type="Accredited third party review">
+<common:referenceToNameOfReviewerAndInstitution uri="../contacts/d111dbec-b024-4be5-86c5-752d6eb2cf95.xml" type="contact data set" refObjectId="d111dbec-b024-4be5-86c5-752d6eb2cf95">
+<common:shortDescription xml:lang="de">IBU</common:shortDescription>
+</common:referenceToNameOfReviewerAndInstitution>
+<common:referenceToCompleteReviewReport type="source data set" />
+</review>
+</validation>
+<complianceDeclarations>
+<compliance>
+<common:referenceToComplianceSystem uri="../sources/b00f9ec0-7874-11e3-981f-0800200c9a66.xml" type="source data set" refObjectId="b00f9ec0-7874-11e3-981f-0800200c9a66">
+<common:shortDescription xml:lang="de">DIN EN 15804</common:shortDescription>
+</common:referenceToComplianceSystem>
+</compliance>
+<compliance>
+<common:referenceToComplianceSystem type="source data set">
+<common:shortDescription xml:lang="de">ISO 14025</common:shortDescription>
+</common:referenceToComplianceSystem>
+</compliance>
+</complianceDeclarations>
+</modellingAndValidation>
+<administrativeInformation>
+<dataEntryBy>
+<common:timeStamp>2015-09-16T09:36:58.119</common:timeStamp>
+<common:referenceToDataSetFormat uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40.xml" type="source data set" refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40">
+<common:shortDescription xml:lang="de">ILCD Format 1.1</common:shortDescription>
+</common:referenceToDataSetFormat>
+<common:referenceToDataSetFormat uri="../sources/cba73800-7874-11e3-981f-0800200c9a66.xml" type="source data set" refObjectId="cba73800-7874-11e3-981f-0800200c9a66">
+<common:shortDescription xml:lang="de">EPD-Datenformaterweiterungen</common:shortDescription>
+</common:referenceToDataSetFormat>
+<common:referenceToPersonOrEntityEnteringTheData uri="../contacts/623edf96-39d1-4e6f-9892-674c7228546b.xml" type="contact data set" refObjectId="623edf96-39d1-4e6f-9892-674c7228546b">
+<common:shortDescription xml:lang="de">thinkstep</common:shortDescription>
+</common:referenceToPersonOrEntityEnteringTheData>
+</dataEntryBy>
+<publicationAndOwnership>
+<common:dataSetVersion>00.04.000</common:dataSetVersion>
+<common:referenceToOwnershipOfDataSet uri="../contacts/1412ea7e-e62c-46e9-acfa-aa7164e82837.xml" type="contact data set" refObjectId="1412ea7e-e62c-46e9-acfa-aa7164e82837">
+<common:shortDescription xml:lang="de">Wildeboer Bauteile GmbH</common:shortDescription>
+</common:referenceToOwnershipOfDataSet>
+<common:copyright>true</common:copyright>
+</publicationAndOwnership>
+</administrativeInformation>
+<exchanges>
+<exchange dataSetInternalID="0">
+<referenceToFlowDataSet uri="../flows/12b0bc96-bd44-7fb0-388a-040a1d8fbc2b.xml" type="flow data set" refObjectId="12b0bc96-bd44-7fb0-388a-040a1d8fbc2b">
+<common:shortDescription xml:lang="de">1 Stück Volumenstromregler VKE mit 4,91 kg/Stück (1 Stück Volumenstromregler VKE mit 4,91 kg/Stück)</common:shortDescription>
+</referenceToFlowDataSet>
+<meanAmount>1</meanAmount>
+<referencesToDataSource />
+</exchange>
+<exchange dataSetInternalID="1">
+<referenceToFlowDataSet uri="../flows/20f32be5-0398-4288-9b6d-accddd195317.xml" type="flow data set" refObjectId="20f32be5-0398-4288-9b6d-accddd195317">
+<common:shortDescription xml:lang="de">Erneuerbare Primärenergie als Energieträger (PERE)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">19</epd:amount>
+<epd:amount epd:module="A4">0.093</epd:amount>
+<epd:amount epd:module="A5">0.0011</epd:amount>
+<epd:amount epd:module="B1">0</epd:amount>
+<epd:amount epd:module="B2">0</epd:amount>
+<epd:amount epd:module="B3">0</epd:amount>
+<epd:amount epd:module="B4">0</epd:amount>
+<epd:amount epd:module="B5">0</epd:amount>
+<epd:amount epd:module="B6">130</epd:amount>
+<epd:amount epd:module="C1">0</epd:amount>
+<epd:amount epd:module="C2">0.05</epd:amount>
+<epd:amount epd:module="C3">0.013</epd:amount>
+<epd:amount epd:module="C4">0.029</epd:amount>
+<epd:amount epd:module="D">0.47</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="2">
+<referenceToFlowDataSet uri="../flows/fb3ec0de-548d-4508-aea5-00b73bf6f702.xml" type="flow data set" refObjectId="fb3ec0de-548d-4508-aea5-00b73bf6f702">
+<common:shortDescription xml:lang="de">Erneuerbare Primärenergie zur stofflichen Nutzung (PERM)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+<epd:amount epd:module="A4">0</epd:amount>
+<epd:amount epd:module="A5">0</epd:amount>
+<epd:amount epd:module="B1">0</epd:amount>
+<epd:amount epd:module="B2">0</epd:amount>
+<epd:amount epd:module="B3">0</epd:amount>
+<epd:amount epd:module="B4">0</epd:amount>
+<epd:amount epd:module="B5">0</epd:amount>
+<epd:amount epd:module="B6">0</epd:amount>
+<epd:amount epd:module="C1">0</epd:amount>
+<epd:amount epd:module="C2">0</epd:amount>
+<epd:amount epd:module="C3">0</epd:amount>
+<epd:amount epd:module="C4">0</epd:amount>
+<epd:amount epd:module="D">0</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="3">
+<referenceToFlowDataSet uri="../flows/53f97275-fa8a-4cdd-9024-65936002acd0.xml" type="flow data set" refObjectId="53f97275-fa8a-4cdd-9024-65936002acd0">
+<common:shortDescription xml:lang="de">Total erneuerbare Primärenergie (PERT)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">19</epd:amount>
+<epd:amount epd:module="A4">0.093</epd:amount>
+<epd:amount epd:module="A5">0.0011</epd:amount>
+<epd:amount epd:module="B1">0</epd:amount>
+<epd:amount epd:module="B2">0</epd:amount>
+<epd:amount epd:module="B3">0</epd:amount>
+<epd:amount epd:module="B4">0</epd:amount>
+<epd:amount epd:module="B5">0</epd:amount>
+<epd:amount epd:module="B6">130</epd:amount>
+<epd:amount epd:module="C1">0</epd:amount>
+<epd:amount epd:module="C2">0.05</epd:amount>
+<epd:amount epd:module="C3">0.013</epd:amount>
+<epd:amount epd:module="C4">0.029</epd:amount>
+<epd:amount epd:module="D">0.47</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="4">
+<referenceToFlowDataSet uri="../flows/ac857178-2b45-46ec-892a-a9a4332f0372.xml" type="flow data set" refObjectId="ac857178-2b45-46ec-892a-a9a4332f0372">
+<common:shortDescription xml:lang="de">Nicht-erneuerbare Primärenergie als Energieträger (PENRE)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">320</epd:amount>
+<epd:amount epd:module="A4">1.6</epd:amount>
+<epd:amount epd:module="A5">0.013</epd:amount>
+<epd:amount epd:module="B1">0</epd:amount>
+<epd:amount epd:module="B2">0</epd:amount>
+<epd:amount epd:module="B3">0</epd:amount>
+<epd:amount epd:module="B4">0</epd:amount>
+<epd:amount epd:module="B5">0</epd:amount>
+<epd:amount epd:module="B6">630</epd:amount>
+<epd:amount epd:module="C1">0</epd:amount>
+<epd:amount epd:module="C2">0.85</epd:amount>
+<epd:amount epd:module="C3">0.11</epd:amount>
+<epd:amount epd:module="C4">0.45</epd:amount>
+<epd:amount epd:module="D">-73</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="5">
+<referenceToFlowDataSet uri="../flows/1421caa0-679d-4bf4-b282-0eb850ccae27.xml" type="flow data set" refObjectId="1421caa0-679d-4bf4-b282-0eb850ccae27">
+<common:shortDescription xml:lang="de">Nicht-erneuerbare Primärenergie zur stofflichen Nutzung (PENRM)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">13</epd:amount>
+<epd:amount epd:module="A4">0</epd:amount>
+<epd:amount epd:module="A5">0</epd:amount>
+<epd:amount epd:module="B1">0</epd:amount>
+<epd:amount epd:module="B2">0</epd:amount>
+<epd:amount epd:module="B3">0</epd:amount>
+<epd:amount epd:module="B4">0</epd:amount>
+<epd:amount epd:module="B5">0</epd:amount>
+<epd:amount epd:module="B6">0</epd:amount>
+<epd:amount epd:module="C1">0</epd:amount>
+<epd:amount epd:module="C2">0</epd:amount>
+<epd:amount epd:module="C3">0</epd:amount>
+<epd:amount epd:module="C4">0</epd:amount>
+<epd:amount epd:module="D">0</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="6">
+<referenceToFlowDataSet uri="../flows/06159210-646b-4c8d-8583-da9b3b95a6c1.xml" type="flow data set" refObjectId="06159210-646b-4c8d-8583-da9b3b95a6c1">
+<common:shortDescription xml:lang="de">Total nicht erneuerbare Primärenergie (PENRT)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">330</epd:amount>
+<epd:amount epd:module="A4">1.6</epd:amount>
+<epd:amount epd:module="A5">0.013</epd:amount>
+<epd:amount epd:module="B1">0</epd:amount>
+<epd:amount epd:module="B2">0</epd:amount>
+<epd:amount epd:module="B3">0</epd:amount>
+<epd:amount epd:module="B4">0</epd:amount>
+<epd:amount epd:module="B5">0</epd:amount>
+<epd:amount epd:module="B6">630</epd:amount>
+<epd:amount epd:module="C1">0</epd:amount>
+<epd:amount epd:module="C2">0.85</epd:amount>
+<epd:amount epd:module="C3">0.11</epd:amount>
+<epd:amount epd:module="C4">0.45</epd:amount>
+<epd:amount epd:module="D">-73</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="7">
+<referenceToFlowDataSet uri="../flows/c6a1f35f-2d09-4f54-8dfb-97e502e1ce92.xml" type="flow data set" refObjectId="c6a1f35f-2d09-4f54-8dfb-97e502e1ce92">
+<common:shortDescription xml:lang="de">Einsatz von Sekundärstoffen (SM)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.701</epd:amount>
+<epd:amount epd:module="A4"></epd:amount>
+<epd:amount epd:module="A5"></epd:amount>
+<epd:amount epd:module="B1"></epd:amount>
+<epd:amount epd:module="B2"></epd:amount>
+<epd:amount epd:module="B3"></epd:amount>
+<epd:amount epd:module="B4"></epd:amount>
+<epd:amount epd:module="B5"></epd:amount>
+<epd:amount epd:module="B6"></epd:amount>
+<epd:amount epd:module="C1"></epd:amount>
+<epd:amount epd:module="C2"></epd:amount>
+<epd:amount epd:module="C3"></epd:amount>
+<epd:amount epd:module="C4"></epd:amount>
+<epd:amount epd:module="D"></epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="8">
+<referenceToFlowDataSet uri="../flows/64333088-a55f-4aa2-9a31-c10b07816787.xml" type="flow data set" refObjectId="64333088-a55f-4aa2-9a31-c10b07816787">
+<common:shortDescription xml:lang="de">Erneuerbare Sekundärbrennstoffe (RSF)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+<epd:amount epd:module="A4">0</epd:amount>
+<epd:amount epd:module="A5">0</epd:amount>
+<epd:amount epd:module="B1">0</epd:amount>
+<epd:amount epd:module="B2">0</epd:amount>
+<epd:amount epd:module="B3">0</epd:amount>
+<epd:amount epd:module="B4">0</epd:amount>
+<epd:amount epd:module="B5">0</epd:amount>
+<epd:amount epd:module="B6">0</epd:amount>
+<epd:amount epd:module="C1">0</epd:amount>
+<epd:amount epd:module="C2">0</epd:amount>
+<epd:amount epd:module="C3">0</epd:amount>
+<epd:amount epd:module="C4">0</epd:amount>
+<epd:amount epd:module="D">0</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="9">
+<referenceToFlowDataSet uri="../flows/89def144-d39a-4287-b86f-efde453ddcb2.xml" type="flow data set" refObjectId="89def144-d39a-4287-b86f-efde453ddcb2">
+<common:shortDescription xml:lang="de">Nicht erneuerbare Sekundärbrennstoffe (NRSF)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+<epd:amount epd:module="A4">0</epd:amount>
+<epd:amount epd:module="A5">0</epd:amount>
+<epd:amount epd:module="B1">0</epd:amount>
+<epd:amount epd:module="B2">0</epd:amount>
+<epd:amount epd:module="B3">0</epd:amount>
+<epd:amount epd:module="B4">0</epd:amount>
+<epd:amount epd:module="B5">0</epd:amount>
+<epd:amount epd:module="B6">0</epd:amount>
+<epd:amount epd:module="C1">0</epd:amount>
+<epd:amount epd:module="C2">0</epd:amount>
+<epd:amount epd:module="C3">0</epd:amount>
+<epd:amount epd:module="C4">0</epd:amount>
+<epd:amount epd:module="D">0</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="10">
+<referenceToFlowDataSet uri="../flows/3cf952c8-f3a4-461d-8c96-96456ca62246.xml" type="flow data set" refObjectId="3cf952c8-f3a4-461d-8c96-96456ca62246">
+<common:shortDescription xml:lang="de">Einsatz von Süßwasserressourcen (FW)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Input</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/cd950537-0a98-4044-9ba7-9f9a68d0a504.xml" type="unit group data set" refObjectId="cd950537-0a98-4044-9ba7-9f9a68d0a504">
+<common:shortDescription xml:lang="de">m^3</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.12</epd:amount>
+<epd:amount epd:module="A4">6E-05</epd:amount>
+<epd:amount epd:module="A5">8E-05</epd:amount>
+<epd:amount epd:module="B1">0</epd:amount>
+<epd:amount epd:module="B2">0</epd:amount>
+<epd:amount epd:module="B3">0</epd:amount>
+<epd:amount epd:module="B4">0</epd:amount>
+<epd:amount epd:module="B5">0</epd:amount>
+<epd:amount epd:module="B6">0.18</epd:amount>
+<epd:amount epd:module="C1">0</epd:amount>
+<epd:amount epd:module="C2">3.2E-05</epd:amount>
+<epd:amount epd:module="C3">0.00061</epd:amount>
+<epd:amount epd:module="C4">0.0014</epd:amount>
+<epd:amount epd:module="D">-0.0051</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="11">
+<referenceToFlowDataSet uri="../flows/430f9e0f-59b2-46a0-8e0d-55e0e84948fc.xml" type="flow data set" refObjectId="430f9e0f-59b2-46a0-8e0d-55e0e84948fc">
+<common:shortDescription xml:lang="de">Gefährlicher Abfall zur Deponie (HWD)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.03</epd:amount>
+<epd:amount epd:module="A4">7E-06</epd:amount>
+<epd:amount epd:module="A5">1.6E-06</epd:amount>
+<epd:amount epd:module="B1">0</epd:amount>
+<epd:amount epd:module="B2">0</epd:amount>
+<epd:amount epd:module="B3">0</epd:amount>
+<epd:amount epd:module="B4">0</epd:amount>
+<epd:amount epd:module="B5">0</epd:amount>
+<epd:amount epd:module="B6">0.19</epd:amount>
+<epd:amount epd:module="C1">0</epd:amount>
+<epd:amount epd:module="C2">3.8E-06</epd:amount>
+<epd:amount epd:module="C3">2E-05</epd:amount>
+<epd:amount epd:module="C4">2.8E-05</epd:amount>
+<epd:amount epd:module="D">0.0038</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="12">
+<referenceToFlowDataSet uri="../flows/b29ef66b-e286-4afa-949f-62f1a7b4d7fa.xml" type="flow data set" refObjectId="b29ef66b-e286-4afa-949f-62f1a7b4d7fa">
+<common:shortDescription xml:lang="de">Entsorgter nicht gefährlicher Abfall (NHWD)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.6</epd:amount>
+<epd:amount epd:module="A4">0.0003</epd:amount>
+<epd:amount epd:module="A5">0.00093</epd:amount>
+<epd:amount epd:module="B1">0</epd:amount>
+<epd:amount epd:module="B2">0</epd:amount>
+<epd:amount epd:module="B3">0</epd:amount>
+<epd:amount epd:module="B4">0</epd:amount>
+<epd:amount epd:module="B5">0</epd:amount>
+<epd:amount epd:module="B6">0.24</epd:amount>
+<epd:amount epd:module="C1">0</epd:amount>
+<epd:amount epd:module="C2">0.00016</epd:amount>
+<epd:amount epd:module="C3">0.025</epd:amount>
+<epd:amount epd:module="C4">0.81</epd:amount>
+<epd:amount epd:module="D">-0.12</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="13">
+<referenceToFlowDataSet uri="../flows/3449546e-52ad-4b39-b809-9fb77cea8ff6.xml" type="flow data set" refObjectId="3449546e-52ad-4b39-b809-9fb77cea8ff6">
+<common:shortDescription xml:lang="de">Entsorgter radioaktiver Abfall (RWD)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.011</epd:amount>
+<epd:amount epd:module="A4">2.2E-06</epd:amount>
+<epd:amount epd:module="A5">6.2E-07</epd:amount>
+<epd:amount epd:module="B1">0</epd:amount>
+<epd:amount epd:module="B2">0</epd:amount>
+<epd:amount epd:module="B3">0</epd:amount>
+<epd:amount epd:module="B4">0</epd:amount>
+<epd:amount epd:module="B5">0</epd:amount>
+<epd:amount epd:module="B6">0.075</epd:amount>
+<epd:amount epd:module="C1">0</epd:amount>
+<epd:amount epd:module="C2">1.2E-06</epd:amount>
+<epd:amount epd:module="C3">7.4E-06</epd:amount>
+<epd:amount epd:module="C4">1.5E-05</epd:amount>
+<epd:amount epd:module="D">0.0012</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="14">
+<referenceToFlowDataSet uri="../flows/a2b32f97-3fc7-4af2-b209-525bc6426f33.xml" type="flow data set" refObjectId="a2b32f97-3fc7-4af2-b209-525bc6426f33">
+<common:shortDescription xml:lang="de">Komponenten für die Wiederverwendung (CRU)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+<epd:amount epd:module="A4">0</epd:amount>
+<epd:amount epd:module="A5">0</epd:amount>
+<epd:amount epd:module="B1">0</epd:amount>
+<epd:amount epd:module="B2">0</epd:amount>
+<epd:amount epd:module="B3">0</epd:amount>
+<epd:amount epd:module="B4">0</epd:amount>
+<epd:amount epd:module="B5">0</epd:amount>
+<epd:amount epd:module="B6">0</epd:amount>
+<epd:amount epd:module="C1">0</epd:amount>
+<epd:amount epd:module="C2">0</epd:amount>
+<epd:amount epd:module="C3">0</epd:amount>
+<epd:amount epd:module="C4">0</epd:amount>
+<epd:amount epd:module="D">0</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="15">
+<referenceToFlowDataSet uri="../flows/d7fe48a5-4103-49c8-9aae-b0b5dfdbd6ae.xml" type="flow data set" refObjectId="d7fe48a5-4103-49c8-9aae-b0b5dfdbd6ae">
+<common:shortDescription xml:lang="de">Stoffe zum Recycling (MFR)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+<epd:amount epd:module="A4">0</epd:amount>
+<epd:amount epd:module="A5">0</epd:amount>
+<epd:amount epd:module="B1">0</epd:amount>
+<epd:amount epd:module="B2">0</epd:amount>
+<epd:amount epd:module="B3">0</epd:amount>
+<epd:amount epd:module="B4">0</epd:amount>
+<epd:amount epd:module="B5">0</epd:amount>
+<epd:amount epd:module="B6">0</epd:amount>
+<epd:amount epd:module="C1">0</epd:amount>
+<epd:amount epd:module="C2">0</epd:amount>
+<epd:amount epd:module="C3">0</epd:amount>
+<epd:amount epd:module="C4">0</epd:amount>
+<epd:amount epd:module="D">4.3</epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="16">
+<referenceToFlowDataSet uri="../flows/59a9181c-3aaf-46ee-8b13-2b3723b6e447.xml" type="flow data set" refObjectId="59a9181c-3aaf-46ee-8b13-2b3723b6e447">
+<common:shortDescription xml:lang="de">Stoffe für die Energierückgewinnung (MER)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/ad38d542-3fe9-439d-9b95-2f5f7752acaf.xml" type="unit group data set" refObjectId="ad38d542-3fe9-439d-9b95-2f5f7752acaf">
+<common:shortDescription xml:lang="de">kg</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+<epd:amount epd:module="A4">0</epd:amount>
+<epd:amount epd:module="A5">0.022</epd:amount>
+<epd:amount epd:module="B1">0</epd:amount>
+<epd:amount epd:module="B2">0</epd:amount>
+<epd:amount epd:module="B3">0</epd:amount>
+<epd:amount epd:module="B4">0</epd:amount>
+<epd:amount epd:module="B5">0</epd:amount>
+<epd:amount epd:module="B6">0</epd:amount>
+<epd:amount epd:module="C1">0</epd:amount>
+<epd:amount epd:module="C2">0</epd:amount>
+<epd:amount epd:module="C3">0.16</epd:amount>
+<epd:amount epd:module="C4">0.3</epd:amount>
+<epd:amount epd:module="D"></epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="17">
+<referenceToFlowDataSet uri="../flows/4da0c987-2b76-40d6-9e9e-82a017aaaf29.xml" type="flow data set" refObjectId="4da0c987-2b76-40d6-9e9e-82a017aaaf29">
+<common:shortDescription xml:lang="de">Exportierte elektrische Energie (EEE)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+<epd:amount epd:module="A4">0</epd:amount>
+<epd:amount epd:module="A5">0.026</epd:amount>
+<epd:amount epd:module="B1">0</epd:amount>
+<epd:amount epd:module="B2">0</epd:amount>
+<epd:amount epd:module="B3">0</epd:amount>
+<epd:amount epd:module="B4">0</epd:amount>
+<epd:amount epd:module="B5">0</epd:amount>
+<epd:amount epd:module="B6">0</epd:amount>
+<epd:amount epd:module="C1">0</epd:amount>
+<epd:amount epd:module="C2">0</epd:amount>
+<epd:amount epd:module="C3">0.2</epd:amount>
+<epd:amount epd:module="C4">1.4</epd:amount>
+<epd:amount epd:module="D"></epd:amount>
+</common:other>
+</exchange>
+<exchange dataSetInternalID="18">
+<referenceToFlowDataSet uri="../flows/98daf38a-7a79-46d3-9a37-2b7bd0955810.xml" type="flow data set" refObjectId="98daf38a-7a79-46d3-9a37-2b7bd0955810">
+<common:shortDescription xml:lang="de">Exportierte thermische Energie (EET)</common:shortDescription>
+</referenceToFlowDataSet>
+<functionType>General reminder flow</functionType>
+<exchangeDirection>Output</exchangeDirection>
+<referencesToDataSource />
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0</epd:amount>
+<epd:amount epd:module="A4">0</epd:amount>
+<epd:amount epd:module="A5">0.064</epd:amount>
+<epd:amount epd:module="B1">0</epd:amount>
+<epd:amount epd:module="B2">0</epd:amount>
+<epd:amount epd:module="B3">0</epd:amount>
+<epd:amount epd:module="B4">0</epd:amount>
+<epd:amount epd:module="B5">0</epd:amount>
+<epd:amount epd:module="B6">0</epd:amount>
+<epd:amount epd:module="C1">0</epd:amount>
+<epd:amount epd:module="C2">0</epd:amount>
+<epd:amount epd:module="C3">0.52</epd:amount>
+<epd:amount epd:module="C4">4</epd:amount>
+<epd:amount epd:module="D"></epd:amount>
+</common:other>
+</exchange>
+</exchanges>
+<LCIAResults>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/77e416eb-a363-4258-a04e-171d843a6460.xml" type="LCIA method data set" refObjectId="77e416eb-a363-4258-a04e-171d843a6460">
+<common:shortDescription xml:lang="de">Globales Erwärmungspotenzial (GWP)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/1ebf3012-d0db-4de2-aefd-ef30cedb0be1.xml" type="unit group data set" refObjectId="1ebf3012-d0db-4de2-aefd-ef30cedb0be1">
+<common:shortDescription xml:lang="de">kg CO_(2)-Äq.</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">24</epd:amount>
+<epd:amount epd:module="A4">0.11</epd:amount>
+<epd:amount epd:module="A5">0.027</epd:amount>
+<epd:amount epd:module="B1">0</epd:amount>
+<epd:amount epd:module="B2">0</epd:amount>
+<epd:amount epd:module="B3">0</epd:amount>
+<epd:amount epd:module="B4">0</epd:amount>
+<epd:amount epd:module="B5">0</epd:amount>
+<epd:amount epd:module="B6">44</epd:amount>
+<epd:amount epd:module="C1">0</epd:amount>
+<epd:amount epd:module="C2">0.062</epd:amount>
+<epd:amount epd:module="C3">0.12</epd:amount>
+<epd:amount epd:module="C4">0.77</epd:amount>
+<epd:amount epd:module="D">-7.9</epd:amount>
+</common:other>
+</LCIAResult>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/06dcd26f-025f-401a-a7c1-5e457eb54637.xml" type="LCIA method data set" refObjectId="06dcd26f-025f-401a-a7c1-5e457eb54637">
+<common:shortDescription xml:lang="de">Abbau Potential der stratosphärischen Ozonschicht (ODP)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/88054749-b0a6-47ea-a82b-dc5b29326512.xml" type="unit group data set" refObjectId="88054749-b0a6-47ea-a82b-dc5b29326512">
+<common:shortDescription xml:lang="de">kg CFC11-Äq.</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">8.3E-09</epd:amount>
+<epd:amount epd:module="A4">2.7E-13</epd:amount>
+<epd:amount epd:module="A5">2.9E-14</epd:amount>
+<epd:amount epd:module="B1">0</epd:amount>
+<epd:amount epd:module="B2">0</epd:amount>
+<epd:amount epd:module="B3">0</epd:amount>
+<epd:amount epd:module="B4">0</epd:amount>
+<epd:amount epd:module="B5">0</epd:amount>
+<epd:amount epd:module="B6">3.5E-09</epd:amount>
+<epd:amount epd:module="C1">0</epd:amount>
+<epd:amount epd:module="C2">1.5E-13</epd:amount>
+<epd:amount epd:module="C3">3.2E-13</epd:amount>
+<epd:amount epd:module="C4">2.1E-12</epd:amount>
+<epd:amount epd:module="D">2.8E-11</epd:amount>
+</common:other>
+</LCIAResult>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/b4274add-93b7-4905-a5e4-2e878c4e4216.xml" type="LCIA method data set" refObjectId="b4274add-93b7-4905-a5e4-2e878c4e4216">
+<common:shortDescription xml:lang="de">Versauerungspotenzial von Boden und Wasser (AP)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/bc50c624-a9bc-45b1-a9b0-e6b10d00476f.xml" type="unit group data set" refObjectId="bc50c624-a9bc-45b1-a9b0-e6b10d00476f">
+<common:shortDescription xml:lang="de">kg SO_(2)-Äq.</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.12</epd:amount>
+<epd:amount epd:module="A4">0.00052</epd:amount>
+<epd:amount epd:module="A5">1.1E-05</epd:amount>
+<epd:amount epd:module="B1">0</epd:amount>
+<epd:amount epd:module="B2">0</epd:amount>
+<epd:amount epd:module="B3">0</epd:amount>
+<epd:amount epd:module="B4">0</epd:amount>
+<epd:amount epd:module="B5">0</epd:amount>
+<epd:amount epd:module="B6">0.081</epd:amount>
+<epd:amount epd:module="C1">0</epd:amount>
+<epd:amount epd:module="C2">0.00028</epd:amount>
+<epd:amount epd:module="C3">5.6E-05</epd:amount>
+<epd:amount epd:module="C4">0.00024</epd:amount>
+<epd:amount epd:module="D">-0.029</epd:amount>
+</common:other>
+</LCIAResult>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/f58827d0-b407-4ec6-be75-8b69efb98a0f.xml" type="LCIA method data set" refObjectId="f58827d0-b407-4ec6-be75-8b69efb98a0f">
+<common:shortDescription xml:lang="de">Eutrophierungspotenzial (EP)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/67b5401d-873c-485f-bcf3-6ae83b918822.xml" type="unit group data set" refObjectId="67b5401d-873c-485f-bcf3-6ae83b918822">
+<common:shortDescription xml:lang="de">kg PO_(4)^(3)-Äq.</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.0093</epd:amount>
+<epd:amount epd:module="A4">0.00013</epd:amount>
+<epd:amount epd:module="A5">2E-06</epd:amount>
+<epd:amount epd:module="B1">0</epd:amount>
+<epd:amount epd:module="B2">0</epd:amount>
+<epd:amount epd:module="B3">0</epd:amount>
+<epd:amount epd:module="B4">0</epd:amount>
+<epd:amount epd:module="B5">0</epd:amount>
+<epd:amount epd:module="B6">0.0099</epd:amount>
+<epd:amount epd:module="C1">0</epd:amount>
+<epd:amount epd:module="C2">6.8E-05</epd:amount>
+<epd:amount epd:module="C3">1.4E-05</epd:amount>
+<epd:amount epd:module="C4">2.2E-05</epd:amount>
+<epd:amount epd:module="D">-0.0024</epd:amount>
+</common:other>
+</LCIAResult>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/1e84a202-dae6-42aa-9e9d-71ea48b8be00.xml" type="LCIA method data set" refObjectId="1e84a202-dae6-42aa-9e9d-71ea48b8be00">
+<common:shortDescription xml:lang="de">Bildungspotential für troposphärisches Ozon (POCP)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/01c26c17-9a76-406e-8295-f17b55fd909e.xml" type="unit group data set" refObjectId="01c26c17-9a76-406e-8295-f17b55fd909e">
+<common:shortDescription xml:lang="de">kg Ethen-Äq.</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.011</epd:amount>
+<epd:amount epd:module="A4">-0.00018</epd:amount>
+<epd:amount epd:module="A5">6.6E-07</epd:amount>
+<epd:amount epd:module="B1">0</epd:amount>
+<epd:amount epd:module="B2">0</epd:amount>
+<epd:amount epd:module="B3">0</epd:amount>
+<epd:amount epd:module="B4">0</epd:amount>
+<epd:amount epd:module="B5">0</epd:amount>
+<epd:amount epd:module="B6">0.0057</epd:amount>
+<epd:amount epd:module="C1">0</epd:amount>
+<epd:amount epd:module="C2">-9.5E-05</epd:amount>
+<epd:amount epd:module="C3">4.3E-06</epd:amount>
+<epd:amount epd:module="C4">1.4E-05</epd:amount>
+<epd:amount epd:module="D">-0.0043</epd:amount>
+</common:other>
+</LCIAResult>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/f7c73bb9-ab1a-4249-9c6d-379a0de6f67e.xml" type="LCIA method data set" refObjectId="f7c73bb9-ab1a-4249-9c6d-379a0de6f67e">
+<common:shortDescription xml:lang="de">Potenzial für den abiotischen Abbau nicht fossiler Ressourcen (ADPE)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/54ccd2d9-a32a-4fc2-923d-f2c8c93e89d4.xml" type="unit group data set" refObjectId="54ccd2d9-a32a-4fc2-923d-f2c8c93e89d4">
+<common:shortDescription xml:lang="de">kg Sb-Äq.</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">0.0018</epd:amount>
+<epd:amount epd:module="A4">5.4E-09</epd:amount>
+<epd:amount epd:module="A5">1.6E-09</epd:amount>
+<epd:amount epd:module="B1">0</epd:amount>
+<epd:amount epd:module="B2">0</epd:amount>
+<epd:amount epd:module="B3">0</epd:amount>
+<epd:amount epd:module="B4">0</epd:amount>
+<epd:amount epd:module="B5">0</epd:amount>
+<epd:amount epd:module="B6">8.3E-06</epd:amount>
+<epd:amount epd:module="C1">0</epd:amount>
+<epd:amount epd:module="C2">2.9E-09</epd:amount>
+<epd:amount epd:module="C3">3.7E-08</epd:amount>
+<epd:amount epd:module="C4">-5.8E-06</epd:amount>
+<epd:amount epd:module="D">-1.3E-05</epd:amount>
+</common:other>
+</LCIAResult>
+<LCIAResult>
+<referenceToLCIAMethodDataSet uri="../flows/804ebcdf-309d-4098-8ed8-fdaf2f389981.xml" type="LCIA method data set" refObjectId="804ebcdf-309d-4098-8ed8-fdaf2f389981">
+<common:shortDescription xml:lang="de">Potenzial für den abiotischen Abbau fossiler Brennstoffe (ADPF)</common:shortDescription>
+</referenceToLCIAMethodDataSet>
+<common:other>
+<epd:referenceToUnitGroupDataSet uri="../unitgroups/93a60a57-a3c8-11da-a746-0800200c9a66.xml" type="unit group data set" refObjectId="93a60a57-a3c8-11da-a746-0800200c9a66">
+<common:shortDescription xml:lang="de">MJ</common:shortDescription>
+</epd:referenceToUnitGroupDataSet>
+<epd:amount epd:module="A1-A3">300</epd:amount>
+<epd:amount epd:module="A4">1.6</epd:amount>
+<epd:amount epd:module="A5">0.011</epd:amount>
+<epd:amount epd:module="B1">0</epd:amount>
+<epd:amount epd:module="B2">0</epd:amount>
+<epd:amount epd:module="B3">0</epd:amount>
+<epd:amount epd:module="B4">0</epd:amount>
+<epd:amount epd:module="B5">0</epd:amount>
+<epd:amount epd:module="B6">440</epd:amount>
+<epd:amount epd:module="C1">0</epd:amount>
+<epd:amount epd:module="C2">0.84</epd:amount>
+<epd:amount epd:module="C3">0.094</epd:amount>
+<epd:amount epd:module="C4">0.41</epd:amount>
+<epd:amount epd:module="D">-76</epd:amount>
+</common:other>
+</LCIAResult>
+</LCIAResults>
+</processDataSet>

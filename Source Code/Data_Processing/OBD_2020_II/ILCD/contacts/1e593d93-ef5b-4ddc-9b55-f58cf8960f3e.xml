@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>1e593d93-ef5b-4ddc-9b55-f58cf8960f3e</common:UUID>
+                  <common:shortName xml:lang='de'>Gemeinschaft umweltfreundlicher Teppichboden (GUT) e.V.</common:shortName>
+                  <common:name xml:lang='de'>Gemeinschaft umweltfreundlicher Teppichboden (GUT) e.V.</common:name>
+                  <contactAddress xml:lang='de'>Schönebergstraße 2, 52068 Aachen, Germany</contactAddress>
+                  <telephone>+45 (0)241 96843 410</telephone>
+                  <telefax>+45 (0)241 96843 400</telefax>
+                  <email>mail@gut-ev.de</email>
+                  <WWWAddress>www.gut-ev.org</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2017-02-14T15:35:37.5584820+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

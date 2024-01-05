@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>f8965764-81b4-4e44-84dc-cc3eec5b7940</common:UUID>
+                  <common:name xml:lang='de'>ERLUS AG</common:name>
+                  <common:shortName xml:lang='de'>ERLUS AG</common:shortName>
+                  <contactAddress xml:lang='de'>Hauptstraße 106, 84088 Neufahrn, Germany</contactAddress>
+                  <telephone>08773 18 0</telephone>
+                  <telefax>08773 18 113</telefax>
+                  <email>info@erlus.com</email>
+                  <WWWAddress>www.erlus.de</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>15.07.2015</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

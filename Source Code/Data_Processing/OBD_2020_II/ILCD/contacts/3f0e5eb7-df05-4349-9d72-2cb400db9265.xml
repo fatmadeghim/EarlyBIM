@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://iai-uiserv1.iai.kit.edu/EPD/stylesheets/contact2html.xsl"?><contactDataSet xmlns="http://lca.jrc.it/ILCD/Contact"
+                xmlns:common="http://lca.jrc.it/ILCD/Common"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd"
+                version="1.1">
+   <contactInformation>
+      <dataSetInformation>
+         <common:UUID>3f0e5eb7-df05-4349-9d72-2cb400db9265</common:UUID>
+         <common:shortName xml:lang="de">Rockwool</common:shortName>
+         <common:name xml:lang="de">Deutsche Rockwool Mineralwoll GmbH &amp; Co. OHG</common:name>
+         <classificationInformation>
+            <common:classification name="GaBiCategories" classes="../GaBiCategories.xml">
+               <common:class level="0" classId="dc0407c0-c183-4ad6-9e13-c198470b26e4">Organisationen</common:class>
+               <common:class level="1" classId="6013eef1-ab15-4ab1-9436-c5af97acf524">privates Unternehmen</common:class>
+            </common:classification>
+         </classificationInformation>
+         <contactAddress>Rockwool Straße 37 # 41, D-45966 Gladbeck</contactAddress>
+      </dataSetInformation>
+   </contactInformation>
+   <administrativeInformation>
+      <dataEntryBy>
+         <common:timeStamp>2014-08-07T11:22:23.254+02:00</common:timeStamp>
+         <common:referenceToDataSetFormat refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" type="source data set"
+                                          uri="../sources/ILCD_Format_a97a0155-0234-4b87-b4ce-a45da52f2a40.xml">
+            <common:shortDescription xml:lang="de">ILCD format 1.1</common:shortDescription>
+         </common:referenceToDataSetFormat>
+      </dataEntryBy>
+      <publicationAndOwnership>
+         <common:dataSetVersion>19.00.000</common:dataSetVersion>
+      </publicationAndOwnership>
+   </administrativeInformation>
+</contactDataSet>

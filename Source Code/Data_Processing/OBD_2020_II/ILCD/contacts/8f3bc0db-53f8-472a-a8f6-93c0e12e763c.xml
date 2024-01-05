@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>8f3bc0db-53f8-472a-a8f6-93c0e12e763c</common:UUID>
+                  <common:shortName xml:lang='en'>Knauf Gips KG</common:shortName>
+                  <common:name xml:lang='en'>Knauf Gips KG</common:name>
+                  <contactAddress xml:lang='en'>Am Bahnhof 7, 97346 Iphofen, Germany</contactAddress>
+                  <telephone>0049 9001 31-1000 *</telephone>
+                  <telefax>0049 1805 31-4000 *</telefax>
+                  <email>knauf-direkt@knauf.de</email>
+                  <WWWAddress>www.knauf.de</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2017-05-09T13:30:06.1277438+02:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

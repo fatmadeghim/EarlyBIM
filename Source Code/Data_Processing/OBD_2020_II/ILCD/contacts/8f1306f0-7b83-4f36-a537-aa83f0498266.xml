@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet version="1.0" href="../../stylesheets/contact2html.xsl" type="text/xsl"?>
+<contactDataSet xmlns="http://lca.jrc.it/ILCD/Contact" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd" version="1.1">
+  <contactInformation>
+    <dataSetInformation>
+      <common:UUID>8f1306f0-7b83-4f36-a537-aa83f0498266</common:UUID>
+      <common:shortName xml:lang="de">GaBi user forum</common:shortName>
+      <common:name xml:lang="de">GaBi user forum</common:name>
+      <classificationInformation>
+        <common:classification name="GaBiCategories" classes="../GaBiCategories.xml">
+          <common:class level="0" classId="ecc6f37b-3c4e-48a2-843d-0c01cd8f4e8f">Kontakte</common:class>
+          <common:class level="1" classId="3717cb7e-95e7-4cd6-b188-73abe9076199">Arbeitsgruppen</common:class>
+        </common:classification>
+      </classificationInformation>
+      <contactAddress>Hauptstrasse 111-113, D-70771 Leinfelden-Echterdingen, Germany</contactAddress>
+      <telephone>+49 (0) 711 341817-0</telephone>
+      <telefax>+49 (0) 711 341817-25</telefax>
+      <email>info@thinkstep.com</email>
+      <WWWAddress>http://www.thinkstep.com</WWWAddress>
+      <centralContactPoint xml:lang="de">thinkstep AG; Hauptstrasse 111-113, D-70771 Leinfelden-Echterdingen, Germany</centralContactPoint>
+      <contactDescriptionOrComment xml:lang="de">Worldwide community of GaBi users, managed by thinkstep</contactDescriptionOrComment>
+    </dataSetInformation>
+  </contactInformation>
+  <administrativeInformation>
+    <dataEntryBy>
+      <common:timeStamp>2015-08-01T00:00:00+01:00</common:timeStamp>
+      <common:referenceToDataSetFormat refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" version="03.00.000" type="source data set" uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40.xml">
+        <common:shortDescription xml:lang="de">ILCD format 1.1</common:shortDescription>
+      </common:referenceToDataSetFormat>
+      <common:referenceToDataSetFormat refObjectId="cba73800-7874-11e3-981f-0800200c9a66" version="02.00.000" type="source data set" uri="../sources/cba73800-7874-11e3-981f-0800200c9a66.xml">
+        <common:shortDescription xml:lang="de">EPD-Datenformaterweiterungen</common:shortDescription>
+      </common:referenceToDataSetFormat>
+    </dataEntryBy>
+    <publicationAndOwnership>
+      <common:dataSetVersion>38.00.000</common:dataSetVersion>
+    </publicationAndOwnership>
+  </administrativeInformation>
+</contactDataSet>

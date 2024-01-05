@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>62792478-795c-4ae2-ac9a-1012d9515424</common:UUID>
+                  <common:shortName xml:lang='de'>Dr. Frank Werner - Umwelt &amp; Entwicklung</common:shortName>
+                  <common:name xml:lang='de'>Dr. Frank Werner - Umwelt &amp; Entwicklung</common:name>
+                  <contactAddress xml:lang='de'>Idaplatz 3, 8003 Zürich, Switzerland</contactAddress>
+                  <telephone>+ 41 (0)44 241 39 06</telephone>
+                  <telefax>+ 41 (0)44 461 33 28</telefax>
+                  <email>frank@frankwerner.ch</email>
+                  <WWWAddress>http://www.frankwerner.ch/</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2018-02-06T12:51:16.4755989+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.02.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

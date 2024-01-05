@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>a655ffef-43ed-43e3-8f6d-0bdfce0ff3c8</common:UUID>
+                  <common:shortName xml:lang='de'>Campus Schloss Mariakirchen</common:shortName>
+                  <common:name xml:lang='de'>Campus Schloss Mariakirchen</common:name>
+                  <contactAddress xml:lang='de'>Obere Hofmark 3, 94424 Mariakirchen/Arnstorf, Germany</contactAddress>
+                  <telephone>+49(0)8723 978711401</telephone>
+                  <telefax>+49(0)8723 978711414</telefax>
+                  <email>josef.steretzeder@th-deg.de</email>
+                  <WWWAddress>https://www.th-deg.de/de/cs-mariakirchen</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2017-02-14T15:51:57.9115550+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

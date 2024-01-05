@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>2eaa955b-8790-4b93-83dd-67a527114122</common:UUID>
+                  <common:shortName xml:lang='de'>SUSTAINUM Institut für zukunftsfähiges Wirtschaften Berlin eG</common:shortName>
+                  <common:name xml:lang='de'>SUSTAINUM Institut für zukunftsfähiges Wirtschaften Berlin eG</common:name>
+                  <contactAddress xml:lang='de'>Marienstraße 19/20, 10117 Berlin, Germany</contactAddress>
+                  <telephone>03023457496</telephone>
+                  <telefax>03023457497</telefax>
+                  <email>info@sustainum.de</email>
+                  <WWWAddress>www.sustainum.de</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2018-02-06T12:32:02.7196078+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.02.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

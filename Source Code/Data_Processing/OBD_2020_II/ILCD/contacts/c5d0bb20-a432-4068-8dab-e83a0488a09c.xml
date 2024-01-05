@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>c5d0bb20-a432-4068-8dab-e83a0488a09c</common:UUID>
+                  <common:shortName xml:lang='de'>PONGS Technical Textiles GmbH</common:shortName>
+                  <common:name xml:lang='de'>PONGS Technical Textiles GmbH</common:name>
+                  <contactAddress xml:lang='de'>Bahnhofstraße 21, 07919 Mühltroff , Germany</contactAddress>
+                  <telephone>+49 36645 350-21</telephone>
+                  <telefax>+49 36645 350-29</telefax>
+                  <email>salestt@pongs.de</email>
+                  <WWWAddress>www.pongs.de</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2017-02-14T16:39:35.1289785+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>44c3c786-9704-4e55-9729-ab211a1916fb</common:UUID>
+                  <common:name xml:lang='de'>Arbeitsgemeinschaft Mauerziegel  im Bundesverband der Deutschen Ziegelindustrie e.V.</common:name>
+                  <common:shortName xml:lang='de'>Arbeitsgemeinschaft Mauerziegel  im Bundesverband der Deutschen Ziegelindustrie e.V.</common:shortName>
+                  <contactAddress xml:lang='de'>Schaumburg-Lippe-Str. 4, 53113 Bonn, Germany</contactAddress>
+                  <telephone>+49 (0) 228 91493-24</telephone>
+                  <telefax>+49 (0) 228 91493-12</telefax>
+                  <email>argemauerziegel@ziegel.de</email>
+                  <WWWAddress>http://www.argemauerziegel.de</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>28.09.2015</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

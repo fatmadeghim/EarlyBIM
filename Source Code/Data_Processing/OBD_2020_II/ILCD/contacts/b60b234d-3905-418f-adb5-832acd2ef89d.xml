@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<c:contactDataSet xmlns:m="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:s="http://lca.jrc.it/ILCD/Source" xmlns:c="http://lca.jrc.it/ILCD/Contact" xmlns:f="http://lca.jrc.it/ILCD/Flow" xmlns="http://lca.jrc.it/ILCD/Process" xmlns:fp="http://lca.jrc.it/ILCD/FlowProperty" xmlns:u="http://lca.jrc.it/ILCD/UnitGroup" version="1.1">
+    <c:contactInformation>
+        <c:dataSetInformation>
+            <common:UUID>b60b234d-3905-418f-adb5-832acd2ef89d</common:UUID>
+            <common:name xml:lang="de">HUECK System GmbH &amp; Co. KG</common:name>
+            <c:classificationInformation>
+                <common:classification>
+                    <common:class level="0" classId="3de6383f-9cb2-4ad7-99e5-3d9d781e7adc">Unternehmen</common:class>
+                </common:classification>
+            </c:classificationInformation>
+            <c:contactAddress xml:lang="de">Loher Straße 9; 58511 Lüdenscheid</c:contactAddress>
+            <c:WWWAddress>www.hueck.com</c:WWWAddress>
+        </c:dataSetInformation>
+    </c:contactInformation>
+    <c:administrativeInformation>
+        <c:dataEntryBy>
+            <common:timeStamp>2019-11-12T08:50:23.840+01:00</common:timeStamp>
+        </c:dataEntryBy>
+        <c:publicationAndOwnership>
+            <common:dataSetVersion>00.00.001</common:dataSetVersion>
+        </c:publicationAndOwnership>
+    </c:administrativeInformation>
+</c:contactDataSet>

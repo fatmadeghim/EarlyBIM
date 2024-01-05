@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>0861a318-be95-448b-b08e-751d226e2c2c</common:UUID>
+                  <common:shortName xml:lang='de'>Parador GmbH</common:shortName>
+                  <common:name xml:lang='de'>Parador GmbH</common:name>
+                  <contactAddress xml:lang='de'>Millenkamp 7-8, 48653 Coesfeld, Germany</contactAddress>
+                  <telephone>02541 736 678</telephone>
+                  <telefax>-</telefax>
+                  <email>info@parador.de</email>
+                  <WWWAddress>www.parador.de</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2018-02-06T12:21:40.7880354+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

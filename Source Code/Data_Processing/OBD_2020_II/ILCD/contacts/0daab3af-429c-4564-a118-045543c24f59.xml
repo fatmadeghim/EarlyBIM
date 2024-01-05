@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>0daab3af-429c-4564-a118-045543c24f59</common:UUID>
+                  <common:shortName xml:lang='de'>DORMA Deutschland GmbH</common:shortName>
+                  <common:name xml:lang='de'>DORMA Deutschland GmbH</common:name>
+                  <contactAddress xml:lang='de'>DORMA Platz 1, 58256 Ennepetal, Germany</contactAddress>
+                  <telephone>02333 7932590</telephone>
+                  <telefax>-</telefax>
+                  <email>lea.kullmann@dorma.com</email>
+                  <WWWAddress>www.dorma.com</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2018-02-06T12:51:39.5629194+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.02.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

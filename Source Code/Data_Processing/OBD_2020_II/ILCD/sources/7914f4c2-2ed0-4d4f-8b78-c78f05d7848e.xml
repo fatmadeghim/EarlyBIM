@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<s:sourceDataSet xmlns:m="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:s="http://lca.jrc.it/ILCD/Source" xmlns:c="http://lca.jrc.it/ILCD/Contact" xmlns:f="http://lca.jrc.it/ILCD/Flow" xmlns="http://lca.jrc.it/ILCD/Process" xmlns:fp="http://lca.jrc.it/ILCD/FlowProperty" xmlns:u="http://lca.jrc.it/ILCD/UnitGroup" version="1.1">
+    <s:sourceInformation>
+        <s:dataSetInformation>
+            <common:UUID>7914f4c2-2ed0-4d4f-8b78-c78f05d7848e</common:UUID>
+            <common:shortName xml:lang="de">EPD-Dokument Geogitter TriAX TX 190L-GD</common:shortName>
+            <s:classificationInformation/>
+            <s:referenceToDigitalFile uri="../external_docs/EPD_Tensar_016_TriAX190L-GD.pdf"/>
+            <s:referenceToDigitalFile uri="../external_docs/EPD_Tensar_016_TriAX190L-GD.pdf"/>
+            <s:referenceToContact type="contact data set" refObjectId="a4d9012a-f9d9-4774-aa0c-1c8ef30f501b" version="00.00.001">
+                <common:shortDescription xml:lang="de">Tensar International Limited</common:shortDescription>
+            </s:referenceToContact>
+        </s:dataSetInformation>
+    </s:sourceInformation>
+    <s:administrativeInformation>
+        <s:dataEntryBy>
+            <common:timeStamp>2018-03-22T10:37:51.841+01:00</common:timeStamp>
+        </s:dataEntryBy>
+        <s:publicationAndOwnership>
+            <common:dataSetVersion>00.00.002</common:dataSetVersion>
+        </s:publicationAndOwnership>
+    </s:administrativeInformation>
+</s:sourceDataSet>

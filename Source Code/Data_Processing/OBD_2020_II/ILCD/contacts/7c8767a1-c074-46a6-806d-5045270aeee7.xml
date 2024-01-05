@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<c:contactDataSet xmlns:m="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:s="http://lca.jrc.it/ILCD/Source" xmlns:c="http://lca.jrc.it/ILCD/Contact" xmlns:f="http://lca.jrc.it/ILCD/Flow" xmlns="http://lca.jrc.it/ILCD/Process" xmlns:fp="http://lca.jrc.it/ILCD/FlowProperty" xmlns:u="http://lca.jrc.it/ILCD/UnitGroup" version="1.1">
+    <c:contactInformation>
+        <c:dataSetInformation>
+            <common:UUID>7c8767a1-c074-46a6-806d-5045270aeee7</common:UUID>
+            <common:shortName xml:lang="de">Ecobility Experts</common:shortName>
+            <common:name xml:lang="de">Kiwa BCS Öko-Garantie GmbH - Ecobility Experts</common:name>
+            <c:classificationInformation/>
+            <c:contactAddress xml:lang="de">Marientorbogen 3-5, 90402 Nürnberg, Deutschland</c:contactAddress>
+            <c:WWWAddress>https://www.kiwabcs.com/ecobility/</c:WWWAddress>
+        </c:dataSetInformation>
+    </c:contactInformation>
+    <c:administrativeInformation>
+        <c:dataEntryBy>
+            <common:timeStamp>2018-03-21T15:34:35.546+01:00</common:timeStamp>
+        </c:dataEntryBy>
+        <c:publicationAndOwnership>
+            <common:dataSetVersion>00.00.001</common:dataSetVersion>
+        </c:publicationAndOwnership>
+    </c:administrativeInformation>
+</c:contactDataSet>

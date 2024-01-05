@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<c:contactDataSet xmlns:m="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:s="http://lca.jrc.it/ILCD/Source" xmlns:c="http://lca.jrc.it/ILCD/Contact" xmlns:f="http://lca.jrc.it/ILCD/Flow" xmlns="http://lca.jrc.it/ILCD/Process" xmlns:fp="http://lca.jrc.it/ILCD/FlowProperty" xmlns:u="http://lca.jrc.it/ILCD/UnitGroup" version="1.1">
+    <c:contactInformation>
+        <c:dataSetInformation>
+            <common:UUID>fc21a59c-ce8d-49f9-9fcf-f78650ffc3a1</common:UUID>
+            <common:shortName xml:lang="de">OBO Bettermann Produktion Deutschland GmbH &amp; Co. KG</common:shortName>
+            <common:name xml:lang="en">OBO BETTERMANN GmbH &amp; Co. KG</common:name>
+            <c:classificationInformation>
+                <common:classification>
+                    <common:class level="0" classId="3de6383f-9cb2-4ad7-99e5-3d9d781e7adc">Unternehmen</common:class>
+                </common:classification>
+            </c:classificationInformation>
+            <c:contactAddress xml:lang="de">Hüingser Ring 52; 58710 Menden</c:contactAddress>
+            <c:WWWAddress>www.obo-bettermann.com</c:WWWAddress>
+            <c:centralContactPoint xml:lang="en">Hüinger Ring 52, 58710 Menden</c:centralContactPoint>
+            <c:contactDescriptionOrComment xml:lang="en"></c:contactDescriptionOrComment>
+        </c:dataSetInformation>
+    </c:contactInformation>
+    <c:administrativeInformation>
+        <c:dataEntryBy>
+            <common:timeStamp>2020-02-19T10:45:36.159+01:00</common:timeStamp>
+            <common:referenceToDataSetFormat type="source data set" refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" version="03.00.000" uri="http://lca.jrc.ec.europa.eu/lcainfohub/datasets/ilcd/sources/a97a0155-0234-4b87-b4ce-a45da52f2a40.xml">
+                <common:shortDescription xml:lang="en">ILCD format</common:shortDescription>
+            </common:referenceToDataSetFormat>
+        </c:dataEntryBy>
+        <c:publicationAndOwnership>
+            <common:dataSetVersion>00.00.004</common:dataSetVersion>
+            <common:permanentDataSetURI>http://openlca.org/ilcd/resource/contacts/fc21a59c-ce8d-49f9-9fcf-f78650ffc3a1</common:permanentDataSetURI>
+        </c:publicationAndOwnership>
+    </c:administrativeInformation>
+</c:contactDataSet>

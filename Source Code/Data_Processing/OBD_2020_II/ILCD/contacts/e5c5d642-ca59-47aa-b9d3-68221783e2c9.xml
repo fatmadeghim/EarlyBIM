@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>e5c5d642-ca59-47aa-b9d3-68221783e2c9</common:UUID>
+                  <common:shortName xml:lang='de'>DW Systembau GmbH</common:shortName>
+                  <common:name xml:lang='de'>DW Systembau GmbH</common:name>
+                  <contactAddress xml:lang='de'>Stockholmer Str. 1, 29640  Schneverdingen, Germany</contactAddress>
+                  <telephone>05193850</telephone>
+                  <telefax>051938555</telefax>
+                  <email>info@dw-systembau.de</email>
+                  <WWWAddress>www.dw-systembau.de</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2017-02-14T14:40:55.0137312+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

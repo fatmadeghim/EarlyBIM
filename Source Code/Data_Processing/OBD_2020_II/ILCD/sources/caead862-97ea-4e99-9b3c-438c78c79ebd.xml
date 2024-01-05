@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:sourceDataSet xmlns="http://lca.jrc.it/ILCD/Common" xmlns:ns2="http://lca.jrc.it/ILCD/Source" xmlns:ns3="http://lca.jrc.it/ILCD/Flow" xmlns:ns4="http://lca.jrc.it/ILCD/Contact" xmlns:ns5="http://lca.jrc.it/ILCD/FlowProperty" xmlns:ns6="http://lca.jrc.it/ILCD/Process" xmlns:ns7="http://lca.jrc.it/ILCD/UnitGroup" xmlns:ns8="http://lca.jrc.it/ILCD/Wrapper" version="1.1">
+    <ns2:sourceInformation>
+        <ns2:dataSetInformation>
+            <UUID>caead862-97ea-4e99-9b3c-438c78c79ebd</UUID>
+            <shortName xml:lang="en">Rüter S, Diederichs S (2012) Ökobilanz Basisdaten für Bauprodukte aus Holz, Hamburg, Johann Heinrich von Thünen Institut, Institut für Holztechnologie und Holzbiologie, Abschlussbericht</shortName>
+            <ns2:classificationInformation>
+                <classification>
+                    <class level="0" classId="3d320ef4-617a-4cba-a427-5aa99acf3d94">Literatur</class>
+                </classification>
+            </ns2:classificationInformation>
+            <ns2:sourceDescriptionOrComment xml:lang="en"></ns2:sourceDescriptionOrComment>
+        </ns2:dataSetInformation>
+    </ns2:sourceInformation>
+    <ns2:administrativeInformation>
+        <ns2:dataEntryBy>
+            <timeStamp>2015-05-20T16:07:47.898+02:00</timeStamp>
+            <referenceToDataSetFormat type="source data set" refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" version="01.01.000" uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40_01.01.000.xml">
+                <shortDescription xml:lang="en">ILCD format</shortDescription>
+            </referenceToDataSetFormat>
+        </ns2:dataEntryBy>
+        <ns2:publicationAndOwnership>
+            <dataSetVersion>00.00.002</dataSetVersion>
+            <permanentDataSetURI>http://openlca.org/ilcd/resource/sources/caead862-97ea-4e99-9b3c-438c78c79ebd</permanentDataSetURI>
+        </ns2:publicationAndOwnership>
+    </ns2:administrativeInformation>
+</ns2:sourceDataSet>

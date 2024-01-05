@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>3ccb1a8b-2f9d-4de9-b22b-777128355981</common:UUID>
+                  <common:name xml:lang='de'>Fritz EGGER GmbH &amp; Co. OG Holzwerkstoffe</common:name>
+                  <common:shortName xml:lang='de'>Fritz EGGER GmbH &amp; Co. OG Holzwerkstoffe</common:shortName>
+                  <contactAddress xml:lang='de'>Weiberndorf 20, 6380 St. Johann in Tirol, Austria</contactAddress>
+                  <telephone>+43 (0)50 600-0</telephone>
+                  <telefax>+43 (0)50 600-10111</telefax>
+                  <email>info-sjo@egger.com</email>
+                  <WWWAddress>www.egger.at</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>23.06.2015</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

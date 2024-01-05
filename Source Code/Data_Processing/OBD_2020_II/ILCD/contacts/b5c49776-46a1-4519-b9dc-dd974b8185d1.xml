@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contactDataSet xmlns="http://lca.jrc.it/ILCD/Common" xmlns:ns2="http://lca.jrc.it/ILCD/Contact" xmlns:ns3="http://lca.jrc.it/ILCD/Flow" xmlns:ns4="http://lca.jrc.it/ILCD/FlowProperty" xmlns:ns5="http://lca.jrc.it/ILCD/Process" xmlns:ns6="http://lca.jrc.it/ILCD/Source" xmlns:ns7="http://lca.jrc.it/ILCD/UnitGroup" xmlns:ns8="http://lca.jrc.it/ILCD/Wrapper" version="1.1">
+    <ns2:contactInformation>
+        <ns2:dataSetInformation>
+            <UUID>b5c49776-46a1-4519-b9dc-dd974b8185d1</UUID>
+            <name xml:lang="en">ISOCELL GmbH</name>
+            <ns2:classificationInformation>
+                <classification>
+                    <class level="0" classId="f8f4ea19-1a9c-45a5-b88f-b40fc161777d">Organisations</class>
+                </classification>
+            </ns2:classificationInformation>
+            <ns2:telephone>+43 (0) 6216/4108</ns2:telephone>
+            <ns2:telefax>+43/6216/7979</ns2:telefax>
+            <ns2:email>office@isocell.at</ns2:email>
+            <ns2:WWWAddress>http://www.isocell.at/</ns2:WWWAddress>
+            <ns2:centralContactPoint xml:lang="en">Bahnhofstraße 36, 5202  Neumarkt am Wallersee</ns2:centralContactPoint>
+            <ns2:contactDescriptionOrComment xml:lang="en"></ns2:contactDescriptionOrComment>
+        </ns2:dataSetInformation>
+    </ns2:contactInformation>
+    <ns2:administrativeInformation>
+        <ns2:dataEntryBy>
+            <timeStamp>2015-07-16T10:45:50.438+02:00</timeStamp>
+            <referenceToDataSetFormat type="source data set" refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" version="01.01.000" uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40_01.01.000.xml">
+                <shortDescription xml:lang="en">ILCD format</shortDescription>
+            </referenceToDataSetFormat>
+        </ns2:dataEntryBy>
+        <ns2:publicationAndOwnership>
+            <dataSetVersion>00.00.002</dataSetVersion>
+            <permanentDataSetURI>http://openlca.org/ilcd/resource/contacts/b5c49776-46a1-4519-b9dc-dd974b8185d1</permanentDataSetURI>
+        </ns2:publicationAndOwnership>
+    </ns2:administrativeInformation>
+</ns2:contactDataSet>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<s:sourceDataSet xmlns:m="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:s="http://lca.jrc.it/ILCD/Source" xmlns:c="http://lca.jrc.it/ILCD/Contact" xmlns:f="http://lca.jrc.it/ILCD/Flow" xmlns="http://lca.jrc.it/ILCD/Process" xmlns:fp="http://lca.jrc.it/ILCD/FlowProperty" xmlns:u="http://lca.jrc.it/ILCD/UnitGroup" version="1.1">
+    <s:sourceInformation>
+        <s:dataSetInformation>
+            <common:UUID>c6e986be-62a9-4f2f-b486-27aa9129eaeb</common:UUID>
+            <common:shortName xml:lang="de">Produktkategorieregeln Teil A</common:shortName>
+            <s:classificationInformation/>
+            <s:sourceDescriptionOrComment xml:lang="de">Allgemeine Produktkategorieregeln für Umweltproduktdeklarationen nach EN ISO 14025 und EN 15804 gemäß dem Programmbetrieb zur Erstellung von Umweltproduktdeklarationen (EPD) des ift Rosenheim.</s:sourceDescriptionOrComment>
+            <s:referenceToDigitalFile uri="../external_docs/2019_09_19_PCR_Teil_A.pdf"/>
+            <s:referenceToContact type="contact data set" refObjectId="e4e77c13-c6e7-437a-8b76-826e43bb5a95" version="00.00.001" uri="http://openlca.org/ilcd/resource/contacts/e4e77c13-c6e7-437a-8b76-826e43bb5a95">
+                <common:shortDescription xml:lang="en">ift Rosenheim</common:shortDescription>
+            </s:referenceToContact>
+        </s:dataSetInformation>
+    </s:sourceInformation>
+    <s:administrativeInformation>
+        <s:dataEntryBy>
+            <common:timeStamp>2019-11-12T09:16:46.592+01:00</common:timeStamp>
+        </s:dataEntryBy>
+        <s:publicationAndOwnership>
+            <common:dataSetVersion>00.00.002</common:dataSetVersion>
+        </s:publicationAndOwnership>
+    </s:administrativeInformation>
+</s:sourceDataSet>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<c:contactDataSet xmlns:m="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:s="http://lca.jrc.it/ILCD/Source" xmlns:c="http://lca.jrc.it/ILCD/Contact" xmlns:f="http://lca.jrc.it/ILCD/Flow" xmlns="http://lca.jrc.it/ILCD/Process" xmlns:fp="http://lca.jrc.it/ILCD/FlowProperty" xmlns:u="http://lca.jrc.it/ILCD/UnitGroup" version="1.1">
+    <c:contactInformation>
+        <c:dataSetInformation>
+            <common:UUID>c2237941-f28f-4479-b064-6a078475cc7e</common:UUID>
+            <common:shortName xml:lang="de">Isospan</common:shortName>
+            <common:name xml:lang="de">ISOSPAN Baustoffwerk GmbH</common:name>
+            <c:classificationInformation>
+                <common:classification name="ILCD">
+                    <common:class level="0" classId="2">Organisations</common:class>
+                    <common:class level="1" classId="2.1">Private companies</common:class>
+                </common:classification>
+            </c:classificationInformation>
+            <c:contactAddress xml:lang="de">Madling 177, 5591 Ramingstein, Österreich</c:contactAddress>
+            <c:telephone>+43 (0) 6475 251-0</c:telephone>
+            <c:telefax>+43 (0) 6475 251-19</c:telefax>
+            <c:WWWAddress>http://www.isospan.eu</c:WWWAddress>
+        </c:dataSetInformation>
+    </c:contactInformation>
+    <c:administrativeInformation>
+        <c:dataEntryBy>
+            <common:timeStamp>2017-08-17T14:35:13.886+02:00</common:timeStamp>
+        </c:dataEntryBy>
+        <c:publicationAndOwnership>
+            <common:dataSetVersion>00.00.002</common:dataSetVersion>
+        </c:publicationAndOwnership>
+    </c:administrativeInformation>
+</c:contactDataSet>

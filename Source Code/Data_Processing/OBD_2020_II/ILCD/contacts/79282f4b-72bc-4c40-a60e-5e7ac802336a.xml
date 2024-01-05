@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>79282f4b-72bc-4c40-a60e-5e7ac802336a</common:UUID>
+                  <common:shortName xml:lang='de'>MeisterWerke Schulte GmbH</common:shortName>
+                  <common:name xml:lang='de'>MeisterWerke Schulte GmbH</common:name>
+                  <contactAddress xml:lang='de'>Johannes-Schulte-Allee 5, 59602 Rüthen-Meiste, Germany</contactAddress>
+                  <telephone>+49 2952 816-0</telephone>
+                  <telefax>+49 2952 816-66</telefax>
+                  <email>info@meisterwerke.com</email>
+                  <WWWAddress>www.meisterwerke.com</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2017-02-14T15:57:01.1248978+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

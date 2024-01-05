@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<s:sourceDataSet xmlns:m="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:s="http://lca.jrc.it/ILCD/Source" xmlns:c="http://lca.jrc.it/ILCD/Contact" xmlns:f="http://lca.jrc.it/ILCD/Flow" xmlns="http://lca.jrc.it/ILCD/Process" xmlns:fp="http://lca.jrc.it/ILCD/FlowProperty" xmlns:u="http://lca.jrc.it/ILCD/UnitGroup" version="1.1">
+    <s:sourceInformation>
+        <s:dataSetInformation>
+            <common:UUID>f3ff2cfd-7da2-4f39-bbae-c3ef864be879</common:UUID>
+            <common:shortName xml:lang="de">EPD insulbar Isolierprofile</common:shortName>
+            <s:classificationInformation>
+                <common:classification>
+                    <common:class level="0" classId="8ee3821d-1653-4bfa-8bcf-3fe27f05e8f1">EPDs</common:class>
+                </common:classification>
+            </s:classificationInformation>
+            <s:referenceToDigitalFile uri="../external_docs/2019-06-26_EPD_Ensinger_Insulbar_rev2.pdf"/>
+            <s:referenceToContact type="contact data set" refObjectId="a699dd47-f1cc-4b83-93d2-5496d31f7bba" version="00.00.003" uri="http://openlca.org/ilcd/resource/contacts/a699dd47-f1cc-4b83-93d2-5496d31f7bba">
+                <common:shortDescription xml:lang="en">Ensinger GmbH</common:shortDescription>
+                <common:shortDescription xml:lang="de">Ensinger GmbH</common:shortDescription>
+            </s:referenceToContact>
+        </s:dataSetInformation>
+    </s:sourceInformation>
+    <s:administrativeInformation>
+        <s:dataEntryBy>
+            <common:timeStamp>2020-02-19T09:41:11.264+01:00</common:timeStamp>
+        </s:dataEntryBy>
+        <s:publicationAndOwnership>
+            <common:dataSetVersion>00.00.003</common:dataSetVersion>
+        </s:publicationAndOwnership>
+    </s:administrativeInformation>
+</s:sourceDataSet>

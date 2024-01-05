@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contactDataSet xmlns="http://lca.jrc.it/ILCD/Common" xmlns:ns2="http://lca.jrc.it/ILCD/Contact" xmlns:ns3="http://lca.jrc.it/ILCD/Flow" xmlns:ns4="http://lca.jrc.it/ILCD/FlowProperty" xmlns:ns5="http://lca.jrc.it/ILCD/Process" xmlns:ns6="http://lca.jrc.it/ILCD/Source" xmlns:ns7="http://lca.jrc.it/ILCD/UnitGroup" xmlns:ns8="http://lca.jrc.it/ILCD/Wrapper" version="1.1">
+    <ns2:contactInformation>
+        <ns2:dataSetInformation>
+            <UUID>0e5456e9-f747-4316-9043-ee42945fadcc</UUID>
+            <name xml:lang="en">Diana Fischer</name>
+            <ns2:WWWAddress>www.fisch-ing.de</ns2:WWWAddress>
+            <ns2:centralContactPoint xml:lang="en">Breyten Dyk 76, 47803 Krefeld</ns2:centralContactPoint>
+            <ns2:contactDescriptionOrComment xml:lang="en">externe Prüferin</ns2:contactDescriptionOrComment>
+        </ns2:dataSetInformation>
+    </ns2:contactInformation>
+    <ns2:administrativeInformation>
+        <ns2:dataEntryBy>
+            <timeStamp>2016-03-24T16:43:08.806+01:00</timeStamp>
+            <referenceToDataSetFormat type="source data set" refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" version="01.01.000" uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40_01.01.000.xml">
+                <shortDescription xml:lang="en">ILCD format</shortDescription>
+            </referenceToDataSetFormat>
+        </ns2:dataEntryBy>
+        <ns2:publicationAndOwnership>
+            <dataSetVersion>00.00.001</dataSetVersion>
+            <permanentDataSetURI>http://openlca.org/ilcd/resource/contacts/0e5456e9-f747-4316-9043-ee42945fadcc</permanentDataSetURI>
+        </ns2:publicationAndOwnership>
+    </ns2:administrativeInformation>
+</ns2:contactDataSet>

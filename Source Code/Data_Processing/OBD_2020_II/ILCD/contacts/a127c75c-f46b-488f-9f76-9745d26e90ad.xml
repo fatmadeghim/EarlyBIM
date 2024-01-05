@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<c:contactDataSet xmlns:m="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:s="http://lca.jrc.it/ILCD/Source" xmlns:c="http://lca.jrc.it/ILCD/Contact" xmlns:f="http://lca.jrc.it/ILCD/Flow" xmlns="http://lca.jrc.it/ILCD/Process" xmlns:fp="http://lca.jrc.it/ILCD/FlowProperty" xmlns:u="http://lca.jrc.it/ILCD/UnitGroup" version="1.1">
+    <c:contactInformation>
+        <c:dataSetInformation>
+            <common:UUID>a127c75c-f46b-488f-9f76-9745d26e90ad</common:UUID>
+            <common:shortName xml:lang="de">Verifizierungsteam F.Gschösser und A.Schindler</common:shortName>
+            <common:name xml:lang="de">Verifizierungsteam F.Gschösser und A.Schindler</common:name>
+            <c:classificationInformation>
+                <common:classification>
+                    <common:class level="0" classId="f8f4ea19-1a9c-45a5-b88f-b40fc161777d">Organisations</common:class>
+                </common:classification>
+            </c:classificationInformation>
+        </c:dataSetInformation>
+    </c:contactInformation>
+    <c:administrativeInformation>
+        <c:dataEntryBy>
+            <common:timeStamp>2020-02-07T12:57:32.556+01:00</common:timeStamp>
+        </c:dataEntryBy>
+        <c:publicationAndOwnership>
+            <common:dataSetVersion>00.00.001</common:dataSetVersion>
+        </c:publicationAndOwnership>
+    </c:administrativeInformation>
+</c:contactDataSet>

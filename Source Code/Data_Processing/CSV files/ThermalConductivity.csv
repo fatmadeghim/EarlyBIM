@@ -1,0 +1,126 @@
+Kategorie;Wärmeleitfähigkeit relevant;Bemessungswert der Wärmeleitfähigkeit [W/(m*K)];Kommentar/Quelle
+Beschichtungen / Fassadenfarben / Dispersion;o;;irrelevant da schichtdicke zu dünn
+Beschichtungen / Fassadenfarben / Silikat-Dispersion;o;;irrelevant da schichtdicke zu dünn
+Beschichtungen / Fassadenfarben / Silikonharz;o;;irrelevant da schichtdicke zu dünn
+Beschichtungen / Innenbeschichtungen / Innenfarben;o;;irrelevant da schichtdicke zu dünn
+Beschichtungen / Innenbeschichtungen / Wand- und Deckenbeläge;o;;irrelevant da schichtdicke zu dünn
+Beschichtungen / Lacke und Lasuren / Lacksysteme Holzfassade;o;;irrelevant da schichtdicke zu dünn
+Beschichtungen / Lacke und Lasuren / Lacksysteme Holzfenster;o;;irrelevant da schichtdicke zu dünn
+Beschichtungen / Lacke und Lasuren / Parkettlack;o;;irrelevant da schichtdicke zu dünn
+Dämmstoffe / Baumwolle / Baumwolle konventionell;x;0,04;Klimahaus
+Dämmstoffe / Baumwolle / Baumwolle ökologisch;x;0,04;Klimahaus
+Dämmstoffe / Blähperlit / Platten;x;0,059;DIN 4108
+Dämmstoffe / Calciumsilikat / Calcium-Silikathydrat / Calciumsilikat;x;0,06;Klimahaus
+Dämmstoffe / Expandierter Kork / Expandierter Kork;x;0,055;DIN 4108
+Dämmstoffe / Expandiertes Polystyrol (EPS) / EPS grau;x;0,035;DIN 4108
+Dämmstoffe / Expandiertes Polystyrol (EPS) / EPS weiß;x;0,035;DIN 4108
+Dämmstoffe / Extrudiertes Polystyrol (XPS) / XPS weiß;x;0,035;DIN 4108
+Dämmstoffe / Flachsfaser / Vlies;x;0,039;Fachverband nachwachsende Rohstoffe
+Dämmstoffe / Hanffaser / Vlies;x;0,043;Fachverband nachwachsende Rohstoffe
+Dämmstoffe / Holzfasern / Holzfaserdämmplatte;x;0,049;DIN 4108
+Dämmstoffe / Holzfasern / Holzfasern und Holzspäne, lose;x;0,049;DIN 4108
+Dämmstoffe / Holzwolleplatten / Holzwolleleichtbauplatten;x;0,084;DIN 4108
+Dämmstoffe / Melaminharz / Schaum;o;;Schallschutz
+Dämmstoffe / Mineralwolle / Mineralwolle;x;0,035;DIN 4108
+Dämmstoffe / Mineralwolle / Steinwolle;x;0,035;DIN 4108
+Dämmstoffe / Phenolharz-Hartschaum (PF) / PF-Platten;x;0,029;DIN 4108
+Dämmstoffe / Polyethylen / Schaum;x;0,057;DIN 4108
+Dämmstoffe / Polyurethan-Hartschaum (PU) / PIR-Hartschaum;x;0,024;DIN 4108
+Dämmstoffe / Polyurethan-Hartschaum (PU) / PU Blockschaum;x;0,024;DIN 4108
+Dämmstoffe / Polyurethan-Hartschaum (PU) / PU mit Aluminium;x;0,024;DIN 4108
+Dämmstoffe / Polyurethan-Hartschaum (PU) / PU mit Mineralvlies;x;0,024;DIN 4108
+Dämmstoffe / Schaumglas / Platten;x;0,048;DIN 4108
+Dämmstoffe / Stroh / Strohballen;x;0,052;Fachverband nachwachsende Rohstoffe
+Dämmstoffe / Wärmedämmverbundsystem / Wärmedämmverbundsystem;o;;keine Dämmwirkung
+Dämmstoffe / Zellulosefaser / Zellulose-Einblas-Dämmstoff;x;0,039;Fachverband nachwachsende Rohstoffe
+Dämmstoffe / Zellulosefaser / Zelluloseplatten;x;0,039;Fachverband nachwachsende Rohstoffe
+Holz / Holzböden / Kork;x;0,065;DIN EN ISO 10456:2010-05 Tabelle 3
+Holz / Holzböden / Parkett;x;0,143;DIN EN ISO 10456:2010-05 Tabelle 3
+Holz / Holzwerkstoffe / 3- und 5-Schichtplatten;x;0,158;DIN EN ISO 10456:2010-05 Tabelle 3
+Holz / Holzwerkstoffe / Funierschichtholz;x;0,158;DIN EN ISO 10456:2010-05 Tabelle 3
+Holz / Holzwerkstoffe / Holzfaserplatten;x;0,123;DIN EN ISO 10456:2010-05 Tabelle 3
+Holz / Holzwerkstoffe / Laminated Veneer Lumber (LVL);x;0,158;DIN EN ISO 10456:2010-05 Tabelle 3
+Holz / Holzwerkstoffe / OSB-Platte;x;0,13;DIN EN ISO 10456:2010-05 Tabelle 3
+Holz / Holzwerkstoffe / Spanplatten;x;0,138;DIN EN ISO 10456:2010-05 Tabelle 3
+Holz / Holzwerkstoffe / Sperrholz;x;0,158;DIN EN ISO 10456:2010-05 Tabelle 3
+Holz / Holzwerkstoffe / Wood-Plastic-Composites;x;0,24;"DIN EN ISO 10456:2010-05 Tabelle 3; hohe Dichte aus EPD -> Abschätzung"
+Holz / Vollholz / Balkenschichtholz (Duo-Triobalken);x;0,13;DIN EN ISO 10456:2010-05 Tabelle 3
+Holz / Vollholz / Bau-Schnittholz;x;0,13;DIN EN ISO 10456:2010-05 Tabelle 3
+Holz / Vollholz / Brettschichtholz (BSH);x;0,13;DIN EN ISO 10456:2010-05 Tabelle 3
+Holz / Vollholz / Brettschichtholzplatte;x;0,13;DIN EN ISO 10456:2010-05 Tabelle 3
+Holz / Vollholz / Konstruktionsvollholz;x;0,13;DIN EN ISO 10456:2010-05 Tabelle 3
+Komponenten von Fenstern und Vorhangfassaden / Beschläge / Aluminiumbeschläge;o;;irrelevant für u-wert
+Komponenten von Fenstern und Vorhangfassaden / Beschläge / Befestigungen;o;;irrelevant für u-wert
+Komponenten von Fenstern und Vorhangfassaden / Beschläge / Fenstergriffe;o;;irrelevant für u-wert
+Komponenten von Fenstern und Vorhangfassaden / Beschläge / Stahlbeschläge;o;;irrelevant für u-wert
+Komponenten von Fenstern und Vorhangfassaden / Füllungen / Opake Füllungen;o;;auf dieser Ebene nicht sinnvoll (Kategorie ist inhomogen)
+Komponenten von Fenstern und Vorhangfassaden / Füllungen / Transparente Füllungen;o;;auf dieser Ebene nicht sinnvoll (Kategorie ist inhomogen)
+Komponenten von Fenstern und Vorhangfassaden / Rahmen / Profile / Aluminium;o;;auf dieser Ebene nicht sinnvoll (Kategorie ist inhomogen)
+Komponenten von Fenstern und Vorhangfassaden / Rahmen / Profile / Aluminium thermisch getrennt;o;;auf dieser Ebene nicht sinnvoll (Kategorie ist inhomogen)
+Komponenten von Fenstern und Vorhangfassaden / Rahmen / Profile / Holz;x;1,5;Schätzwert 
+Komponenten von Fenstern und Vorhangfassaden / Rahmen / Profile / PVC;x;2,2;Schätzwert
+Komponenten von Fenstern und Vorhangfassaden / Rahmen / Profile / Stahl;o;;auf dieser Ebene nicht sinnvoll (Kategorie ist inhomogen)
+Komponenten von Fenstern und Vorhangfassaden / Türen und Tore / Aluminium;o;;auf dieser Ebene nicht sinnvoll (Kategorie ist inhomogen)
+Komponenten von Fenstern und Vorhangfassaden / Türen und Tore / Stahl;o;;auf dieser Ebene nicht sinnvoll (Kategorie ist inhomogen)
+Komposite / Systembauteile / Decken;o;;"auf dieser Ebene nicht sinnvoll; nur relevant, wenn in KG 364 oder KG 324"
+Komposite / Systembauteile / Innenwände;o;;"auf dieser Ebene nicht sinnvoll; Innenbauteil -> Schallschutz und Statik relevanter als Wärmeschutz"
+Kunststoffe / Bodenbeläge / Gummi-/Kautschuk-Bodenbeläge;x;0,17;DIN EN ISO 10456:2010-05 Tabelle 3
+Kunststoffe / Bodenbeläge / Linoleum-Bodenbeläge;x;0,17;DIN EN ISO 10456:2010-05 Tabelle 3
+Kunststoffe / Bodenbeläge / PVC-Bodenbeläge;x;0,25;DIN EN ISO 10456:2010-05 Tabelle 3
+Kunststoffe / Bodenbeläge / Textile Bodenbeläge;x;0,06;DIN EN ISO 10456:2010-05 Tabelle 3
+Kunststoffe / Dachbahnen / Bitumen-Dachbahnen;x;0,17;DIN 4108
+Kunststoffe / Dachbahnen / ECB-Dachbahnen (Ethylen-Copolymer-Bitumen);x;0,2;DIN 16729
+Kunststoffe / Dachbahnen / Elastomer-Dachbahnen;x;0,2;Herstellerangaben (HERTALAN, RESITRIX)
+Kunststoffe / Dachbahnen / EVA-Dachbahnen (Etylen-Vinylacetat);x;0,2;Schätzwert
+Kunststoffe / Dachbahnen / PIB-Dachbahnen (Polyisobutylen);x;0,2;DIN 16731
+Kunststoffe / Dachbahnen / PVC-Dachbahnen;x;0,2;DIN 16730
+Kunststoffe / Folien und Vliese / Baupappen;o;;"irrelevant da schichtdicke zu dünn; Wasserdichtigkeit und Diffusionswiderstand relevanter als Wärmeschutz"
+Kunststoffe / Folien und Vliese / Dampfbremse / Dampfsperre;o;;"irrelevant da schichtdicke zu dünn; Wasserdichtigkeit und Diffusionswiderstand relevanter als Wärmeschutz"
+Kunststoffe / Folien und Vliese / Folien zur Abdichtung;o;;"irrelevant da schichtdicke zu dünn; Wasserdichtigkeit und Diffusionswiderstand relevanter als Wärmeschutz"
+Kunststoffe / Folien und Vliese / Technische Textilien;o;;"irrelevant da schichtdicke zu dünn; Wasserdichtigkeit und Diffusionswiderstand relevanter als Wärmeschutz"
+Kunststoffe / Folien und Vliese / Unterspannbahn;o;;"irrelevant da schichtdicke zu dünn; Wasserdichtigkeit und Diffusionswiderstand relevanter als Wärmeschutz"
+Kunststoffe / Kunststoffprofile elastisch / Harz-Komposit Fassadenplatten;x;0,2;DIN EN ISO 10456:2010-05 Tabelle 3
+Kunststoffe / Kunststoffprofile elastisch / Transparente Platten;x;0,2;DIN 12524
+Metalle / Aluminium / Aluminiumbleche;x;160;DIN EN ISO 10456:2010-05 Tabelle 3
+Metalle / Aluminium / Aluminiumfolie;x;160;DIN EN ISO 10456:2010-05 Tabelle 3
+Metalle / Aluminium / Aluminiumprofil;x;160;DIN EN ISO 10456:2010-05 Tabelle 3
+Metalle / Blei / Bleibleche;x;35;DIN EN ISO 10456:2010-05 Tabelle 3
+Metalle / Edelstahl / Edelstahlbleche;x;30;DIN EN ISO 10456:2010-05 Tabelle 3
+Metalle / Oberflächenbehandlung und Beschichtung von Metallen / (Nass-) Lackieren von Metallen;o;;irrelevant da schichtdicke zu dünn
+Metalle / Oberflächenbehandlung und Beschichtung von Metallen / Anodisieren von Aluminium;o;;irrelevant da schichtdicke zu dünn
+Metalle / Oberflächenbehandlung und Beschichtung von Metallen / Pulverbeschichten;o;;irrelevant da schichtdicke zu dünn
+Metalle / Stahl und Eisen / Betonstahlmatten;x;50;DIN EN ISO 10456:2010-05 Tabelle 3
+Metalle / Stahl und Eisen / Stahlbleche;x;50;DIN EN ISO 10456:2010-05 Tabelle 3
+Metalle / Stahl und Eisen / Stahlprofile;x;50;DIN EN ISO 10456:2010-05 Tabelle 3
+Metalle / Zink / Zinkbleche;x;110;DIN EN ISO 10456:2010-05 Tabelle 3
+Mineralische Baustoffe / Asphalt / Gussassphalt;x;0,9;DIN 4108
+Mineralische Baustoffe / Mörtel und Beton / Beton;x;1,54;DIN EN ISO 10456:2010-05 Tabelle 3
+Mineralische Baustoffe / Mörtel und Beton / Estrich trocken;x;1,021;DIN 4108
+Mineralische Baustoffe / Mörtel und Beton / Kleber und Klebemörtel;x;1;DIN 4108
+Mineralische Baustoffe / Mörtel und Beton / Mauermörtel;x;1,026;DIN 4108
+Mineralische Baustoffe / Mörtel und Beton / Putz und Putzmörtel;x;0,661;DIN 4108
+Mineralische Baustoffe / Steine und Elemente / Betonfertigteile und Betonwaren;x;2,5;DIN EN ISO 10456:2010-05 Tabelle 3
+Mineralische Baustoffe / Steine und Elemente / Dachziegel;x;1,25;DIN EN ISO 10456:2010-05 Tabelle 3
+Mineralische Baustoffe / Steine und Elemente / Deckenplatten;x;0,035;"DIN 4108; Mineralfaser-Platten"
+Mineralische Baustoffe / Steine und Elemente / Faserzement;x;0,6;Schätzwert laut Equitone Informationen
+Mineralische Baustoffe / Steine und Elemente / Fliesen und Platten;x;1,3;DIN EN ISO 10456:2010-05 Tabelle 3
+Mineralische Baustoffe / Steine und Elemente / Gipsplatten;x;0,23;DIN EN ISO 10456:2010-05 Tabelle 3
+Mineralische Baustoffe / Steine und Elemente / Glasbausteine;x;1,2;DIN EN ISO 10456:2010-05 Tabelle 3
+Mineralische Baustoffe / Steine und Elemente / Kalksandstein;x;1,038;DIN 4108
+Mineralische Baustoffe / Steine und Elemente / Kunststein;x;1,4;DIN EN ISO 10456:2010-05 Tabelle 3
+Mineralische Baustoffe / Steine und Elemente / Lehmsteine;x;0,475;DIN 4108
+Mineralische Baustoffe / Steine und Elemente / Leichtbeton;x;0,761;DIN 4108
+Mineralische Baustoffe / Steine und Elemente / Naturwerkstein;x;2,106;DIN EN ISO 10456:2010-05 Tabelle 3
+Mineralische Baustoffe / Steine und Elemente / Porenbeton;x;0,557;DIN 4108
+Mineralische Baustoffe / Steine und Elemente / Schiefer;x;2,2;DIN EN ISO 10456:2010-05 Tabelle 3
+Mineralische Baustoffe / Steine und Elemente / Substrate;x;0,307;DIN 4108
+Mineralische Baustoffe / Steine und Elemente / Trockenestrich;x;1,021;DIN 4108
+Mineralische Baustoffe / Steine und Elemente / Ziegel;x;0,641;DIN 4108
+Mineralische Baustoffe / Zuschläge / Bims;x;0,13;DIN 4108
+Mineralische Baustoffe / Zuschläge / Blähglas;x;0,048;DIN 4108
+Mineralische Baustoffe / Zuschläge / Blähschiefer;x;0,16;DIN 4108
+Mineralische Baustoffe / Zuschläge / Blähton;x;0,059;DIN 4108
+Mineralische Baustoffe / Zuschläge / Naturstein;x;2,106;DIN EN ISO 10456:2010-05 Tabelle 3
+Mineralische Baustoffe / Zuschläge / Perlite;x;0,059;DIN 4108
+Mineralische Baustoffe / Zuschläge / Sand und Kies;x;0,7;DIN 4108
+Mineralische Baustoffe / Zuschläge / Trockenschüttung;x;0,076;cemwood: zwischen 0,7 und 0,085

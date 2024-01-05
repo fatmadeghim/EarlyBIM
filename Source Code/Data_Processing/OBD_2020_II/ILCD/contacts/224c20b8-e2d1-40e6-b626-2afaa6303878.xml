@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>224c20b8-e2d1-40e6-b626-2afaa6303878</common:UUID>
+                  <common:shortName xml:lang='de'>IMparat Farbwerk Iversen &amp; Mähl GmbH &amp; Co. KG</common:shortName>
+                  <common:name xml:lang='de'>IMparat Farbwerk Iversen &amp; Mähl GmbH &amp; Co. KG</common:name>
+                  <contactAddress xml:lang='de'>Siemensstrasse 8, 21509 Glinde, Germany</contactAddress>
+                  <telephone>+49 (0)40 727708-0</telephone>
+                  <telefax>+49 (0)40 727708-299</telefax>
+                  <email>info@imparat.de</email>
+                  <WWWAddress>www.imparat.de</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2017-02-14T15:00:27.6148002+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

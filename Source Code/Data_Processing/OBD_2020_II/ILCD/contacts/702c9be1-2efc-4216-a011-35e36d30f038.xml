@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>702c9be1-2efc-4216-a011-35e36d30f038</common:UUID>
+                  <common:name xml:lang='de'>FIT-Umwelttechnik GmbH</common:name>
+                  <common:shortName xml:lang='de'>FIT-Umwelttechnik GmbH</common:shortName>
+                  <contactAddress xml:lang='de'>Hofekamp  1, 38442 Wolfsburg, Germany</contactAddress>
+                  <telephone>05362 72 69 474</telephone>
+                  <telefax>05362 72 69 478</telefax>
+                  <email>bertram@fit-umwelttechnik.de</email>
+                  <WWWAddress>www.fit-umwelttechnik.com</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>09.03.2016</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

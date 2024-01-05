@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<s:sourceDataSet xmlns:m="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:s="http://lca.jrc.it/ILCD/Source" xmlns:c="http://lca.jrc.it/ILCD/Contact" xmlns:f="http://lca.jrc.it/ILCD/Flow" xmlns="http://lca.jrc.it/ILCD/Process" xmlns:fp="http://lca.jrc.it/ILCD/FlowProperty" xmlns:u="http://lca.jrc.it/ILCD/UnitGroup" version="1.1">
+    <s:sourceInformation>
+        <s:dataSetInformation>
+            <common:UUID>ae15f952-4b5d-42f5-9ca9-8a9f3c36b17c</common:UUID>
+            <common:shortName xml:lang="de">EPD Kabelrinnen System</common:shortName>
+            <common:shortName xml:lang="en">EPD Kabelrinnen System</common:shortName>
+            <s:classificationInformation>
+                <common:classification>
+                    <common:class level="0" classId="8ee3821d-1653-4bfa-8bcf-3fe27f05e8f1">EPDs</common:class>
+                </common:classification>
+            </s:classificationInformation>
+            <s:sourceDescriptionOrComment xml:lang="en"></s:sourceDescriptionOrComment>
+            <s:referenceToDigitalFile uri="2015-12-18_OBO_EPD-KTS-17.0.pdf"/>
+            <s:referenceToContact type="contact data set" refObjectId="fc21a59c-ce8d-49f9-9fcf-f78650ffc3a1" version="00.00.004" uri="http://openlca.org/ilcd/resource/contacts/fc21a59c-ce8d-49f9-9fcf-f78650ffc3a1">
+                <common:shortDescription xml:lang="en">OBO BETTERMANN GmbH &amp; Co. KG</common:shortDescription>
+            </s:referenceToContact>
+        </s:dataSetInformation>
+    </s:sourceInformation>
+    <s:administrativeInformation>
+        <s:dataEntryBy>
+            <common:timeStamp>2020-02-19T10:45:40.015+01:00</common:timeStamp>
+            <common:referenceToDataSetFormat type="source data set" refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" version="03.00.000" uri="http://lca.jrc.ec.europa.eu/lcainfohub/datasets/ilcd/sources/a97a0155-0234-4b87-b4ce-a45da52f2a40.xml">
+                <common:shortDescription xml:lang="en">ILCD format</common:shortDescription>
+            </common:referenceToDataSetFormat>
+        </s:dataEntryBy>
+        <s:publicationAndOwnership>
+            <common:dataSetVersion>00.00.004</common:dataSetVersion>
+            <common:permanentDataSetURI>http://openlca.org/ilcd/resource/sources/ae15f952-4b5d-42f5-9ca9-8a9f3c36b17c</common:permanentDataSetURI>
+        </s:publicationAndOwnership>
+    </s:administrativeInformation>
+</s:sourceDataSet>

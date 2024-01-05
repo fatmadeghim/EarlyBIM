@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>535c67fe-b4a8-4cf0-b3e4-bd91ca22b281</common:UUID>
+                  <common:shortName xml:lang='de'>JACKON Insulation GmbH</common:shortName>
+                  <common:name xml:lang='de'>JACKON Insulation GmbH</common:name>
+                  <contactAddress xml:lang='de'>Carl-Benz-Straße 8, 33803 Steinhagen, Germany</contactAddress>
+                  <telephone>+49 5204 9955-0</telephone>
+                  <telefax>+49 5204 9955-400</telefax>
+                  <email>info@jackon.com</email>
+                  <WWWAddress>www.jackon-insulation.com</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2017-05-09T12:39:11.6290364+02:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

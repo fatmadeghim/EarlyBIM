@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>44a80255-699d-4fd9-b995-205a39cfddee</common:UUID>
+                  <common:shortName xml:lang='de'>BASF SE</common:shortName>
+                  <common:name xml:lang='de'>BASF SE</common:name>
+                  <contactAddress xml:lang='de'>Carl-Bosch-Straße 38, 67056 Ludwigshafen, Germany</contactAddress>
+                  <telephone>+49 (0)621 60-0</telephone>
+                  <telefax>+49 (0)621 60-42525</telefax>
+                  <email>global.info@basf.com</email>
+                  <WWWAddress>www.basf.com</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2018-02-06T12:56:07.7082565+01:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.02.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

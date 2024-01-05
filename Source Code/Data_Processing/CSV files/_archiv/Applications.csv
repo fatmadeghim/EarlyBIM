@@ -1,0 +1,28 @@
+KGr;Keywords;Related KGr
+322;Fundament,Gründung,Bodenplatte,Sohlplatte;
+324;Estrich,Abdichtung,Dichtung,Dämmung,Bodenbelag,Fliesen,Beschichtung;353
+325;Abdichtung,Dämmung;
+;;
+331;Tragend.*wände,Tragend.*wand,Konstruktion,Wand,Wände,Kernelement.*tragend,tragend.*Kernelement;341
+332;Nichttragend.*wand,nichttragend.*wände,Vorhangfassade;334,342
+333;Außenstützen,stütze;342
+334;Fenster,Tor, Glas ,Tür;344,362
+335;Putz,Dichtung,Abdichtung,Winddichtung,Dämmung,Verkleidung,Wärmedämmverbundsystem;
+336;Putz,Dampfsperre,Installationsschicht;345,354,364
+;;
+341;Tragend.*wände,Tragend.*wand,Konstruktion,Wand,Wände;331
+342;Nichttragend.*wand,nichttragend.*wände,Ausfachung,Ständerwand;332
+343;Innenstütze;333
+344;Tür,Glaswand;334,362
+345;Putz,Dampfsperre,Installationsschicht,Anstrich;336,354,364
+;;
+351;Decke;361
+353;Deckenbelag,Estrich,Dämmung,Bodenbelag,Fliesen,Beschichtung,Parkett,Linoleum,Teppich;353
+354;Deckenbekleidung,Putz,Verkleidung,Dämmung,Anstrich;336,345,364
+;;
+361;Dachkonstruktion,Dach,Dachstuhl,Flachdach,Steildach,Dachtragwerk,Dachkonstruktion;351
+362;Dachöffnung,Dachfenster,Oberlicht;334,344
+363;Dachbelag,Schalung,Lattung,Gefälledämmung,Abdichtung,Dämmung,Dränschicht,Dachbegrünung,Entwässerung;
+364;Dachbekleidung,Putz,Verkleidung,Dämmung,Anstrich;336,345,354
+;;
+0;Baubereich;

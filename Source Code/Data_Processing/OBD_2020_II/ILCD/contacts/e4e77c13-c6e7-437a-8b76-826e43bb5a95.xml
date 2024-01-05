@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:contactDataSet xmlns="http://lca.jrc.it/ILCD/Common" xmlns:ns2="http://lca.jrc.it/ILCD/Contact" xmlns:ns3="http://lca.jrc.it/ILCD/Flow" xmlns:ns4="http://lca.jrc.it/ILCD/FlowProperty" xmlns:ns5="http://lca.jrc.it/ILCD/Process" xmlns:ns6="http://lca.jrc.it/ILCD/Source" xmlns:ns7="http://lca.jrc.it/ILCD/UnitGroup" xmlns:ns8="http://lca.jrc.it/ILCD/Wrapper" version="1.1">
+    <ns2:contactInformation>
+        <ns2:dataSetInformation>
+            <UUID>e4e77c13-c6e7-437a-8b76-826e43bb5a95</UUID>
+            <name xml:lang="en">ift Rosenheim</name>
+            <ns2:centralContactPoint xml:lang="en">Theodor Gietl Straße 7-9, 83026 Rosenheim</ns2:centralContactPoint>
+            <ns2:contactDescriptionOrComment xml:lang="en">Das ift Rosenheim ist ein international tätiger, technisch-wissenschaftlicher Dienstleister und als Prüfinstitut Spezialist für die Beurteilung der Gebrauchstauglichkeit von Bauprodukten. Das Leistungsspektrum des ift Rosenheim umfasst u.a. Fensterprüfungen nach EN 14351-1, Fassadenprüfungen nach EN 13830, Brandschutzprüfungen nach EN 16034 sowie Baustoff- und Glasprüfungen. Als notifizierte Prüfstelle ist das ift im Rahmen der Produktzertifizierung zur CE-Kennzeichnung berechtigt.</ns2:contactDescriptionOrComment>
+        </ns2:dataSetInformation>
+    </ns2:contactInformation>
+    <ns2:administrativeInformation>
+        <ns2:dataEntryBy>
+            <timeStamp>2014-09-23T09:26:21.371+02:00</timeStamp>
+            <referenceToDataSetFormat type="source data set" refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" version="01.01.000" uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40_01.01.000.xml">
+                <shortDescription xml:lang="en">ILCD format</shortDescription>
+            </referenceToDataSetFormat>
+        </ns2:dataEntryBy>
+        <ns2:publicationAndOwnership>
+            <dataSetVersion>00.00.001</dataSetVersion>
+            <permanentDataSetURI>http://openlca.org/ilcd/resource/contacts/e4e77c13-c6e7-437a-8b76-826e43bb5a95</permanentDataSetURI>
+        </ns2:publicationAndOwnership>
+    </ns2:administrativeInformation>
+</ns2:contactDataSet>

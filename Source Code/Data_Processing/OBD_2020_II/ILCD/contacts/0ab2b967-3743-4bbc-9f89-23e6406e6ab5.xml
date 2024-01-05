@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>0ab2b967-3743-4bbc-9f89-23e6406e6ab5</common:UUID>
+                  <common:name xml:lang='de'>DURAVIT AG</common:name>
+                  <common:shortName xml:lang='de'>DURAVIT AG</common:shortName>
+                  <contactAddress xml:lang='de'>Werderstraße  36, 78132 Hornberg, Germany</contactAddress>
+                  <telephone>07833/ 70-0</telephone>
+                  <telefax>07833/ 70-289</telefax>
+                  <email>info@duravit.de</email>
+                  <WWWAddress>www.duravit.de </WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>28.09.2015</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

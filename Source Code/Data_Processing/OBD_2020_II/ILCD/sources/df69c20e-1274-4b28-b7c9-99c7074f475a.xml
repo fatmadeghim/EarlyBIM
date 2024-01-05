@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:sourceDataSet xmlns="http://lca.jrc.it/ILCD/Common" xmlns:ns2="http://lca.jrc.it/ILCD/Source" xmlns:ns3="http://lca.jrc.it/ILCD/Flow" xmlns:ns4="http://lca.jrc.it/ILCD/Contact" xmlns:ns5="http://lca.jrc.it/ILCD/FlowProperty" xmlns:ns6="http://lca.jrc.it/ILCD/Process" xmlns:ns7="http://lca.jrc.it/ILCD/UnitGroup" xmlns:ns8="http://lca.jrc.it/ILCD/Wrapper" version="1.1">
+    <ns2:sourceInformation>
+        <ns2:dataSetInformation>
+            <UUID>df69c20e-1274-4b28-b7c9-99c7074f475a</UUID>
+            <shortName xml:lang="en">Tabelle 3 - Umrechnungsfaktoren Geschützte Mauer - und Deckenziegel</shortName>
+            <ns2:classificationInformation>
+                <classification>
+                    <class level="0" classId="9d069bb5-0360-45bc-8b85-ed4b79c880e9">Images</class>
+                    <class level="1" classId="e2e14036-5fc4-4d7e-a85b-a6dfb97d1032">Initiative Ziegel Österreich - Dateninput</class>
+                </classification>
+            </ns2:classificationInformation>
+            <ns2:sourceDescriptionOrComment xml:lang="en"></ns2:sourceDescriptionOrComment>
+            <ns2:referenceToDigitalFile uri="Tabelle 3 - Umrechnungsfaktoren Geschützte Mauer- und Deckenziegel.jpg.png"/>
+        </ns2:dataSetInformation>
+    </ns2:sourceInformation>
+    <ns2:administrativeInformation>
+        <ns2:dataEntryBy>
+            <timeStamp>2015-07-09T17:58:03.806+02:00</timeStamp>
+            <referenceToDataSetFormat type="source data set" refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" version="01.01.000" uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40_01.01.000.xml">
+                <shortDescription xml:lang="en">ILCD format</shortDescription>
+            </referenceToDataSetFormat>
+        </ns2:dataEntryBy>
+        <ns2:publicationAndOwnership>
+            <dataSetVersion>00.00.001</dataSetVersion>
+            <permanentDataSetURI>http://openlca.org/ilcd/resource/sources/df69c20e-1274-4b28-b7c9-99c7074f475a</permanentDataSetURI>
+        </ns2:publicationAndOwnership>
+    </ns2:administrativeInformation>
+</ns2:sourceDataSet>

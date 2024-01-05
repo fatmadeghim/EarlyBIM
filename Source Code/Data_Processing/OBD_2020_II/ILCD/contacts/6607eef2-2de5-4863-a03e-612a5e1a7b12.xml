@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>6607eef2-2de5-4863-a03e-612a5e1a7b12</common:UUID>
+                  <common:name xml:lang='de'>KÖSTER BAUCHEMIE AG</common:name>
+                  <common:shortName xml:lang='de'>KÖSTER BAUCHEMIE AG</common:shortName>
+                  <contactAddress xml:lang='de'>Dieselstraße 1-10, 26607 Aurich, Germany</contactAddress>
+                  <telephone>+49 4941 9709-0</telephone>
+                  <telefax>+49 4941 9709-50</telefax>
+                  <email>info@koester.eu</email>
+                  <WWWAddress>www.koester.eu</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>08.03.2016</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

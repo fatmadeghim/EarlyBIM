@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>d6bb6100-c0b6-4892-9bb7-20127d85b172</common:UUID>
+                  <common:shortName xml:lang='de'>Verband für Dämmsysteme, Putz und Mörtel e.V.</common:shortName>
+                  <common:name xml:lang='de'>Verband für Dämmsysteme, Putz und Mörtel e.V.</common:name>
+                  <contactAddress xml:lang='de'>Reinhardtstraße 14, 10117 Berlin, Germany</contactAddress>
+                  <telephone>+49 (0)30 403670750</telephone>
+                  <telefax>+49 (0)30 403670759</telefax>
+                  <email>info@vdpm.info</email>
+                  <WWWAddress>www.vdpm.info</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>2020-08-04T10:30:46.1273187+02:00</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

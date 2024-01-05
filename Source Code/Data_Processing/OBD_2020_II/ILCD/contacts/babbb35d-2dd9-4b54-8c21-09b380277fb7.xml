@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>babbb35d-2dd9-4b54-8c21-09b380277fb7</common:UUID>
+                  <common:name xml:lang='de'>Peter Seppele Gesellschaft m.b.H.</common:name>
+                  <common:shortName xml:lang='de'>Peter Seppele Gesellschaft m.b.H.</common:shortName>
+                  <contactAddress xml:lang='de'>Bahnhofstraße 79, 9710 Feistritz/Drau, Austria</contactAddress>
+                  <telephone>+43 (0) 4245 6201</telephone>
+                  <telefax>+43 4245 6336</telefax>
+                  <email>office@thermofloc.com</email>
+                  <WWWAddress>https://www.thermofloc.at</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>09.03.2016</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        

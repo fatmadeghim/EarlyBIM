@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+            <?xml-stylesheet version='1.0' href='../../stylesheets/contact2html.xsl' type='text/xsl'?>
+            <contactDataSet xmlns='http://lca.jrc.it/ILCD/Contact' xmlns:common='http://lca.jrc.it/ILCD/Common' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://lca.jrc.it/ILCD/Contact ../../schemas/ILCD_ContactDataSet.xsd' version='1.1'>
+              <contactInformation>
+                <dataSetInformation>
+                  <common:UUID>278bc975-fc3a-4cc5-a269-1c15b4793132</common:UUID>
+                  <common:name xml:lang='de'>Fritz EGGER GmbH &amp; Co.OG</common:name>
+                  <common:shortName xml:lang='de'>Fritz EGGER GmbH &amp; Co.OG</common:shortName>
+                  <contactAddress xml:lang='de'>Weiberndorf 20, A-6380 St. Johann in Tirol, Austria</contactAddress>
+                  <telephone>+43 (0) 50 600-0</telephone>
+                  <telefax>+43 (0) 50 600-10111</telefax>
+                  <email>info-sjo@egger.com</email>
+                  <WWWAddress>http://www.egger.com</WWWAddress>
+                </dataSetInformation>
+              </contactInformation>
+              <administrativeInformation>
+                <dataEntryBy>
+                  <common:timeStamp>23.06.2015</common:timeStamp>
+                </dataEntryBy>
+                <publicationAndOwnership>
+                  <common:dataSetVersion>00.01.000</common:dataSetVersion>
+                </publicationAndOwnership>
+              </administrativeInformation>
+            </contactDataSet>
+        
