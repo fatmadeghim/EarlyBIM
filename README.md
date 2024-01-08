@@ -11,6 +11,10 @@ Please refer to the publication listed below for an extensive explanation of the
 # Related Publications
 * Schneider-Marin P, Stocker T, Abele O, et al. (2022) EarlyData knowledge base for material decisions in building design. Advanced Engineering Informatics 54: 101769
 DOI: [https://doi.org/10.1016/j.aei.2022.101769](https://doi.org/10.1016/j.aei.2022.101769)
+* Staudt, J., Margesin, M., Zong, C., Deghim, F., Lang, W., Zahedi, A., ... & Schneider-Marin, P. (2023). Life cycle potentials and improvement opportunities as guidance for early-stage design decisions. In ECPPM 2022-eWork and eBusiness in Architecture, Engineering and Construction 2022 (pp. 35-42). CRC Press.
+DOI: [https://doi.org/10.1016/j.aei.2022.101769](https://doi.org/10.1201/9781003354222-5)
+* Zong, C., Margesin, M., Staudt, J., Deghim, F., & Lang, W. (2022). Decision-making under uncertainty in the early phase of building façade design based on multi-objective stochastic optimization. Building and Environment, 226, 109729.
+DOI: [https://doi.org/10.1016/j.aei.2022.101769](https://doi.org/10.1016/j.buildenv.2022.109729)
 
 # Acknowledgements
 This research was funded by the Deutsche Forschungsgemeinschaft
