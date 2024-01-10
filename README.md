@@ -19,7 +19,8 @@ DOI: [https://doi.org/10.1016/j.aei.2022.101769](https://doi.org/10.1016/j.build
 # Acknowledgements
 This research was funded by the Deutsche Forschungsgemeinschaft
 (German Research Foundation, DFG) under grant FOR2363—project
-number: 271444440. 
+number: 271444440. \
+In addition, the authors would like to thank Baupreislexikon for providing the constructionrelated price data.
 
 # License
 
