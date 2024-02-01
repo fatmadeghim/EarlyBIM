@@ -23,5 +23,5 @@ number: 271444440. \
 In addition, the authors would like to thank Baupreislexikon for providing the constructionrelated price data.
 
 # License
-
+The EarlyBIM Knowledge Base is licensed under the [MIT License](https://github.com/fatmadeghim/EarlyBIM/blob/main/LICENSE).
 
