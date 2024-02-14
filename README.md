@@ -23,5 +23,6 @@ number: 271444440. \
 In addition, the authors would like to thank Baupreislexikon for providing the constructionrelated price data.
 
 # License
-The EarlyBIM Knowledge Base is licensed under the [MIT License](https://github.com/fatmadeghim/EarlyBIM/blob/main/LICENSE).
+All source code for the EarlyBIM Knowledge Base is licensed under the [MIT License](https://github.com/fatmadeghim/EarlyBIM/blob/main/LICENSE).
+Cost data included in the EarlyBIM Knowledge Base must not be used for commercial purposes but is provided for research purposes only.
 
